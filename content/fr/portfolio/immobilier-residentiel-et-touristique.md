@@ -8,7 +8,7 @@ hero_title: "Photographe Immobilier pour les Vente, Airbnb & Gîtes"
 hero_image: "/images/immobilier-residentiel/hero.webp"
 hero_alt: "Photographie immobilière d'un intérieur résidentiel à Paris, réalisée par Florian Fortier photographe immobilier en Île-de-France"
 galerie_alt: "Photographie immobilière résidentielle et touristique réalisée par Florian Fortier, photographe immobilier à Paris et en Île-de-France"
-image: "/images/immobilier-residentiel/hero.webp"
+image: "/images/immobilier-residentiel/hero.WEBP"
 projets_title: "Mes reportages de photographie immobilière"
 intro: |
   ## Reportage photographique pour l'immobilier résidentiel et touristique
