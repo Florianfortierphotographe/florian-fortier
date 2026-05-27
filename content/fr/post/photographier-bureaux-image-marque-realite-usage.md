@@ -2,7 +2,7 @@
 title: "Photographier des bureaux : entre image de marque et réalité d’usage"
 description: "La photographie de bureaux doit répondre à une double exigence : refléter l’image de marque de l’entreprise tout en montrant la réalité d’usage du lieu."
 date: 2026-05-22
-image: "/images/post/photographier-bureaux-image-marque-realite-usage.webp"
+image: "/images/post/photographier-bureaux-image-marque-realite-usage.WEBP"
 slug: "photographier-bureaux-image-marque-realite-usage"
 translationKey: "photographier-bureaux-image-marque-realite-usage"
 ---

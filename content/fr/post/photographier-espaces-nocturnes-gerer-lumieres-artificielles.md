@@ -2,7 +2,7 @@
 title: "Photographier les espaces nocturnes : gérer les lumières artificielles sans dénaturer l’ambiance"
 description: "Photographier un espace de nuit demande de la maîtrise. Découvrez comment gérer les lumières artificielles pour sublimer l'ambiance sans la dénaturer."
 date: 2025-12-20
-image: "/images/post/photographier-espaces-nocturnes-gerer-lumieres-artificielles.webp"
+image: "/images/post/photographier-espaces-nocturnes-gerer-lumieres-artificielles.WEBP"
 slug: "photographier-espaces-nocturnes-gerer-lumieres-artificielles"
 translationKey: "photographier-espaces-nocturnes-gerer-lumieres-artificielles"
 ---

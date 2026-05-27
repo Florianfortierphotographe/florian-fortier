@@ -2,7 +2,7 @@
 title: "La hauteur de prise de vue en photo d'architecture : Le secret des perspectives réussies"
 description: "Pourquoi photographier à hauteur d'homme est souvent une erreur ? Découvrez la règle du 1m20 pour des perspectives parfaites en architecture et immobilier."
 date: 2026-03-05
-image: "/images/post/hauteur-prise-de-vue-photo-immobilier-architecture.webp"
+image: "/images/post/hauteur-prise-de-vue-photo-immobilier-architecture.WEBP"
 slug: "hauteur-prise-de-vue-photo-immobilier-architecture"
 translationKey: "hauteur-prise-de-vue-photo-immobilier-architecture"
 ---

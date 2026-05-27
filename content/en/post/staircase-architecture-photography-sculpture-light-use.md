@@ -2,7 +2,7 @@
 title: "The Staircase in Architecture Photography: Between Sculpture, Light, and Use"
 description: "Much more than a simple passageway, the staircase is an architectural backbone. Discover how I highlight it in photography."
 date: 2026-02-28
-image: "/images/post/escalier-photographie-architecture-sculpture-lumiere-usage.webp"
+image: "/images/post/escalier-photographie-architecture-sculpture-lumiere-usage.WEBP"
 slug: "staircase-architecture-photography-sculpture-light-use"
 translationKey: "escalier-photographie-architecture-sculpture-lumiere-usage"
 ---

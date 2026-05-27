@@ -2,7 +2,7 @@
 title: "Photographie Retail : comment traduire le parcours client en images"
 description: "De la façade aux zones d'appel, découvrez comment une série photographique retail retranscrit l'expérience et le parcours client en magasin."
 date: 2026-03-22
-image: "/images/post/photographie-retail-traduire-parcours-client-images.webp"
+image: "/images/post/photographie-retail-traduire-parcours-client-images.WEBP"
 slug: "photographie-retail-traduire-parcours-client-images"
 translationKey: "photographie-retail-traduire-parcours-client-images"
 ---

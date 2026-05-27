@@ -2,7 +2,7 @@
 title: "Le style Haussmannien en photo : Sublimer le 'Parquet, Moulures, Cheminée' et les volumes parisiens"
 description: "Comment photographier le mythe parisien ? Découvrez mes techniques pour sublimer le charme de l'ancien : parquet, moulures, cheminée et enfilades."
 date: 2026-02-15
-image: "/images/post/photographier-appartement-haussmannien-paris.webp"
+image: "/images/post/photographier-appartement-haussmannien-paris.WEBP"
 slug: "photographier-appartement-haussmannien-paris"
 translationKey: "photographier-appartement-haussmannien-paris"
 ---

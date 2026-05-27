@@ -2,7 +2,7 @@
 title: "Pourquoi faire photographier ses boutiques est essentiel pour une marque ?"
 description: "Photographier ses points de vente permet de prolonger l’expérience client et de construire une image de marque cohérente. Découvrez pourquoi c'est essentiel."
 date: 2026-02-14
-image: "/images/post/photographier-boutiques-importance-strategique-marque.webp"
+image: "/images/post/photographier-boutiques-importance-strategique-marque.WEBP"
 slug: "photographier-boutiques-importance-strategique-marque"
 translationKey: "photographier-boutiques-importance-strategique-marque"
 ---

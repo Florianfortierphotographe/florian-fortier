@@ -2,7 +2,7 @@
 title: "Photographier les commerces de proximité : valoriser le savoir-faire et l’ambiance du lieu"
 description: "Une série d’images soignée renforce la visibilité d'un commerce local. Découvrez comment valoriser l'ambiance et le savoir-faire de votre boutique."
 date: 2026-03-30
-image: "/images/post/photographier-commerces-de-proximite.webp"
+image: "/images/post/photographier-commerces-de-proximite.WEBP"
 slug: "photographier-commerces-de-proximite"
 translationKey: "photographier-commerces-de-proximite"
 ---

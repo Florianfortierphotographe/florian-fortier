@@ -2,7 +2,7 @@
 title: "Photographier un intérieur habité : comment conserver l’authenticité du lieu"
 description: "Photographier un intérieur déjà habité demande une approche sensible. Découvrez comment révéler l'âme d'un lieu sans le dénaturer."
 date: 2026-01-18
-image: "/images/post/photographier-interieur-habite-authenticite.webp"
+image: "/images/post/photographier-interieur-habite-authenticite.WEBP"
 slug: "photographier-interieur-habite-authenticite"
 translationKey: "photographier-interieur-habite-authenticite"
 ---

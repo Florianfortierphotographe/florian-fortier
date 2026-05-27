@@ -2,7 +2,7 @@
 title: "Google Business and Retail: The Importance of Professional Photography"
 description: "Discover why Google Business has become the primary digital storefront for your retail space and how professional photography directly influences foot traffic."
 date: 2026-05-21
-image: "/images/post/google-business-retail-photos-professionnelles.webp"
+image: "/images/post/google-business-retail-photos-professionnelles.WEBP"
 slug: "google-business-retail-professional-photos"
 translationKey: "google-business-retail-photos-professionnelles"
 ---

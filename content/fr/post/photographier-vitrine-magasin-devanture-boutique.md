@@ -2,7 +2,7 @@
 title: "La Vitrine de magasin : Comment réussir la photo de votre premier point de contact ?"
 description: "Reflets, lumière, cadrage : découvrez comment photographier et sublimer la vitrine de votre boutique, votre premier atout marketing."
 date: 2026-02-18
-image: "/images/post/photographier-vitrine-magasin-devanture-boutique.webp"
+image: "/images/post/photographier-vitrine-magasin-devanture-boutique.WEBP"
 slug: "photographier-vitrine-magasin-devanture-boutique"
 translationKey: "photographier-vitrine-magasin-devanture-boutique"
 ---

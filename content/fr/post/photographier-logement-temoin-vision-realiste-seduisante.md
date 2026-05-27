@@ -2,7 +2,7 @@
 title: "Photographier un logement témoin : comment je crée une vision réaliste et séduisante du futur espace"
 description: "Le logement témoin est essentiel pour vendre un programme neuf. Découvrez comment je crée une vision réaliste et séduisante pour projeter les acheteurs."
 date: 2026-02-10
-image: "/images/post/photographier-logement-temoin-vision-realiste-seduisante.webp"
+image: "/images/post/photographier-logement-temoin-vision-realiste-seduisante.WEBP"
 slug: "photographier-logement-temoin-vision-realiste-seduisante"
 translationKey: "photographier-logement-temoin-vision-realiste-seduisante"
 ---

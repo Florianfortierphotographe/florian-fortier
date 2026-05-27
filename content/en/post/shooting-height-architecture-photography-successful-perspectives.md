@@ -2,7 +2,7 @@
 title: "Shooting Height in Architecture Photography: The Secret to Successful Perspectives"
 description: "Why is photographing at eye level often a mistake? Discover the 1m20 rule for perfect perspectives in architecture and real estate."
 date: 2026-03-05
-image: "/images/post/hauteur-prise-de-vue-photo-immobilier-architecture.webp"
+image: "/images/post/hauteur-prise-de-vue-photo-immobilier-architecture.WEBP"
 slug: "shooting-height-architecture-photography-successful-perspectives"
 translationKey: "hauteur-prise-de-vue-photo-immobilier-architecture"
 ---

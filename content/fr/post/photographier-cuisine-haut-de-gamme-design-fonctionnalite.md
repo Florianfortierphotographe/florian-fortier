@@ -2,7 +2,7 @@
 title: "Photographier une cuisine haut de gamme : montrer à la fois le design et la fonctionnalité"
 description: "Photographier une cuisine premium demande une approche précise. Découvrez comment je mets en valeur les matériaux nobles, les lignes et l'ergonomie."
 date: 2026-01-18
-image: "/images/post/photographier-cuisine-haut-de-gamme-design-fonctionnalite.webp"
+image: "/images/post/photographier-cuisine-haut-de-gamme-design-fonctionnalite.WEBP"
 slug: "photographier-cuisine-haut-de-gamme-design-fonctionnalite"
 translationKey: "photographier-cuisine-haut-de-gamme-design-fonctionnalite"
 ---

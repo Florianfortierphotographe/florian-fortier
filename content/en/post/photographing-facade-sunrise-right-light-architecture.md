@@ -2,7 +2,7 @@
 title: "Photographing a Facade at Sunrise: Capturing the Right Light at the Right Time"
 description: "Morning light perfectly reveals volumes and materials. Discover why shooting at sunrise is a key strategy in architectural photography."
 date: 2026-03-25
-image: "/images/post/photographier-facade-lever-du-soleil-lumiere-architecture.webp"
+image: "/images/post/photographier-facade-lever-du-soleil-lumiere-architecture.WEBP"
 slug: "photographing-facade-sunrise-right-light-architecture"
 translationKey: "photographier-facade-lever-du-soleil-lumiere-architecture"
 ---

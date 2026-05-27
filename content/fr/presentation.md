@@ -2,7 +2,7 @@
 title: "Présentation"
 layout: "presentation"
 translationKey: "presentation"
-photo: "/images/presentation.webp"
+photo: "/images/presentation.WEBP"
 ---
 
 Basé à Rambouillet (Yvelines) et intervenant dans toute l'Île-de-France, je suis photographe professionnel spécialisé dans l'architecture, l'immobilier et le reportage.

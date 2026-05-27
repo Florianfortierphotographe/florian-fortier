@@ -2,7 +2,7 @@
 title: "The Impact of a Tilt-Shift Lens in an Architecture Photography Series"
 description: "Discover why the tilt-shift lens is an absolute must-have in architectural photography for straightening lines and ensuring a flawless professional result."
 date: 2026-05-10
-image: "/images/post/impact-objectif-tilt-shift-serie-architecture.webp"
+image: "/images/post/impact-objectif-tilt-shift-serie-architecture.WEBP"
 slug: "impact-tilt-shift-lens-architecture-photography"
 translationKey: "impact-objectif-tilt-shift-serie-architecture"
 ---

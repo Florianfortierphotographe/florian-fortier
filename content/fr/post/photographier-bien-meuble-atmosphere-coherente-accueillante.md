@@ -2,7 +2,7 @@
 title: "Optimiser la prise de vue d’un bien meublé : créer une atmosphère cohérente et accueillante"
 description: "Photographier un bien meublé demande du soin et du détail. Découvrez comment révéler une ambiance chaleureuse pour séduire les futurs occupants."
 date: 2026-04-11
-image: "/images/post/photographier-bien-meuble-atmosphere-coherente-accueillante.webp"
+image: "/images/post/photographier-bien-meuble-atmosphere-coherente-accueillante.WEBP"
 slug: "photographier-bien-meuble-atmosphere-coherente-accueillante"
 translationKey: "photographier-bien-meuble-atmosphere-coherente-accueillante"
 ---

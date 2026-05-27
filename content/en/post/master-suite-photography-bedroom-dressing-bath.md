@@ -2,7 +2,7 @@
 title: "The Master Suite: How to Photograph This Major Real Estate Asset?"
 description: "Bedroom, walk-in closet, bathroom: discover how to photograph and enhance the master suite, the ultimate 'crush' trigger in real estate."
 date: 2026-03-22
-image: "/images/post/photographier-suite-parentale-chambre-dressing-bain.webp"
+image: "/images/post/photographier-suite-parentale-chambre-dressing-bain.WEBP"
 slug: "master-suite-photography-bedroom-dressing-bath"
 translationKey: "photographier-suite-parentale-chambre-dressing-bain"
 ---

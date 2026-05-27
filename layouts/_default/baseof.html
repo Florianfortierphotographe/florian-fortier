@@ -32,7 +32,7 @@
     {{ $ogImage = . | absURL }}
   {{ end }}
   {{ if and .IsHome (eq $ogImage "") }}
-    {{ $ogImage = "images/hero-1.webp" | absURL }}
+    {{ $ogImage = "images/hero-1.WEBP" | absURL }}
   {{ end }}
 
   <title>{{ $pageTitle }}</title>

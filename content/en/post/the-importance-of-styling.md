@@ -2,7 +2,7 @@
 title: "The Importance of Styling in Photography"
 description: "Styling is essential to highlight the qualities of a space and bring a room to life in architecture and interior photography."
 date: 2026-05-14
-image: "/images/post/l-importance-du-stylisme.webp"
+image: "/images/post/l-importance-du-stylisme.WEBP"
 slug: "the-importance-of-styling"
 translationKey: "l-importance-du-stylisme"
 ---

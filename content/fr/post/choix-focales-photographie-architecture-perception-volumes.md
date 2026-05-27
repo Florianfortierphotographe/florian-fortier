@@ -2,7 +2,7 @@
 title: "Choix des focales en photographie d’architecture : impact sur la perception des volumes"
 description: "Grand angle ou focale standard ? Découvrez comment le choix de l'objectif modifie la perception de l'espace en photographie immobilière et d'architecture."
 date: 2026-04-18
-image: "/images/post/choix-focales-photographie-architecture-perception-volumes.webp"
+image: "/images/post/choix-focales-photographie-architecture-perception-volumes.WEBP"
 slug: "choix-focales-photographie-architecture-perception-volumes"
 translationKey: "choix-focales-photographie-architecture-perception-volumes"
 ---

@@ -2,7 +2,7 @@
 title: "Architecture industrielle : Sublimer l'esthétique des entrepôts et centres logistiques"
 description: "Les bâtiments logistiques possèdent une esthétique forte. Découvrez comment la photographie d'architecture sublime le gigantisme et les lignes de ces espaces."
 date: 2026-05-02
-image: "/images/post/architecture-industrielle-sublimer-entrepots-logistique.webp"
+image: "/images/post/architecture-industrielle-sublimer-entrepots-logistique.WEBP"
 slug: "architecture-industrielle-sublimer-entrepots-logistique"
 translationKey: "architecture-industrielle-sublimer-entrepots-logistique"
 ---

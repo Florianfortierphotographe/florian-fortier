@@ -2,7 +2,7 @@
 title: "The Power of Interior Decoration Photography"
 description: "Interior design is a complex art. Learn why professional photography is essential to promote your work and showcase your design projects."
 date: 2026-05-14
-image: "/images/post/la-photographie-de-décoration-d-intérieur.webp"
+image: "/images/post/la-photographie-de-décoration-d-intérieur.WEBP"
 slug: "interior-decoration-photography"
 translationKey: "la-photographie-de-décoration-d-intérieur"
 ---

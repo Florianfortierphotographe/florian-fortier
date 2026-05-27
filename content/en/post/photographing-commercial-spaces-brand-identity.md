@@ -2,7 +2,7 @@
 title: "Photographing Commercial Spaces: Highlighting Brand Identity"
 description: "Photographing a commercial space is much more than capturing a location: it's telling the story of a brand through its visual universe."
 date: 2026-01-22
-image: "/images/post/photographier-espaces-commerciaux-identite-marque.webp"
+image: "/images/post/photographier-espaces-commerciaux-identite-marque.WEBP"
 slug: "photographing-commercial-spaces-brand-identity"
 translationKey: "photographier-espaces-commerciaux-identite-marque"
 ---

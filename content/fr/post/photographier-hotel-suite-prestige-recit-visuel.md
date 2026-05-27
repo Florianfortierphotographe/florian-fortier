@@ -2,7 +2,7 @@
 title: "Photographier un hôtel ou une suite de prestige : construire un récit visuel cohérent"
 description: "Photographier un hôtel haut de gamme demande une narration visuelle forte. Découvrez comment je révèle l'atmosphère et l'expérience client d'un lieu d'exception."
 date: 2026-01-11
-image: "/images/post/photographier-hotel-suite-prestige-recit-visuel.webp"
+image: "/images/post/photographier-hotel-suite-prestige-recit-visuel.WEBP"
 slug: "photographier-hotel-suite-prestige-recit-visuel"
 translationKey: "photographier-hotel-suite-prestige-recit-visuel"
 ---

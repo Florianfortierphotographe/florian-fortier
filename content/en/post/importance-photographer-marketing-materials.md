@@ -2,7 +2,7 @@
 title: "The Importance of the Photographer in Marketing Materials"
 description: "The quality of photos in a communication campaign directly influences brand credibility. Discover the added value of a professional photographer."
 date: 2025-12-18
-image: "/images/post/importance-photographe-supports-marketing.webp"
+image: "/images/post/importance-photographe-supports-marketing.WEBP"
 slug: "importance-photographer-marketing-materials"
 translationKey: "importance-photographe-supports-marketing"
 ---

@@ -2,7 +2,7 @@
 title: "Ma méthode pour photographier une boutique ou un commerce en activité"
 description: "Photographier un commerce en activité requiert méthode et discrétion. Découvrez comment je valorise votre boutique sans perturber l'expérience client."
 date: 2026-03-25
-image: "/images/post/methode-pour-photographier-boutique-commerce-en-activite.webp"
+image: "/images/post/methode-pour-photographier-boutique-commerce-en-activite.WEBP"
 slug: "methode-pour-photographier-boutique-commerce-en-activite"
 translationKey: "methode-pour-photographier-boutique-commerce-en-activite"
 ---

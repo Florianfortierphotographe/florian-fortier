@@ -2,7 +2,7 @@
 title: "Photographier une architecture ancienne rénovée : retranscrire l’équilibre entre patrimoine et modernité"
 description: "Révélez le dialogue subtil entre patrimoine historique et rénovation contemporaine. Découvrez mon approche pour photographier les réhabilitations."
 date: 2026-02-18
-image: "/images/post/photographier-architecture-ancienne-renovee-equilibre-patrimoine-modernite.webp"
+image: "/images/post/photographier-architecture-ancienne-renovee-equilibre-patrimoine-modernite.WEBP"
 slug: "photographier-architecture-ancienne-renovee-equilibre-patrimoine-modernite"
 translationKey: "photographier-architecture-ancienne-renovee-equilibre-patrimoine-modernite"
 ---

@@ -2,7 +2,7 @@
 title: "Avant / Après rénovation d’un magasin : pourquoi documenter la transformation"
 description: "Rénover un point de vente est un investissement stratégique. Découvrez pourquoi photographier l'avant/après est un levier marketing et de communication incontournable."
 date: 2026-05-18
-image: "/images/post/avant-apres-renovation-magasin-photographie-retail.webp"
+image: "/images/post/avant-apres-renovation-magasin-photographie-retail.WEBP"
 slug: "avant-apres-renovation-magasin-photographie-retail"
 translationKey: "avant-apres-renovation-magasin-photographie-retail"
 ---

@@ -2,7 +2,7 @@
 title: "Photography for Real Estate Developments"
 description: "Photography is a key element in promoting real estate developments. Discover how a professional photo shoot enhances your construction projects."
 date: 2026-02-05
-image: "/images/post/des-photos-sur-un-programme-immobilier.webp"
+image: "/images/post/des-photos-sur-un-programme-immobilier.WEBP"
 slug: "photography-real-estate-developments"
 translationKey: "des-photos-sur-un-programme-immobilier"
 ---

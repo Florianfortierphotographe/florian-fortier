@@ -2,7 +2,7 @@
 title: "Photographie d’architecture : pourquoi le contexte compte autant que le bâtiment"
 description: "Un bâtiment n'est jamais isolé. Découvrez pourquoi l'environnement et l'intégration paysagère sont cruciaux en photographie d'architecture."
 date: 2026-04-25
-image: "/images/post/photographie-architecture-importance-contexte-environnement-batiment.webp"
+image: "/images/post/photographie-architecture-importance-contexte-environnement-batiment.WEBP"
 slug: "photographie-architecture-importance-contexte-environnement-batiment"
 translationKey: "photographie-architecture-importance-contexte-environnement-batiment"
 ---

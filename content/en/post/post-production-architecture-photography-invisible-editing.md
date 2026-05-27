@@ -2,7 +2,7 @@
 title: "The Invisible Serving the Real: Why Post-Production is the Essence of Architecture Photography"
 description: "The RAW file is just a musical score. Learn why post-production is essential to restore reality in architectural photography."
 date: 2026-02-05
-image: "/images/post/post-production-photographie-architecture-retouche-invisible-naturelle.webp"
+image: "/images/post/post-production-photographie-architecture-retouche-invisible-naturelle.WEBP"
 slug: "post-production-architecture-photography-invisible-editing"
 translationKey: "post-production-photographie-architecture-retouche-invisible-naturelle"
 ---

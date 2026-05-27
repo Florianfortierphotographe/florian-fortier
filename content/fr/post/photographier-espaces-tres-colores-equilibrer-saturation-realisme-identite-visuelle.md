@@ -2,7 +2,7 @@
 title: "Photographier des espaces très colorés : comment j’équilibre saturation, réalisme et identité visuelle ?"
 description: "Les couleurs intenses demandent une maîtrise rigoureuse de la lumière. Découvrez comment je photographie les espaces colorés sans dénaturer la décoration."
 date: 2026-01-22
-image: "/images/post/photographier-espaces-tres-colores-equilibrer-saturation-realisme-identite-visuelle.webp"
+image: "/images/post/photographier-espaces-tres-colores-equilibrer-saturation-realisme-identite-visuelle.WEBP"
 slug: "photographier-espaces-tres-colores-equilibrer-saturation-realisme-identite-visuelle"
 translationKey: "photographier-espaces-tres-colores-equilibrer-saturation-realisme-identite-visuelle"
 ---

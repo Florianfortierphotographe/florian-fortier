@@ -2,7 +2,7 @@
 title: "Professional Photography vs. 3D Virtual Tour: Complementary, Not Substitutes"
 description: "Can a 3D virtual tour replace professional photography? Discover why these two tools serve different purposes and how they complement each other perfectly."
 date: 2026-03-12
-image: "/images/post/photo-professionnelle-vs-visite-virtuelle-3d-complementarite.webp"
+image: "/images/post/photo-professionnelle-vs-visite-virtuelle-3d-complementarite.WEBP"
 slug: "professional-photo-vs-3d-virtual-tour-complementary"
 translationKey: "photo-professionnelle-vs-visite-virtuelle-3d-complementarite"
 ---

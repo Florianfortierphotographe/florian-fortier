@@ -2,7 +2,7 @@
 title: "New vs. Old Real Estate: What are the Differences in Photography?"
 description: "From new developments to historical apartments, discover why each type of real estate requires a radically different photographic approach."
 date: 2026-03-25
-image: "/images/post/immobilier-neuf-vs-ancien-differences-photographie.webp"
+image: "/images/post/immobilier-neuf-vs-ancien-differences-photographie.WEBP"
 slug: "differences-new-vs-old-real-estate-photography"
 translationKey: "difference-photo-immobiliere-photo-architecture"
 ---

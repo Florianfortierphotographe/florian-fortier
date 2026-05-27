@@ -2,7 +2,7 @@
 title: "Photographier les espaces commerciaux : mettre en valeur l’identité d’une marque"
 description: "Photographier un espace commercial, c’est bien plus que capturer un lieu : c’est raconter une marque à travers son univers visuel."
 date: 2026-01-15
-image: "/images/post/photographier-espaces-commerciaux-identite-marque.webp"
+image: "/images/post/photographier-espaces-commerciaux-identite-marque.WEBP"
 slug: "photographier-espaces-commerciaux-identite-marque"
 translationKey: "photographier-espaces-commerciaux-identite-marque"
 ---

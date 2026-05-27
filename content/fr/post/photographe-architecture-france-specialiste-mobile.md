@@ -2,7 +2,7 @@
 title: "Photographe architecture en France : pourquoi faire appel à un spécialiste mobile ?"
 description: "Découvrez pourquoi faire appel à un photographe d'architecture mobile en France garantit une cohérence visuelle pour tous vos projets immobiliers."
 date: 2026-04-10
-image: "/images/post/photographe-architecture-france-specialiste-mobile.webp"
+image: "/images/post/photographe-architecture-france-specialiste-mobile.WEBP"
 slug: "photographe-architecture-france-specialiste-mobile"
 translationKey: "photographe-architecture-france-specialiste-mobile"
 ---

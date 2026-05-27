@@ -2,7 +2,7 @@
 title: "Construire une série cohérente en photographie d’architecture"
 description: "Créer une série photographique cohérente est essentiel pour raconter un projet architectural dans toute sa richesse et transmettre son atmosphère."
 date: 2025-12-28
-image: "/images/post/serie-coherente-photographie-architecture.webp"
+image: "/images/post/serie-coherente-photographie-architecture.WEBP"
 slug: "serie-coherente-photographie-architecture"
 translationKey: "serie-coherente-photographie-architecture"
 ---

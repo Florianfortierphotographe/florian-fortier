@@ -2,7 +2,7 @@
 title: "Preparing for a Real Estate Shoot: The Complete Checklist to Enhance Your Interior"
 description: "The camera forgives no clutter. Follow this essential checklist to prepare your property before the real estate photographer arrives."
 date: 2026-03-05
-image: "/images/post/preparer-interieur-shooting-immobilier-checklist-conseils.webp"
+image: "/images/post/preparer-interieur-shooting-immobilier-checklist-conseils.WEBP"
 slug: "preparing-real-estate-shoot-complete-checklist"
 translationKey: "preparer-interieur-shooting-immobilier-checklist-conseils"
 ---

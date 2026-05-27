@@ -2,7 +2,7 @@
 title: "Photographing Renovated Historical Architecture: Translating the Balance Between Heritage and Modernity"
 description: "Reveal the subtle dialogue between historical heritage and contemporary renovation. Discover my approach to photographing architectural rehabilitations."
 date: 2026-02-25
-image: "/images/post/photographier-architecture-ancienne-renovee-equilibre-patrimoine-modernite.webp"
+image: "/images/post/photographier-architecture-ancienne-renovee-equilibre-patrimoine-modernite.WEBP"
 slug: "photographing-renovated-historical-architecture-heritage-modernity"
 translationKey: "photographier-architecture-ancienne-renovee-equilibre-patrimoine-modernite"
 ---

@@ -2,7 +2,7 @@
 title: "Bracketing d’exposition en architecture : quand est-il réellement nécessaire ?"
 description: "Le bracketing n'est pas une solution universelle. Découvrez quand cette technique d'exposition est justifiée en photo d'architecture, et quand l'éviter."
 date: 2026-03-10
-image: "/images/post/bracketing-exposition-photographie-architecture.webp"
+image: "/images/post/bracketing-exposition-photographie-architecture.WEBP"
 slug: "bracketing-exposition-photographie-architecture"
 translationKey: "bracketing-exposition-photographie-architecture"
 ---

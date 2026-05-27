@@ -2,7 +2,7 @@
 title: "Coworking & Espaces Partagés : Comment je photographie les espaces de travail"
 description: "Les espaces de coworking adoptent aujourd'hui les codes de l'hôtellerie. Découvrez comment je sublime leur design pour attirer de nouveaux membres."
 date: 2026-04-05
-image: "/images/post/coworking-espaces-partages-photographier-espaces-travail.webp"
+image: "/images/post/coworking-espaces-partages-photographier-espaces-travail.WEBP"
 slug: "coworking-espaces-partages-photographier-espaces-travail"
 translationKey: "coworking-espaces-partages-photographier-espaces-travail"
 ---

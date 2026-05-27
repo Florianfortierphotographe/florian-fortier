@@ -2,7 +2,7 @@
 title: "Why Architecture Photography Cannot Be Standardized"
 description: "Every building is unique. Discover why the industrialization of photography destroys the singularity and architectural intent of a project."
 date: 2026-03-28
-image: "/images/post/photographie-architecture-non-standardisable.webp"
+image: "/images/post/photographie-architecture-non-standardisable.WEBP"
 slug: "architecture-photography-cannot-be-standardized"
 translationKey: "photographie-architecture-non-standardisable"
 ---

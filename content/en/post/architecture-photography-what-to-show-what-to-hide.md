@@ -2,7 +2,7 @@
 title: "Architecture and Photography: What the Image Must Show... and What it Must Deliberately Hide"
 description: "In architecture photography, framing means choosing. Discover why excluding certain elements from the frame strengthens a project's readability."
 date: 2026-04-12
-image: "/images/post/photographie-architecture-montrer-taire-intention.webp"
+image: "/images/post/photographie-architecture-montrer-taire-intention.WEBP"
 slug: "architecture-photography-what-to-show-what-to-hide"
 translationKey: "photographie-architecture-montrer-taire-intention"
 ---

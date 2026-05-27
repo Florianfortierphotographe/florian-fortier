@@ -2,7 +2,7 @@
 title: "Photographier les façades : révéler l’identité architecturale d’un bâtiment"
 description: "La façade incarne l’identité d’un bâtiment. Découvrez mon approche de photographe pour traduire ses lignes, ses matières et son environnement."
 date: 2026-02-17
-image: "/images/post/photographier-facades-identite-architecturale.webp"
+image: "/images/post/photographier-facades-identite-architecturale.WEBP"
 slug: "photographier-facades-identite-architecturale"
 translationKey: "photographier-facades-identite-architecturale"
 ---

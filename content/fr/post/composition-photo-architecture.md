@@ -2,7 +2,7 @@
 title: "Les secrets d’une bonne composition en photo d’architecture"
 description: "La composition constitue la structure même d’une image : elle organise les lignes, équilibre les volumes et crée un chemin visuel clair."
 date: 2026-02-10
-image: "/images/post/composition-photo-architecture.webp"
+image: "/images/post/composition-photo-architecture.WEBP"
 slug: "composition-photo-architecture"
 translationKey: "composition-photo-architecture"
 ---

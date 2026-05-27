@@ -2,7 +2,7 @@
 title: "Organizing an Architecture Shoot: My Method for Guaranteeing a Coherent Result"
 description: "An architectural photo shoot requires meticulous preparation. Discover my workflow for delivering aesthetic, reliable, and highly professional reportages."
 date: 2026-03-15
-image: "/images/post/organiser-shooting-architecture-methode-resultat-professionnel.webp"
+image: "/images/post/organiser-shooting-architecture-methode-resultat-professionnel.WEBP"
 slug: "organizing-architecture-shoot-method-professional-result"
 translationKey: "organiser-shooting-architecture-methode-resultat-professionnel"
 ---

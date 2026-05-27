@@ -2,7 +2,7 @@
 title: "Immobilier : Pourquoi le printemps est la saison reine pour vos photos de vente"
 description: "Ne laissez pas une annonce avec des visuels hivernaux ! Découvrez pourquoi le printemps est la saison idéale pour relancer l'attractivité d'un bien."
 date: 2026-04-18
-image: "/images/post/immobilier-printemps-meilleure-saison-photo.webp"
+image: "/images/post/immobilier-printemps-meilleure-saison-photo.WEBP"
 slug: "immobilier-printemps-meilleure-saison-photo"
 translationKey: "immobilier-printemps-meilleure-saison-photo"
 ---

@@ -2,7 +2,7 @@
 title: "La Suite Parentale : Comment photographier cet atout majeur de l'immobilier ?"
 description: "Chambre, dressing, salle de bain : découvrez comment photographier et mettre en valeur la suite parentale, le 'Coup de Cœur' de l'immobilier."
 date: 2026-03-22
-image: "/images/post/photographier-suite-parentale-chambre-dressing-bain.webp"
+image: "/images/post/photographier-suite-parentale-chambre-dressing-bain.WEBP"
 slug: "photographier-suite-parentale-chambre-dressing-bain"
 translationKey: "photographier-suite-parentale-chambre-dressing-bain"
 ---

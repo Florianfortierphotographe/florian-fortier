@@ -2,7 +2,7 @@
 title: "Architecture minimaliste : retranscrire la pureté des lignes en image"
 description: "L’architecture minimaliste demande une approche photographique sobre et précise. Découvrez comment capturer l’essentiel : lignes, lumière et équilibre."
 date: 2026-04-28
-image: "/images/post/architecture-minimaliste-purete-des-lignes-en-image.webp"
+image: "/images/post/architecture-minimaliste-purete-des-lignes-en-image.WEBP"
 slug: "architecture-minimaliste-purete-des-lignes-en-image"
 translationKey: "architecture-minimaliste-purete-des-lignes-en-image"
 ---

@@ -2,7 +2,7 @@
 title: "Before & After Store Renovation: Why Document the Transformation?"
 description: "Renovating a retail space is a strategic investment. Discover why photographing the before/after is an essential marketing and communication tool."
 date: 2026-05-18
-image: "/images/post/avant-apres-renovation-magasin-photographie-retail.webp"
+image: "/images/post/avant-apres-renovation-magasin-photographie-retail.WEBP"
 slug: "before-after-store-renovation-retail-photography"
 translationKey: "avant-apres-renovation-magasin-photographie-retail"
 ---

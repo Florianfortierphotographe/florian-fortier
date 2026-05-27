@@ -2,7 +2,7 @@
 title: "Les détails décoratifs : comment je construis des images qui font ressortir le style d’un designer"
 description: "Découvrez comment je valorise le style d'un architecte d'intérieur à travers la photographie des détails, des matériaux et des textures."
 date: 2026-04-12
-image: "/images/post/details-decoratifs-style-designer.webp"
+image: "/images/post/details-decoratifs-style-designer.WEBP"
 slug: "details-decoratifs-style-designer"
 translationKey: « details-decoratifs-style-designer"
 ---

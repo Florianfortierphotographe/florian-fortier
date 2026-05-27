@@ -2,7 +2,7 @@
 title: "Photographe architecture pour promoteurs immobiliers en France : un levier stratégique pour commercialiser plus vite"
 description: "Vendez vos programmes neufs plus rapidement. Découvrez pourquoi les promoteurs immobiliers doivent investir dans une photographie d'architecture cohérente."
 date: 2026-04-15
-image: "/images/post/photographe-architecture-promoteurs-immobiliers-france.webp"
+image: "/images/post/photographe-architecture-promoteurs-immobiliers-france.WEBP"
 slug: "photographe-architecture-promoteurs-immobiliers-france"
 translationKey: "photographe-architecture-promoteurs-immobiliers-france"
 ---

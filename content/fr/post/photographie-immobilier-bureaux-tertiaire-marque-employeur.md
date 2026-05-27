@@ -2,7 +2,7 @@
 title: "Photographie d'immobilier tertiaire : Valoriser l'espace de travail et l'image de marque"
 description: "Vendez plus que des mètres carrés. Découvrez comment la photographie tertiaire sublime la marque employeur et la culture d'entreprise de vos bureaux."
 date: 2026-04-15
-image: "/images/post/photographie-immobilier-bureaux-tertiaire-marque-employeur.webp"
+image: "/images/post/photographie-immobilier-bureaux-tertiaire-marque-employeur.WEBP"
 slug: "photographie-immobilier-bureaux-tertiaire-marque-employeur"
 translationKey: "photographie-immobilier-bureaux-tertiaire-marque-employeur"
 ---

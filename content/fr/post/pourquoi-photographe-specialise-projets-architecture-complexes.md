@@ -2,7 +2,7 @@
 title: "Pourquoi un photographe spécialisé fait la différence sur des projets complexes"
 description: "Délais, lumières mixtes, volumes atypiques : découvrez pourquoi l'expertise d'un photographe spécialisé est indispensable sur les projets complexes."
 date: 2026-04-18
-image: "/images/post/pourquoi-photographe-specialise-projets-architecture-complexes.webp"
+image: "/images/post/pourquoi-photographe-specialise-projets-architecture-complexes.WEBP"
 slug: "pourquoi-photographe-specialise-projets-architecture-complexes"
 translationKey: "pourquoi-photographe-specialise-projets-architecture-complexes"
 ---

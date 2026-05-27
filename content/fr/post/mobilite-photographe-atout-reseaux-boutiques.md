@@ -2,7 +2,7 @@
 title: "Photographier des boutiques en France : pourquoi la mobilité est un atout pour les enseignes"
 description: "Disposer d’images cohérentes pour un réseau de boutiques est essentiel. Découvrez comment la mobilité du photographe garantit une identité visuelle forte."
 date: 2026-03-08
-image: "/images/post/photographier-boutiques-importance-strategique-marque.webp"
+image: "/images/post/photographier-boutiques-importance-strategique-marque.WEBP"
 slug: "mobilite-photographe-atout-reseaux-boutiques"
 translationKey: "mobilite-photographe-atout-reseaux-boutiques"
 ---

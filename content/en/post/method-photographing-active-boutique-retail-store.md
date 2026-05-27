@@ -2,7 +2,7 @@
 title: "My Method for Photographing an Active Boutique or Retail Store"
 description: "Photographing an active store requires method and discretion. Discover how I highlight your boutique without disrupting the customer experience."
 date: 2026-03-28
-image: "/images/post/methode-pour-photographier-boutique-commerce-en-activite.webp"
+image: "/images/post/methode-pour-photographier-boutique-commerce-en-activite.WEBP"
 slug: "method-photographing-active-boutique-retail-store"
 translationKey: "methode-pour-photographier-boutique-commerce-en-activite"
 ---

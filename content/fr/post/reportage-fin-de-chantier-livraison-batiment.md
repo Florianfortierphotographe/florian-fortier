@@ -2,7 +2,7 @@
 title: "Le reportage de fin de chantier : un outil essentiel pour documenter la livraison d’un bâtiment"
 description: "Le reportage de fin de chantier permet de figer la qualité d'un projet et de créer une documentation visuelle valorisante. Découvrez mon approche."
 date: 2026-04-14
-image: "/images/post/reportage-fin-de-chantier-livraison-batiment.webp"
+image: "/images/post/reportage-fin-de-chantier-livraison-batiment.WEBP"
 slug: "reportage-fin-de-chantier-livraison-batiment"
 translationKey: "reportage-fin-de-chantier-livraison-batiment"
 ---

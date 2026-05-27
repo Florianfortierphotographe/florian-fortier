@@ -2,7 +2,7 @@
 title: "Lumières éteintes ou allumées ? Pourquoi privilégier la lumière naturelle en photo d'architecture"
 description: "Découvrez pourquoi allumer les lumières en plein jour assombrit vos photos d'intérieur et dénature les couleurs en photographie immobilière."
 date: 2026-04-10
-image: "/images/post/lumiere-naturelle-vs-artificielle-photo-immobilier-architecture.webp"
+image: "/images/post/lumiere-naturelle-vs-artificielle-photo-immobilier-architecture.WEBP"
 slug: "lumiere-naturelle-vs-artificielle-photo-immobilier-architecture"
 translationKey: "lumiere-naturelle-vs-artificielle-photo-immobilier-architecture"
 ---

@@ -2,7 +2,7 @@
 title: "Backlighting in Real Estate Photography: Enhancing Natural Light and Views"
 description: "Flee flat lighting! Discover why backlighting is the secret technique to sculpt volumes in real estate and architecture photography."
 date: 2026-03-20
-image: "/images/post/contre-jour-photographie-architecture-gestion-lumiere-naturelle.webp"
+image: "/images/post/contre-jour-photographie-architecture-gestion-lumiere-naturelle.WEBP"
 slug: "backlighting-real-estate-photography-natural-light"
 translationKey: "contre-jour-photographie-architecture-gestion-lumiere-naturelle"
 ---

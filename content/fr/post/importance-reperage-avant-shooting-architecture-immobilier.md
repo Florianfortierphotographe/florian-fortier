@@ -2,7 +2,7 @@
 title: "L’importance du repérage avant un shooting d’architecture ou immobilier"
 description: "La préparation est aussi importante que la prise de vue. Découvrez pourquoi le repérage est une étape indispensable pour garantir un reportage réussi."
 date: 2026-03-12
-image: "/images/post/importance-reperage-avant-shooting-architecture-immobilier.webp"
+image: "/images/post/importance-reperage-avant-shooting-architecture-immobilier.WEBP"
 slug: "importance-reperage-avant-shooting-architecture-immobilier"
 translationKey: "importance-reperage-avant-shooting-architecture-immobilier"
 ---

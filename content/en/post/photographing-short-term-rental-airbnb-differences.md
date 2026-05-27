@@ -2,7 +2,7 @@
 title: "Photographing a Short-Term Rental: What Changes Compared to Traditional Real Estate"
 description: "Seasonal rentals require selling an experience. Learn how I photograph Airbnb listings to trigger immediate bookings and boost your occupancy rate."
 date: 2026-02-25
-image: "/images/post/photographier-logement-location-courte-duree-airbnb.webp"
+image: "/images/post/photographier-logement-location-courte-duree-airbnb.WEBP"
 slug: "photographing-short-term-rental-airbnb-differences"
 translationKey: "photographier-logement-location-courte-duree-airbnb"
 ---

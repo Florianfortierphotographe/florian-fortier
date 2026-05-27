@@ -2,7 +2,7 @@
 title: "Photographing Highly Colorful Spaces: How to Balance Saturation, Realism, and Visual Identity?"
 description: "Intense colors require rigorous light control. Discover how I photograph highly colorful spaces without distorting the interior design."
 date: 2026-01-22
-image: "/images/post/photographier-espaces-tres-colores-equilibrer-saturation-realisme-identite-visuelle.webp"
+image: "/images/post/photographier-espaces-tres-colores-equilibrer-saturation-realisme-identite-visuelle.WEBP"
 slug: "photographing-colorful-spaces-balancing-saturation-realism"
 translationKey: "photographier-espaces-tres-colores-equilibrer-saturation-realisme-identite-visuelle"
 ---

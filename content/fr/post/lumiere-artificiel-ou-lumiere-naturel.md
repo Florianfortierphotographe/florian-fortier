@@ -2,7 +2,7 @@
 title: "Lumière artificiel ou lumière naturel ?"
 description: "L'utilisation de la lumière naturelle et artificielle en photographie d'architecture et de décoration intérieure est un choix crucial pour les photographes professionnels."
 date: 2026-05-14
-image: "/images/post/lumière-artificiel-ou-lumière-naturel.webp"
+image: "/images/post/lumière-artificiel-ou-lumière-naturel.WEBP"
 slug: "lumière-artificiel-ou-lumière-naturel"
 translationKey: "lumière-artificiel-ou-lumière-naturel"
 ---

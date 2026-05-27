@@ -2,7 +2,7 @@
 title: "Which Spaces Must Be Photographed in a Home to Maximize Impact?"
 description: "A successful real estate listing relies on strategic photo choices. Find out which rooms to highlight to trigger immediate visits and buyer interest."
 date: 2026-02-28
-image: "/images/post/quels-espaces-photographier-logement-maximiser-impact.webp"
+image: "/images/post/quels-espaces-photographier-logement-maximiser-impact.WEBP"
 slug: "essential-spaces-to-photograph-in-a-home-maximize-impact"
 translationKey: "quels-espaces-photographier-logement-maximiser-impact"
 ---

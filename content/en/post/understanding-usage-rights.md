@@ -2,7 +2,7 @@
 title: "Understanding Usage Rights in Photography"
 description: "Understand image licensing, usage, and reproduction rights in architectural photography. Learn how to protect and leverage these images."
 date: 2025-12-15
-image: "/images/post/cession-des-droits.webp"
+image: "/images/post/cession-des-droits.WEBP"
 slug: "understanding-usage-rights"
 translationKey: "cession-des-droits"
 ---

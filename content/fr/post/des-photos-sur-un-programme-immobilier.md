@@ -2,7 +2,7 @@
 title: "Des photos sur un programme immobilier ?"
 description: "La photographie est un élément clé dans la promotion des opérations immobilières. Découvrez comment un reportage valorise vos chantiers et bâtiments."
 date: 2026-01-20
-image: "/images/post/des-photos-sur-un-programme-immobilier.webp"
+image: "/images/post/des-photos-sur-un-programme-immobilier.WEBP"
 slug: "des-photos-sur-un-programme-immobilier"
 translationKey: "des-photos-sur-un-programme-immobilier"
 ---

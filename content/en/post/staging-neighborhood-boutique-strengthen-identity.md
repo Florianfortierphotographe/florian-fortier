@@ -2,7 +2,7 @@
 title: "How I Stage a Neighborhood Boutique to Strengthen Its Identity"
 description: "Every boutique has its own identity. Learn how I stage spaces to create authentic images and boost local visibility for retailers."
 date: 2026-05-08
-image: "/images/post/mise-en-scene-boutique-quartier-renforcer-identite.webp"
+image: "/images/post/mise-en-scene-boutique-quartier-renforcer-identite.WEBP"
 slug: "staging-neighborhood-boutique-strengthen-identity"
 translationKey: "mise-en-scene-boutique-quartier-renforcer-identite"
 ---

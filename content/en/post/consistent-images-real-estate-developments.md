@@ -2,7 +2,7 @@
 title: "Why Real Estate Developers Need Consistent Images for an Entire Development"
 description: "A real estate development must be presented with consistency. Learn how a unified photo series enhances the perceived value of your global project."
 date: 2026-05-05
-image: "/images/post/des-photos-sur-un-programme-immobilier.webp"
+image: "/images/post/des-photos-sur-un-programme-immobilier.WEBP"
 slug: "consistent-images-real-estate-developments"
 translationKey: "images-coherentes-programme-immobilier"
 ---

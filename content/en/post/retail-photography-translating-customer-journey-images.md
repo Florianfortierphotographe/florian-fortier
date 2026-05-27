@@ -2,7 +2,7 @@
 title: "Retail Photography: How to Translate the Customer Journey into Images"
 description: "From the storefront to product displays, discover how a retail photography series transcribes the in-store customer experience and journey."
 date: 2026-03-22
-image: "/images/post/photographie-retail-traduire-parcours-client-images.webp"
+image: "/images/post/photographie-retail-traduire-parcours-client-images.WEBP"
 slug: "retail-photography-translating-customer-journey-images"
 translationKey: "photographie-retail-traduire-parcours-client-images"
 ---

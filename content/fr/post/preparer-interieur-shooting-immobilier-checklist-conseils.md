@@ -2,7 +2,7 @@
 title: "Préparer un shooting immobilier : La checklist complète pour valoriser votre intérieur"
 description: "L'appareil photo ne pardonne aucun désordre. Suivez cette checklist indispensable pour préparer votre bien avant l'arrivée du photographe immobilier."
 date: 2026-03-05
-image: "/images/post/preparer-interieur-shooting-immobilier-checklist-conseils.webp"
+image: "/images/post/preparer-interieur-shooting-immobilier-checklist-conseils.WEBP"
 slug: "preparer-interieur-shooting-immobilier-checklist-conseils"
 translationKey: "preparer-interieur-shooting-immobilier-checklist-conseils"
 ---

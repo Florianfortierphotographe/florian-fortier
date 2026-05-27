@@ -2,7 +2,7 @@
 title: "Comment j’anticipe et corrige les déformations optiques en architecture"
 description: "Les déformations optiques peuvent altérer la perception d’un bâtiment. Découvrez ma méthode pour garantir des verticales parfaites et des perspectives fidèles."
 date: 2026-01-28
-image: "/images/post/anticiper-corriger-deformations-optiques-architecture.webp"
+image: "/images/post/anticiper-corriger-deformations-optiques-architecture.WEBP"
 slug: "anticiper-corriger-deformations-optiques-architecture"
 translationKey: "anticiper-corriger-deformations-optiques-architecture"
 ---

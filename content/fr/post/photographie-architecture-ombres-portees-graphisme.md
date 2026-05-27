@@ -2,7 +2,7 @@
 title: "Photographie d'Architecture : Jouer avec les ombres portées et le graphisme"
 description: "Ne craignez pas le soleil de midi ! Découvrez comment j'utilise la lumière dure et les ombres portées pour sculpter les façades et créer des images graphiques."
 date: 2026-04-20
-image: "/images/post/photographie-architecture-ombres-portees-graphisme.webp"
+image: "/images/post/photographie-architecture-ombres-portees-graphisme.WEBP"
 slug: "photographie-architecture-ombres-portees-graphisme"
 translationKey: "photographie-architecture-ombres-portees-graphisme"
 ---

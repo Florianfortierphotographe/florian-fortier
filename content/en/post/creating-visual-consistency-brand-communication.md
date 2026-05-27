@@ -2,7 +2,7 @@
 title: "Creating Visual Consistency Across Your Communication Channels"
 description: "Discover how to create a homogeneous visual signature for your company and why photographic consistency strengthens your brand image."
 date: 2026-03-12
-image: "/images/post/coherence-visuelle-photographe-communication-marque.webp"
+image: "/images/post/coherence-visuelle-photographe-communication-marque.WEBP"
 slug: "creating-visual-consistency-brand-communication"
 translationKey: "coherence-visuelle-photographe-communication-marque"
 ---

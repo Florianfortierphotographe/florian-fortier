@@ -2,7 +2,7 @@
 title: "Photographie Immobilière ou d'Architecture : Comprendre les différences pour bien choisir"
 description: "Vous hésitez entre photographie immobilière et d'architecture ? Découvrez les différences d'intention, de technique et de tarif pour faire le bon choix."
 date: 2026-01-10
-image: "/images/post/difference-photo-immobiliere-photo-architecture.webp"
+image: "/images/post/difference-photo-immobiliere-photo-architecture.WEBP"
 slug: "difference-photo-immobiliere-photo-architecture"
 translationKey: "difference-photo-immobiliere-photo-architecture"
 ---

@@ -2,7 +2,7 @@
 title: "Photographing a Prestige Apartment: Enhancing the Space to Accelerate Sales"
 description: "High-end buyers seek an atmosphere. Learn how professional images enhance a luxury property to attract clients and accelerate the selling process."
 date: 2026-05-13
-image: "/images/post/photographier-appartement-prestige-vente.webp"
+image: "/images/post/photographier-appartement-prestige-vente.WEBP"
 slug: "photographing-prestige-apartment-accelerate-sales"
 translationKey: "photographier-appartement-prestige-vente"
 ---

@@ -2,7 +2,7 @@
 title: "L’importance du photographe dans les supports marketing"
 description: "La qualité des photos dans une campagne de communication influence la crédibilité d'une marque. Découvrez la valeur ajoutée d'un photographe professionnel."
 date: 2025-12-11
-image: "/images/post/importance-photographe-supports-marketing.webp"
+image: "/images/post/importance-photographe-supports-marketing.WEBP"
 slug: "importance-photographe-supports-marketing"
 translationKey: "importance-photographe-supports-marketing"
 ---

@@ -2,7 +2,7 @@
 title: "Photographie de salle de bain : Maîtriser les reflets et l'espace restreint"
 description: "Miroirs, espaces exigus et matériaux brillants : découvrez les techniques pour réussir vos photos de salle de bain et créer une ambiance spa."
 date: 2026-02-22
-image: "/images/post/photographie-salle-de-bain-gestion-reflets-espace.webp"
+image: "/images/post/photographie-salle-de-bain-gestion-reflets-espace.WEBP"
 slug: "photographie-salle-de-bain-gestion-reflets-espace"
 translationKey: "photographie-salle-de-bain-gestion-reflets-espace"
 ---

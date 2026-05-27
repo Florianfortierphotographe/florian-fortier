@@ -2,7 +2,7 @@
 title: "L’escalier en photographie d’architecture : entre sculpture, lumière et usage"
 description: "Bien plus qu'un simple lieu de passage, l'escalier est une colonne vertébrale architecturale. Découvrez comment je le mets en valeur en photographie."
 date: 2026-02-28
-image: "/images/post/escalier-photographie-architecture-sculpture-lumiere-usage.webp"
+image: "/images/post/escalier-photographie-architecture-sculpture-lumiere-usage.WEBP"
 slug: "escalier-photographie-architecture-sculpture-lumiere-usage"
 translationKey: "escalier-photographie-architecture-sculpture-lumiere-usage"
 ---

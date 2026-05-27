@@ -2,7 +2,7 @@
 title: "Choosing Focal Lengths in Architecture Photography: Impact on Volume Perception"
 description: "Wide angle or standard focal length? Discover how the choice of lens changes the perception of space in real estate and architecture photography."
 date: 2026-04-18
-image: "/images/post/choix-focales-photographie-architecture-perception-volumes.webp"
+image: "/images/post/choix-focales-photographie-architecture-perception-volumes.WEBP"
 slug: "focal-length-architecture-photography-volume-perception"
 translationKey: "choix-focales-photographie-architecture-perception-volumes"
 ---

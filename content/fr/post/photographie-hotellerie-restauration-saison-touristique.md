@@ -2,7 +2,7 @@
 title: "Photographie Hôtellerie et Restauration : Préparer sa communication visuelle pour la saison touristique"
 description: "Augmentez vos réservations avant la saison touristique ! Découvrez comment de belles photos subliment l'expérience de votre hôtel ou restaurant."
 date: 2026-04-05
-image: "/images/post/photographie-hotellerie-restauration-preparer-sa-communication-visuelle-pour-la-saison-touristique.webp"
+image: "/images/post/photographie-hotellerie-restauration-preparer-sa-communication-visuelle-pour-la-saison-touristique.WEBP"
 slug: "photographie-hotellerie-restauration-saison-touristique"
 translationKey: "photographie-hotellerie-restauration-saison-touristique"
 ---

@@ -2,7 +2,7 @@
 title: "Color in Interior Photography: Finding the Balance Between Realism and Emotion"
 description: "In interior decoration photography, color plays an essential role. Discover how to balance objective reality with the emotion of a space."
 date: 2026-01-14
-image: "/images/post/couleur-photographie-interieur-equilibre-realisme-emotion.webp"
+image: "/images/post/couleur-photographie-interieur-equilibre-realisme-emotion.WEBP"
 slug: "color-interior-photography-balance-realism-emotion"
 translationKey: "couleur-photographie-interieur-equilibre-realisme-emotion"
 ---

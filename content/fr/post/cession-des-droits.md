@@ -2,7 +2,7 @@
 title: "La cession des droits"
 description: "Comprendre la cession des droits de diffusion et de reproduction en photographie d'architecture. Découvrez comment protéger et valoriser ces images."
 date: 2025-12-15
-image: "/images/post/cession-des-droits.webp"
+image: "/images/post/cession-des-droits.WEBP"
 slug: "cession-des-droits"
 translationKey: "cession-des-droits"
 ---

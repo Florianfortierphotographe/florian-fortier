@@ -2,7 +2,7 @@
 title: "Pourquoi photographier un projet une fois habité change la narration"
 description: "Découvrez comment la présence humaine et l'usage transforment la photographie d'architecture, passant d'un objet formel à un espace de vie."
 date: 2026-05-21
-image: "/images/post/photographier-projet-architecture-une-fois-habite.webp"
+image: "/images/post/photographier-projet-architecture-une-fois-habite.WEBP"
 slug: "photographier-projet-architecture-une-fois-habite"
 translationKey: "photographier-projet-architecture-une-fois-habite"
 ---

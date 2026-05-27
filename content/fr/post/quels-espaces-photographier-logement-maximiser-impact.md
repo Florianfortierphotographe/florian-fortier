@@ -2,7 +2,7 @@
 title: "Quels espaces photographier absolument dans un logement pour maximiser l’impact"
 description: "Une annonce immobilière performante dépend du choix des photos. Découvrez quelles pièces mettre en valeur pour déclencher des visites."
 date: 2026-02-18
-image: "/images/post/quels-espaces-photographier-logement-maximiser-impact.webp"
+image: "/images/post/quels-espaces-photographier-logement-maximiser-impact.WEBP"
 slug: "quels-espaces-photographier-logement-maximiser-impact"
 translationKey: "quels-espaces-photographier-logement-maximiser-impact"
 ---

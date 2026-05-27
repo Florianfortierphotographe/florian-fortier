@@ -2,7 +2,7 @@
 title: "Architecture Photography: Why Context Matters as Much as the Building"
 description: "A building is never isolated. Learn why the environment and landscape integration are crucial in architectural photography."
 date: 2026-04-25
-image: "/images/post/photographie-architecture-importance-contexte-environnement-batiment.webp"
+image: "/images/post/photographie-architecture-importance-contexte-environnement-batiment.WEBP"
 slug: "architecture-photography-why-context-matters-building"
 translationKey: "photographie-architecture-importance-contexte-environnement-batiment"
 ---

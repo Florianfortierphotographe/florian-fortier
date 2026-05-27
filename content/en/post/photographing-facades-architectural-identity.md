@@ -2,7 +2,7 @@
 title: "Photographing Facades: Revealing a Building's Architectural Identity"
 description: "A facade embodies the identity of a building. Discover my photographic approach to translating its lines, materials, and environment."
 date: 2026-02-28
-image: "/images/post/photographier-facades-identite-architecturale.webp"
+image: "/images/post/photographier-facades-identite-architecturale.WEBP"
 slug: "photographing-facades-architectural-identity"
 translationKey: "photographier-facades-identite-architecturale"
 ---

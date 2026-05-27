@@ -2,7 +2,7 @@
 title: "Photographie immobilière par drone : Valoriser les grands espaces et l'environnement"
 description: "Le drone est indispensable pour l'immobilier en milieu rural. Découvrez comment la vue aérienne révèle l'étendue et la tranquillité de vos propriétés."
 date: 2026-03-25
-image: "/images/post/photographie-drone-immobilier-environnement-campagne.webp"
+image: "/images/post/photographie-drone-immobilier-environnement-campagne.WEBP"
 slug: "photographie-drone-immobilier-environnement-campagne"
 translationKey: "photographie-drone-immobilier-environnement-campagne"
 ---

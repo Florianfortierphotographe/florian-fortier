@@ -2,7 +2,7 @@
 title: "About"
 layout: "presentation"
 translationKey: "presentation"
-photo: "/images/presentation.webp"
+photo: "/images/presentation.WEBP"
 ---
  
 Based in Rambouillet (Yvelines) and operating throughout France, I am a professional photographer specializing in architecture, real estate, and corporate.

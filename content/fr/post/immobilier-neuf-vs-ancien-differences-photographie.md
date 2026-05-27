@@ -2,7 +2,7 @@
 title: "Immobilier neuf vs ancien : quelles différences en photographie ?"
 description: "Du programme neuf à l'appartement ancien, découvrez pourquoi chaque type de bien immobilier exige une approche photographique radicalement différente."
 date: 2026-03-25
-image: "/images/post/immobilier-neuf-vs-ancien-differences-photographie.webp"
+image: "/images/post/immobilier-neuf-vs-ancien-differences-photographie.WEBP"
 slug: "immobilier-neuf-vs-ancien-differences-photographie"
 translationKey: "immobilier-neuf-vs-ancien-differences-photographie"
 ---

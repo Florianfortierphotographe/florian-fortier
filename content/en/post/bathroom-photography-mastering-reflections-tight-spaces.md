@@ -2,7 +2,7 @@
 title: "Bathroom Photography: Mastering Reflections and Tight Spaces"
 description: "Mirrors, cramped spaces, and shiny materials: discover techniques for successful bathroom photography and creating a spa-like atmosphere."
 date: 2026-02-22
-image: "/images/post/photographie-salle-de-bain-gestion-reflets-espace.webp"
+image: "/images/post/photographie-salle-de-bain-gestion-reflets-espace.WEBP"
 slug: "bathroom-photography-mastering-reflections-tight-spaces"
 translationKey: "photographie-salle-de-bain-gestion-reflets-espace"
 ---

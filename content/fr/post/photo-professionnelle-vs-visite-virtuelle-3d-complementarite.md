@@ -2,7 +2,7 @@
 title: "Photo professionnelle vs Visite virtuelle 3D : l’un ne remplace pas l’autre, ils se complètent"
 description: "La visite virtuelle 3D peut-elle remplacer la photographie ? Découvrez pourquoi ces deux outils sont différents et comment ils se complètent."
 date: 2026-03-08
-image: "/images/post/photo-professionnelle-vs-visite-virtuelle-3d-complementarite.webp"
+image: "/images/post/photo-professionnelle-vs-visite-virtuelle-3d-complementarite.WEBP"
 slug: "photo-professionnelle-vs-visite-virtuelle-3d-complementarite"
 translationKey: "photo-professionnelle-vs-visite-virtuelle-3d-complementarite"
 ---

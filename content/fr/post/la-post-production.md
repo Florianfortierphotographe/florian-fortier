@@ -2,7 +2,7 @@
 title: "La post-production"
 description: "Découvrez l'importance de la post-production en photographie d'architecture et de décoration, et comment elle permet de sublimer vos projets."
 date: 2026-05-14
-image: "/images/post/la-post-production.webp"
+image: "/images/post/la-post-production.WEBP"
 slug: "la-post-production"
 translationKey: "la-post-production"
 ---

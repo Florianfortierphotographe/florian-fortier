@@ -2,7 +2,7 @@
 title: "The Importance of Furniture in High-End Interior Photography"
 description: "Furniture structures the image and reveals the standing of a place. Discover how I highlight it in luxury interior photography."
 date: 2026-04-15
-image: "/images/post/importance-mobilier-photographie-interieur-haut-de-gamme.webp"
+image: "/images/post/importance-mobilier-photographie-interieur-haut-de-gamme.WEBP"
 slug: "importance-furniture-high-end-interior-photography"
 translationKey: "importance-mobilier-photographie-interieur-haut-de-gamme"
 ---

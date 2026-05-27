@@ -2,7 +2,7 @@
 title: "High-End Real Estate Photography: Enhancing the Heritage of a Castle"
 description: "Photographing a castle means bringing to light a living heritage, full of history and emotion. Discover my approach to prestige real estate."
 date: 2026-04-10
-image: "/images/post/photographie-immobiliere-chateau-bien-exception.webp"
+image: "/images/post/photographie-immobiliere-chateau-bien-exception.WEBP"
 slug: "high-end-real-estate-photography-castle-heritage"
 translationKey: "photographie-immobiliere-chateau-bien-exception"
 ---

@@ -2,7 +2,7 @@
 title: "Why a Specialized Photographer Makes the Difference on Complex Projects"
 description: "Tight deadlines, mixed lighting, atypical volumes: discover why the expertise of a specialized photographer is indispensable for complex projects."
 date: 2026-04-18
-image: "/images/post/pourquoi-photographe-specialise-projets-architecture-complexes.webp"
+image: "/images/post/pourquoi-photographe-specialise-projets-architecture-complexes.WEBP"
 slug: "why-specialized-photographer-makes-difference-complex-projects"
 translationKey: "pourquoi-photographe-specialise-projets-architecture-complexes"
 ---

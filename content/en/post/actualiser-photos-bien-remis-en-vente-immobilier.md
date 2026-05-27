@@ -2,7 +2,7 @@
 title: "Why update photos of a relisted property"
 description: "Discover why updating the photos of a relisted real estate property is a strategic lever to revive interest and accelerate the sale."
 date: 2026-05-26
-image: "/images/post/actualiser-photos-bien-remis-en-vente-immobilier.webp"
+image: "/images/post/actualiser-photos-bien-remis-en-vente-immobilier.WEBP"
 slug: "actualiser-photos-bien-remis-en-vente-immobilier"
 translationKey: "actualiser-photos-bien-remis-en-vente-immobilier"
 ---

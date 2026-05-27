@@ -2,7 +2,7 @@
 title: "Photographier un bien sous météo défavorable : comment j’adapte mon approche pour sauver le shooting"
 description: "La météo complique votre reportage immobilier ou architectural ? Découvrez mes méthodes professionnelles pour garantir des images esthétiques et valorisantes."
 date: 2026-03-04
-image: "/images/post/photographier-bien-meteo-defavorable-adapter-approche.webp"
+image: "/images/post/photographier-bien-meteo-defavorable-adapter-approche.WEBP"
 slug: "photographier-bien-meteo-defavorable-adapter-approche"
 translationKey: "photographier-bien-meteo-defavorable-adapter-approche"
 ---

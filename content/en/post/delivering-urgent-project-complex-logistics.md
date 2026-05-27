@@ -2,7 +2,7 @@
 title: "How I Manage to Deliver an Urgent Project in a Complex Logistical Context"
 description: "Tight deadline? Difficult access? Discover how I adapt my photographic method to deliver a professional and coherent reportage on the fly."
 date: 2026-04-22
-image: "/images/post/livrer-projet-urgent-contexte-logistique-complique.webp"
+image: "/images/post/livrer-projet-urgent-contexte-logistique-complique.WEBP"
 slug: "delivering-urgent-project-complex-logistics"
 translationKey: "livrer-projet-urgent-contexte-logistique-complique"
 ---

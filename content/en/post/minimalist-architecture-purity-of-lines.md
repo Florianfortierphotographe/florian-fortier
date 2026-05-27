@@ -2,7 +2,7 @@
 title: "Minimalist Architecture: Transcribing the Purity of Lines in Images"
 description: "Minimalist architecture demands a precise and restrained photographic approach. Discover how to capture the essentials: lines, light, and balance."
 date: 2026-04-28
-image: "/images/post/architecture-minimaliste-purete-des-lignes-en-image.webp"
+image: "/images/post/architecture-minimaliste-purete-des-lignes-en-image.WEBP"
 slug: "minimalist-architecture-purity-of-lines"
 translationKey: "architecture-minimaliste-purete-des-lignes-en-image"
 ---

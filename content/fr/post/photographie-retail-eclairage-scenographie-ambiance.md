@@ -2,7 +2,7 @@
 title: "Photographie Retail : Capturer la scénographie lumineuse et l'ambiance d'un point de vente"
 description: "En boutique, la lumière dirige le client. Découvrez comment je photographie l'éclairage et la scénographie de vos points de vente."
 date: 2026-04-10
-image: "/images/post/photographie-retail-eclairage-scenographie-ambiance.webp"
+image: "/images/post/photographie-retail-eclairage-scenographie-ambiance.WEBP"
 slug: "photographie-retail-eclairage-scenographie-ambiance"
 translationKey: "photographie-retail-eclairage-scenographie-ambiance"
 ---

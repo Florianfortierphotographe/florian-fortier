@@ -2,7 +2,7 @@
 title: "Decorative Details: How I Build Images That Highlight a Designer's Style"
 description: "Discover how I showcase an interior designer's unique style through meticulous photography of details, materials, and textures."
 date: 2026-04-16
-image: "/images/post/details-decoratifs-style-designer.webp"
+image: "/images/post/details-decoratifs-style-designer.WEBP"
 slug: "decorative-details-highlighting-designer-style"
 translationKey: « details-decoratifs-style-designer"
 ---

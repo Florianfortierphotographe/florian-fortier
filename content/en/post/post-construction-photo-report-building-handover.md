@@ -2,7 +2,7 @@
 title: "The Post-Construction Photo Report: An Essential Tool for Documenting Building Handovers"
 description: "A post-construction photo report captures the true quality of a project. Discover my approach to creating an impactful visual handover documentation."
 date: 2026-04-18
-image: "/images/post/reportage-fin-de-chantier-livraison-batiment.webp"
+image: "/images/post/reportage-fin-de-chantier-livraison-batiment.WEBP"
 slug: "post-construction-photo-report-building-handover"
 translationKey: "reportage-fin-de-chantier-livraison-batiment"
 ---

@@ -2,7 +2,7 @@
 title: "Store Window Photography: How to Nail Your First Point of Contact"
 description: "Reflections, lighting, framing: discover how to photograph and enhance your store window, your ultimate marketing asset."
 date: 2026-02-18
-image: "/images/post/photographier-vitrine-magasin-devanture-boutique.webp"
+image: "/images/post/photographier-vitrine-magasin-devanture-boutique.WEBP"
 slug: "photographing-store-windows-shop-front-marketing"
 translationKey: "photographier-vitrine-magasin-devanture-boutique"
 ---

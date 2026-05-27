@@ -2,7 +2,7 @@
 title: "Real Estate Photography: The Dangers of the Ultra-Wide Angle and the Importance of Proportions"
 description: "A room shouldn't look like a hallway! Why I refuse to use ultra-wide angles to guarantee realistic volumes in real estate photography."
 date: 2026-02-18
-image: "/images/post/photographie-immobiliere-mythe-grand-angle-volumes-realistes.webp"
+image: "/images/post/photographie-immobiliere-mythe-grand-angle-volumes-realistes.WEBP"
 slug: "real-estate-photography-dangers-ultra-wide-angle"
 translationKey: "photographie-immobiliere-mythe-grand-angle-volumes-realistes"
 ---

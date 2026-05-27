@@ -2,7 +2,7 @@
 title: "Architecture et photographie : ce que l’image doit montrer… et ce qu’elle doit volontairement taire"
 description: "En photographie d'architecture, cadrer c'est choisir. Découvrez pourquoi exclure certains éléments du cadre renforce la lisibilité et la force d'un projet."
 date: 2026-04-12
-image: "/images/post/photographie-architecture-montrer-taire-intention.webp"
+image: "/images/post/photographie-architecture-montrer-taire-intention.WEBP"
 slug: "photographie-architecture-montrer-taire-intention"
 translationKey: "photographie-architecture-montrer-taire-intention"
 ---

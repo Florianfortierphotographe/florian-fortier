@@ -2,7 +2,7 @@
 title: "Organiser un shooting d’architecture : ma méthode pour garantir un résultat cohérent"
 description: "Une séance photo d’architecture demande une préparation minutieuse. Découvrez ma méthode de travail pour livrer des reportages esthétiques et fiables."
 date: 2026-03-12
-image: "/images/post/organiser-shooting-architecture-methode-resultat-professionnel.webp"
+image: "/images/post/organiser-shooting-architecture-methode-resultat-professionnel.WEBP"
 slug: "organiser-shooting-architecture-methode-resultat-professionnel"
 translationKey: "organiser-shooting-architecture-methode-resultat-professionnel"
 ---

@@ -2,7 +2,7 @@
 title: "Architecture seen from public spaces: framing without distorting"
 description: "Photographing a building from public spaces requires balancing urban context and architectural intent. Discover how to frame without distorting."
 date: 2026-05-24
-image: "/images/post/architecture-espace-public-cadrer-sans-denaturer.webp"
+image: "/images/post/architecture-espace-public-cadrer-sans-denaturer.WEBP"
 slug: "architecture-public-space-framing-without-distorting"
 translationKey: "architecture-espace-public"
 ---

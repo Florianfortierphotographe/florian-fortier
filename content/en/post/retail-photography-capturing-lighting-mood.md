@@ -2,7 +2,7 @@
 title: "Retail Photography: Capturing the Lighting Design and Mood of a Store"
 description: "In a store, light guides the customer. Discover how I capture the lighting and scenography of your retail spaces."
 date: 2026-04-10
-image: "/images/post/photographie-retail-eclairage-scenographie-ambiance.webp"
+image: "/images/post/photographie-retail-eclairage-scenographie-ambiance.WEBP"
 slug: "retail-photography-capturing-lighting-mood"
 translationKey: "photographie-retail-eclairage-scenographie-ambiance"
 ---

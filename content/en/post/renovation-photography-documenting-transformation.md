@@ -2,7 +2,7 @@
 title: "Renovation Photography: The Art of Telling the Story of a Metamorphosis"
 description: "From the 'Before' to the 'After', documenting a renovation proves your expertise. Discover how I photograph construction makeovers."
 date: 2026-01-20
-image: "/images/post/photographie-de-renovation-l-art-de-raconter-la-metamorphose-d-un-lieu.webp"
+image: "/images/post/photographie-de-renovation-l-art-de-raconter-la-metamorphose-d-un-lieu.WEBP"
 slug: "renovation-photography-documenting-transformation"
 translationKey: "photographie-renovation-raconter-transformation"
 ---

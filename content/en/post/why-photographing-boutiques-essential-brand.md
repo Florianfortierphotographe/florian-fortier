@@ -2,7 +2,7 @@
 title: "Why Photographing Your Boutiques is Essential for a Brand?"
 description: "Photographing your points of sale extends the customer experience and builds a consistent brand image. Discover why it is a strategic investment."
 date: 2026-02-24
-image: "/images/post/photographier-boutiques-importance-strategique-marque.webp"
+image: "/images/post/photographier-boutiques-importance-strategique-marque.WEBP"
 slug: "why-photographing-boutiques-essential-brand"
 translationKey: "photographier-boutiques-importance-strategique-marque"
 ---

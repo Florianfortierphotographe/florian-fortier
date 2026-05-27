@@ -2,7 +2,7 @@
 title: "Retail Photography: The Art of Enhancing Visual Merchandising and Products"
 description: "Geometric precision, reflection control, and lighting: discover how I enhance your store's visual merchandising and products."
 date: 2026-03-10
-image: "/images/post/photographie-retail-art-de-valoriser-le-visual-merchandising-et-les-produits.webp"
+image: "/images/post/photographie-retail-art-de-valoriser-le-visual-merchandising-et-les-produits.WEBP"
 slug: "retail-photography-visual-merchandising-products"
 translationKey: "photographie-retail-visual-merchandising-produits"
 ---

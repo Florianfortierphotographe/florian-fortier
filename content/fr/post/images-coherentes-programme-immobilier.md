@@ -2,7 +2,7 @@
 title: "Pourquoi les promoteurs ont besoin d’images cohérentes pour un programme immobilier"
 description: "Pour transmettre son identité, un programme immobilier doit être présenté avec cohérence et lisibilité. Découvrez comment valoriser un projet global."
 date: 2026-05-02
-image: "/images/post/des-photos-sur-un-programme-immobilier.webp"
+image: "/images/post/des-photos-sur-un-programme-immobilier.WEBP"
 slug: "images-coherentes-programme-immobilier"
 translationKey: "images-coherentes-programme-immobilier"
 ---

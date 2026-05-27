@@ -2,7 +2,7 @@
 title: "Le Contre-jour en photographie immobilière : Sublimer la lumière naturelle et la vue"
 description: "Fuyez la lumière plate ! Découvrez pourquoi le contre-jour est la technique secrète pour sculpter les volumes en photographie immobilière et d'architecture."
 date: 2026-03-20
-image: "/images/post/contre-jour-photographie-architecture-gestion-lumiere-naturelle.webp"
+image: "/images/post/contre-jour-photographie-architecture-gestion-lumiere-naturelle.WEBP"
 slug: "contre-jour-photographie-architecture-gestion-lumiere-naturelle"
 translationKey: "contre-jour-photographie-architecture-gestion-lumiere-naturelle"
 ---

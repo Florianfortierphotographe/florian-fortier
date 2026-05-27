@@ -2,7 +2,7 @@
 title: "Photographie de piscine et spa : Sublimer l'eau et les espaces extérieurs"
 description: "Photographier une piscine exige de maîtriser les reflets et la lumière. Découvrez mes techniques pour obtenir une eau cristalline et sublimer les extérieurs."
 date: 2026-03-25
-image: "/images/post/photographie-piscine-spa-sublimer-eau-exterieurs.webp"
+image: "/images/post/photographie-piscine-spa-sublimer-eau-exterieurs.WEBP"
 slug: "photographie-piscine-spa-sublimer-eau-exterieurs"
 translationKey: "photographie-piscine-spa-sublimer-eau-exterieurs"
 ---

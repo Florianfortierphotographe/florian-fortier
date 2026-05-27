@@ -2,7 +2,7 @@
 title: "Photographie Immobilière : Les dangers de l'ultra grand angle et l'importance des proportions"
 description: "Une pièce ne doit pas ressembler à un couloir ! Pourquoi je refuse l'ultra grand angle pour garantir des volumes réalistes en photographie immobilière."
 date: 2026-02-18
-image: "/images/post/photographie-immobiliere-mythe-grand-angle-volumes-realistes.webp"
+image: "/images/post/photographie-immobiliere-mythe-grand-angle-volumes-realistes.WEBP"
 slug: "photographie-immobiliere-mythe-grand-angle-volumes-realistes"
 translationKey: "photographie-immobiliere-mythe-grand-angle-volumes-realistes"
 ---

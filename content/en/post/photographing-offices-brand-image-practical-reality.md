@@ -2,7 +2,7 @@
 title: "Photographing Offices: Between Brand Image and Practical Reality"
 description: "Office photography must meet a dual requirement: reflecting the company's brand image while showing the practical reality of the workspace."
 date: 2026-05-22
-image: "/images/post/photographier-bureaux-image-marque-realite-usage.webp"
+image: "/images/post/photographier-bureaux-image-marque-realite-usage.WEBP"
 slug: "photographing-offices-brand-image-practical-reality"
 translationKey: "photographier-bureaux-image-marque-realite-usage"
 ---

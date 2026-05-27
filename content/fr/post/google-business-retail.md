@@ -2,7 +2,7 @@
 title: "Google Business et retail : l’importance des photos professionnelles"
 description: "Découvrez pourquoi Google Business est devenu la première vitrine digitale de votre commerce et comment des photographies professionnelles influencent directement la fréquentation."
 date: 2026-05-21
-image: "/images/post/google-business-retail-photos-professionnelles.webp"
+image: "/images/post/google-business-retail-photos-professionnelles.WEBP"
 slug: "google-business-retail-photos-professionnelles"
 translationKey: "google-business-retail-photos-professionnelles"
 ---

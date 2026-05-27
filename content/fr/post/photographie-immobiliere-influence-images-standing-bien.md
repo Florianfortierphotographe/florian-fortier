@@ -2,7 +2,7 @@
 title: "Photographie immobilière : comment les images influencent la perception du standing d’un bien"
 description: "Le standing ne se limite pas à l'adresse. Découvrez comment une photographie immobilière maîtrisée positionne immédiatement un bien haut de gamme."
 date: 2026-05-15
-image: "/images/post/photographie-immobiliere-influence-images-standing-bien.webp"
+image: "/images/post/photographie-immobiliere-influence-images-standing-bien.WEBP"
 slug: "photographie-immobiliere-influence-images-standing-bien"
 translationKey: "photographie-immobiliere-influence-images-standing-bien"
 ---

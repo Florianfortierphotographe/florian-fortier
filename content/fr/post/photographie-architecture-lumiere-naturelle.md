@@ -2,7 +2,7 @@
 title: "Photographie d’architecture contemporaine : capturer la lumière naturelle"
 description: "La lumière naturelle occupe une place centrale dans la photographie d’architecture contemporaine. Découvrez comment maîtriser cette lumière avec précision."
 date: 2026-03-08
-image: "/images/post/photographie-architecture-lumiere-naturelle.webp"
+image: "/images/post/photographie-architecture-lumiere-naturelle.WEBP"
 slug: "photographie-architecture-lumiere-naturelle"
 translationKey: "photographie-architecture-lumiere-naturelle"
 ---

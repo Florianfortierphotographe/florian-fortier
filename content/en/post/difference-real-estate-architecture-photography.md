@@ -2,7 +2,7 @@
 title: "Real Estate or Architecture Photography: Understanding the Differences to Choose Wisely"
 description: "Are you hesitating between real estate and architectural photography? Discover the differences in intent, technique, and pricing to make the right choice."
 date: 2026-01-10
-image: "/images/post/difference-photo-immobiliere-photo-architecture.webp"
+image: "/images/post/difference-photo-immobiliere-photo-architecture.WEBP"
 slug: "difference-real-estate-architecture-photography"
 translationKey: "difference-photo-immobiliere-photo-architecture"
 ---

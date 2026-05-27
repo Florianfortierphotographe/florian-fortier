@@ -2,7 +2,7 @@
 title: "When the Landscape Becomes a Subject as Much as the Architecture"
 description: "A building always fits into a location. Learn how to find the right visual balance between the architectural project and its natural environment."
 date: 2026-05-10
-image: "/images/post/paysage-sujet-photographie-architecture.webp"
+image: "/images/post/paysage-sujet-photographie-architecture.WEBP"
 slug: "landscape-as-subject-architecture-photography"
 translationKey: "paysage-sujet-photographie-architecture"
 ---

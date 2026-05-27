@@ -2,7 +2,7 @@
 title: "Photographier les parties communes d’une résidence : créer une image cohérente de l’expérience résidentielle"
 description: "Les halls et circulations définissent le standing d'un projet immobilier. Apprenez comment je valorise ces espaces pour une communication haut de gamme."
 date: 2026-04-09
-image: "/images/post/photographier-parties-communes-residence-experience.webp"
+image: "/images/post/photographier-parties-communes-residence-experience.WEBP"
 slug: "photographier-parties-communes-residence-experience"
 translationKey: "photographier-parties-communes-residence-experience"
 ---

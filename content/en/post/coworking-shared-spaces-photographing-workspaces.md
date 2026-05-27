@@ -2,7 +2,7 @@
 title: "Coworking & Shared Spaces: How I Photograph Workspaces"
 description: "Coworking spaces now adopt hospitality codes. Discover how I enhance their design to attract new members and foster community."
 date: 2026-04-18
-image: "/images/post/coworking-espaces-partages-photographier-espaces-travail.webp"
+image: "/images/post/coworking-espaces-partages-photographier-espaces-travail.WEBP"
 slug: "coworking-shared-spaces-photographing-workspaces"
 translationKey: "coworking-espaces-partages-photographier-espaces-travail"
 ---

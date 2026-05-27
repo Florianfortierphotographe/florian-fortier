@@ -2,7 +2,7 @@
 title: "Why Photographing an Inhabited Project Changes the Narrative"
 description: "Discover how human presence and daily use transform architectural photography from a formal object study into a spatial narrative."
 date: 2026-05-21
-image: "/images/post/photographier-projet-architecture-une-fois-habite.webp"
+image: "/images/post/photographier-projet-architecture-une-fois-habite.WEBP"
 slug: "photographing-inhabited-architectural-project"
 translationKey: "photographier-projet-architecture-une-fois-habite"
 ---

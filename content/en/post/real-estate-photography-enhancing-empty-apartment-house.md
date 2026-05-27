@@ -2,7 +2,7 @@
 title: "Real Estate Photography: How to Enhance an Empty Apartment or House?"
 description: "An empty property often looks smaller in photos. Discover my real estate photography techniques to restore scale and enhance volumes."
 date: 2026-03-01
-image: "/images/post/photographie-immobiliere-comment-valoriser-un-appartement-ou-une-maison-vide.webp"
+image: "/images/post/photographie-immobiliere-comment-valoriser-un-appartement-ou-une-maison-vide.WEBP"
 slug: "real-estate-photography-enhancing-empty-apartment-house"
 ---
 

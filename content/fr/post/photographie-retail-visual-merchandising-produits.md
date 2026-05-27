@@ -2,7 +2,7 @@
 title: "Photographie Retail : L'art de valoriser le Visual Merchandising et les produits"
 description: "Rigueur géométrique, gestion des reflets et de la lumière : découvrez comment je sublime le visual merchandising et les produits de votre boutique."
 date: 2026-03-10
-image: "/images/post/photographie-retail-art-de-valoriser-le-visual-merchandising-et-les-produits.webp"
+image: "/images/post/photographie-retail-art-de-valoriser-le-visual-merchandising-et-les-produits.WEBP"
 slug: "photographie-retail-visual-merchandising-produits"
 translationKey: "photographie-retail-visual-merchandising-produits"
 ---

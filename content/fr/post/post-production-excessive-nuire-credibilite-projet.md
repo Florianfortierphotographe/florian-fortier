@@ -2,7 +2,7 @@
 title: "Pourquoi trop corriger une image peut nuire à la crédibilité d’un projet"
 description: "La retouche doit servir le réel, pas le transformer. Découvrez pourquoi une post-production excessive détruit la confiance en photographie immobilière."
 date: 2026-05-02
-image: "/images/post/post-production-excessive-nuire-credibilite-projet.webp"
+image: "/images/post/post-production-excessive-nuire-credibilite-projet.WEBP"
 slug: "post-production-excessive-nuire-credibilite-projet"
 translationKey: "post-production-excessive-nuire-credibilite-projet"
 ---

@@ -2,7 +2,7 @@
 title: "Pourquoi actualiser les photos d’un bien remis en vente"
 description: "Découvrez pourquoi actualiser les photos d'un bien immobilier remis en vente est un levier stratégique indispensable pour redynamiser votre annonce."
 date: 2026-05-26
-image: "/images/post/actualiser-photos-bien-remis-en-vente-immobilier.webp"
+image: "/images/post/actualiser-photos-bien-remis-en-vente-immobilier.WEBP"
 slug: "actualiser-photos-bien-remis-en-vente-immobilier"
 translationKey: "actualiser-photos-bien-remis-en-vente-immobilier"
 ---

@@ -2,7 +2,7 @@
 title: "Photographing Night Spaces: Managing Artificial Lights Without Altering the Mood"
 description: "Photographing a space at night requires true mastery. Discover how to manage artificial lighting to sublimate the atmosphere without altering it."
 date: 2025-12-25
-image: "/images/post/photographier-espaces-nocturnes-gerer-lumieres-artificielles.webp"
+image: "/images/post/photographier-espaces-nocturnes-gerer-lumieres-artificielles.WEBP"
 slug: "photographing-night-spaces-managing-artificial-lights"
 translationKey: "photographier-espaces-nocturnes-gerer-lumieres-artificielles"
 ---

@@ -2,7 +2,7 @@
 title: "L’architecture vue depuis l’espace public : cadrer sans dénaturer"
 description: "Photographier un bâtiment depuis l'espace public demande d'équilibrer contexte urbain et intention architecturale. Découvrez comment cadrer sans dénaturer."
 date: 2026-05-24
-image: "/images/post/architecture-espace-public-cadrer-sans-denaturer.webp"
+image: "/images/post/architecture-espace-public-cadrer-sans-denaturer.WEBP"
 slug: "architecture-espace-public-cadrer-sans-denaturer"
 translationKey: "architecture-espace-public"
 ---

@@ -2,7 +2,7 @@
 title: "Commercial Real Estate Photography: Enhancing Workspaces and Brand Image"
 description: "Sell more than just square footage. Discover how commercial photography enhances your offices' employer brand and corporate culture."
 date: 2026-04-15
-image: "/images/post/photographie-immobilier-bureaux-tertiaire-marque-employeur.webp"
+image: "/images/post/photographie-immobilier-bureaux-tertiaire-marque-employeur.WEBP"
 slug: "commercial-real-estate-photography-employer-brand"
 translationKey: "photographie-immobilier-bureaux-tertiaire-marque-employeur"
 ---

@@ -2,7 +2,7 @@
 title: "Photographing a Model Home: How I Create a Realistic and Appealing Vision of the Future Space"
 description: "A model home is essential to sell a new development. Discover how I create a realistic and appealing vision to help buyers picture themselves."
 date: 2026-02-15
-image: "/images/post/photographier-logement-temoin-vision-realiste-seduisante.webp"
+image: "/images/post/photographier-logement-temoin-vision-realiste-seduisante.WEBP"
 slug: "photographing-model-home-realistic-appealing-vision"
 translationKey: "photographier-logement-temoin-vision-realiste-seduisante"
 ---

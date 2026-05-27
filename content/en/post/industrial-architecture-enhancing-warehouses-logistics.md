@@ -2,7 +2,7 @@
 title: "Industrial Architecture: Enhancing the Aesthetics of Warehouses and Logistics Centers"
 description: "Logistics buildings boast a strong visual aesthetic. Discover how architectural photography elevates the sheer scale and lines of these spaces."
 date: 2026-05-02
-image: "/images/post/architecture-industrielle-sublimer-entrepots-logistique.webp"
+image: "/images/post/architecture-industrielle-sublimer-entrepots-logistique.WEBP"
 slug: "industrial-architecture-enhancing-warehouses-logistics"
 translationKey: "architecture-industrielle-sublimer-entrepots-logistique"
 ---

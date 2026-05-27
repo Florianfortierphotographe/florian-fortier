@@ -2,7 +2,7 @@
 title: "Lights Off or On? Why Favor Natural Light in Architecture Photography"
 description: "Discover why turning on lights in broad daylight darkens your interior photos and distorts colors in real estate photography."
 date: 2026-04-10
-image: "/images/post/lumiere-naturelle-vs-artificielle-photo-immobilier-architecture.webp"
+image: "/images/post/lumiere-naturelle-vs-artificielle-photo-immobilier-architecture.WEBP"
 slug: "lights-off-or-on-favor-natural-light-architecture-photography"
 translationKey: "lumiere-naturelle-vs-artificielle-photo-immobilier-architecture"
 ---

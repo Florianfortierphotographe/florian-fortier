@@ -2,7 +2,7 @@
 title: "Luxury Real Estate Photography: Enhancing Space and Light"
 description: "In high-end real estate photography, every detail influences the perception of a property. Discover how light acts as the ultimate enhancement tool."
 date: 2026-04-30
-image: "/images/post/photographie-immobiliere-prestige-espace-lumiere.webp"
+image: "/images/post/photographie-immobiliere-prestige-espace-lumiere.WEBP"
 slug: "luxury-real-estate-photography-space-light"
 translationKey: "photographie-immobiliere-prestige-espace-lumiere"
 ---

@@ -2,7 +2,7 @@
 title: "Artificial or Natural Light in Photography?"
 description: "The use of natural and artificial light in architecture and interior photography is a crucial choice. Discover how to balance them effectively."
 date: 2026-05-14
-image: "/images/post/lumière-artificiel-ou-lumière-naturel.webp"
+image: "/images/post/lumière-artificiel-ou-lumière-naturel.WEBP"
 slug: "artificial-or-natural-light"
 translationKey: "lumière-artificiel-ou-lumière-naturel"
 ---

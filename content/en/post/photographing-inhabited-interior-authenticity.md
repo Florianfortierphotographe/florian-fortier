@@ -2,7 +2,7 @@
 title: "Photographing an Inhabited Interior: Preserving Authenticity"
 description: "Photographing an already inhabited interior requires a sensitive approach. Discover how to reveal the soul of a place without altering it."
 date: 2026-01-25
-image: "/images/post/photographier-interieur-habite-authenticite.webp"
+image: "/images/post/photographier-interieur-habite-authenticite.WEBP"
 slug: "photographing-inhabited-interior-authenticity"
 translationKey: "photographier-interieur-habite-authenticite"
 ---

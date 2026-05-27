@@ -2,7 +2,7 @@
 title: "Architecture Photography: The Rigor of Symmetry and the Frontal Viewpoint"
 description: "The frontal viewpoint is the 'official portrait' of a building. Discover why this demanding framing sublimes architectural photography."
 date: 2026-03-12
-image: "/images/post/photographie-facade-architecture-symetrie-point-de-vue-frontal.webp"
+image: "/images/post/photographie-facade-architecture-symetrie-point-de-vue-frontal.WEBP"
 slug: "architecture-photography-symmetry-frontal-viewpoint"
 translationKey: "photographie-facade-architecture-symetrie-point-de-vue-frontal"
 ---

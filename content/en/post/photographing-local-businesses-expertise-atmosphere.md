@@ -2,7 +2,7 @@
 title: "Photographing Local Businesses: Highlighting Expertise and Atmosphere"
 description: "A carefully crafted series of images boosts the visibility of a local business. Learn how to showcase the mood and craftsmanship of your boutique."
 date: 2026-04-08
-image: "/images/post/photographier-commerces-de-proximite.webp"
+image: "/images/post/photographier-commerces-de-proximite.WEBP"
 slug: "photographing-local-businesses-expertise-atmosphere"
 translationKey: "photographier-commerces-de-proximite"
 ---

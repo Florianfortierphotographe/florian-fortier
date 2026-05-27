@@ -2,7 +2,7 @@
 title: "Photographier une façade au lever du soleil : capter la bonne lumière au bon moment"
 description: "La lumière du matin révèle les volumes et les matériaux. Découvrez pourquoi photographier au lever du soleil est une stratégie clé en architecture."
 date: 2026-03-25
-image: "/images/post/photographier-facade-lever-du-soleil-lumiere-architecture.webp"
+image: "/images/post/photographier-facade-lever-du-soleil-lumiere-architecture.WEBP"
 slug: "photographier-facade-lever-du-soleil-lumiere-architecture"
 translationKey: "photographier-facade-lever-du-soleil-lumiere-architecture"
 ---

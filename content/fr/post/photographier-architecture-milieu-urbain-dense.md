@@ -2,7 +2,7 @@
 title: "Photographier l’architecture en milieu urbain dense : composer avec les contraintes de l’environnement"
 description: "La photographie d’architecture en ville demande une maîtrise précise du cadrage. Découvrez comment transformer les obstacles urbains en atouts visuels."
 date: 2026-05-02
-image: "/images/post/photographier-architecture-milieu-urbain-dense.webp"
+image: "/images/post/photographier-architecture-milieu-urbain-dense.WEBP"
 slug: "photographier-architecture-milieu-urbain-dense"
 translationKey: "photographier-architecture-milieu-urbain-dense"
 ---

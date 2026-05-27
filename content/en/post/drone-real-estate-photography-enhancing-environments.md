@@ -2,7 +2,7 @@
 title: "Real Estate Drone Photography: Enhancing Open Spaces and Surroundings"
 description: "Drones are essential for rural real estate. Discover how aerial views reveal the sheer scale and tranquility of your properties."
 date: 2026-03-25
-image: "/images/post/photographie-drone-immobilier-environnement-campagne.webp"
+image: "/images/post/photographie-drone-immobilier-environnement-campagne.WEBP"
 slug: "drone-real-estate-photography-enhancing-environments"
 translationKey: "photographie-drone-immobilier-environnement-campagne"
 ---

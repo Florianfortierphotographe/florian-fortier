@@ -2,7 +2,7 @@
 title: "The Haussmann Style in Photos: Enhancing the 'Parquet, Moldings, Fireplace' and Parisian Volumes"
 description: "How to photograph the Parisian myth? Discover my techniques for subliming the charm of the old: parquet floors, moldings, fireplaces, and enfilades."
 date: 2026-02-15
-image: "/images/post/photographier-appartement-haussmannien-paris.webp"
+image: "/images/post/photographier-appartement-haussmannien-paris.WEBP"
 slug: "photographing-haussmann-apartments-paris-style"
 translationKey: "photographier-appartement-haussmannien-paris"
 ---

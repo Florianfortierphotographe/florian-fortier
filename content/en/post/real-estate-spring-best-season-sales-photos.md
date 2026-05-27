@@ -2,7 +2,7 @@
 title: "Real Estate: Why Spring is the King of Seasons for Your Sales Photos"
 description: "Don't leave your listings with gloomy winter visuals! Learn why spring is the ultimate season to revive the appeal of a property for sale."
 date: 2026-04-18
-image: "/images/post/immobilier-printemps-meilleure-saison-photo.webp"
+image: "/images/post/immobilier-printemps-meilleure-saison-photo.WEBP"
 slug: "real-estate-spring-best-season-sales-photos"
 translationKey: "immobilier-printemps-meilleure-saison-photo"
 ---

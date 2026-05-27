@@ -2,7 +2,7 @@
 title: "Photographie immobilière haut de gamme : sublimer le patrimoine d’un château"
 description: "Photographier un château, c’est mettre en lumière un patrimoine vivant, chargé d’histoire, d’architecture et d’émotions. Découvrez ma méthode."
 date: 2026-04-05
-image: "/images/post/photographie-immobiliere-chateau-bien-exception.webp"
+image: "/images/post/photographie-immobiliere-chateau-bien-exception.WEBP"
 slug: "photographie-immobiliere-chateau-bien-exception"
 translationKey: "photographie-immobiliere-chateau-bien-exception"
 ---

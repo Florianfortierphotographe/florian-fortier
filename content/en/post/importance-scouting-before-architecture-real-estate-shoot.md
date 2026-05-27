@@ -2,7 +2,7 @@
 title: "The Importance of Scouting Before an Architecture or Real Estate Shoot"
 description: "Preparation is just as important as the shoot itself. Learn why location scouting is a crucial step to guarantee a successful photo reportage."
 date: 2026-03-20
-image: "/images/post/importance-reperage-avant-shooting-architecture-immobilier.webp"
+image: "/images/post/importance-reperage-avant-shooting-architecture-immobilier.WEBP"
 slug: "importance-scouting-before-architecture-real-estate-shoot"
 translationKey: "importance-reperage-avant-shooting-architecture-immobilier"
 ---

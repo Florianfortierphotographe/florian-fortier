@@ -2,7 +2,7 @@
 title: "Photographie immobilière : Comment valoriser un appartement ou une maison vide ?"
 description: "Un bien vide paraît souvent plus petit en photo. Découvrez mes techniques de photographe immobilier pour redonner l'échelle et valoriser les volumes."
 date: 2026-02-15
-image: "/images/post/photographie-immobiliere-comment-valoriser-un-appartement-ou-une-maison-vide.webp"
+image: "/images/post/photographie-immobiliere-comment-valoriser-un-appartement-ou-une-maison-vide.WEBP"
 slug: "photographie-immobiliere-valoriser-bien-vide"
 translationKey: "photographie-immobiliere-valoriser-bien-vide"
 ---

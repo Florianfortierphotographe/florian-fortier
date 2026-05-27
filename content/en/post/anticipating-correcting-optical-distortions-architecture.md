@@ -2,7 +2,7 @@
 title: "How I Anticipate and Correct Optical Distortions in Architecture"
 description: "Optical distortions can alter the perception of a building. Discover my method for guaranteeing perfect verticals and faithful perspectives."
 date: 2026-01-28
-image: "/images/post/anticiper-corriger-deformations-optiques-architecture.webp"
+image: "/images/post/anticiper-corriger-deformations-optiques-architecture.WEBP"
 slug: "anticipating-correcting-optical-distortions-architecture"
 translationKey: "anticiper-corriger-deformations-optiques-architecture"
 ---

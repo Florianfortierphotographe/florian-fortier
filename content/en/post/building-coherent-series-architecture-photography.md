@@ -2,7 +2,7 @@
 title: "Building a Coherent Series in Architecture Photography"
 description: "Creating a coherent photographic series is essential to tell the full story of an architectural project and convey its true atmosphere."
 date: 2025-12-30
-image: "/images/post/serie-coherente-photographie-architecture.webp"
+image: "/images/post/serie-coherente-photographie-architecture.WEBP"
 slug: "building-coherent-series-architecture-photography"
 translationKey: "serie-coherente-photographie-architecture"
 ---

@@ -2,7 +2,7 @@
 title: "Photographie de chantier : un outil de communication pour les promoteurs et architectes"
 description: "La photographie de chantier est devenue un outil stratégique. Découvrez comment elle valorise le savoir-faire des équipes et l’évolution d'un projet."
 date: 2026-02-22
-image: "/images/post/photographie-de-chantier-communication-promoteurs-architectes.webp"
+image: "/images/post/photographie-de-chantier-communication-promoteurs-architectes.WEBP"
 slug: "photographie-de-chantier-communication-promoteurs-architectes"
 translationKey: "photographie-de-chantier-communication-promoteurs-architectes"
 ---

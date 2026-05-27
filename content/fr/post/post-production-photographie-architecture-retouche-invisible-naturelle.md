@@ -2,7 +2,7 @@
 title: "L'Invisible au service du Réel : Pourquoi la post-production est l'essence de la photographie d'architecture"
 description: "Le fichier RAW n'est qu'une partition. Découvrez pourquoi la post-production est essentielle pour restituer la réalité en photographie d'architecture."
 date: 2026-02-05
-image: "/images/post/post-production-photographie-architecture-retouche-invisible-naturelle.webp"
+image: "/images/post/post-production-photographie-architecture-retouche-invisible-naturelle.WEBP"
 slug: "post-production-photographie-architecture-retouche-invisible-naturelle"
 translationKey: "post-production-photographie-architecture-retouche-invisible-naturelle"
 ---

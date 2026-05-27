@@ -2,7 +2,7 @@
 title: "Photographing a Property in Bad Weather: How I Adapt My Approach to Save the Shoot"
 description: "Is bad weather threatening your real estate or architectural shoot? Discover my professional methods for guaranteeing stunning and enhancing images."
 date: 2026-03-10
-image: "/images/post/photographier-bien-meteo-defavorable-adapter-approche.webp"
+image: "/images/post/photographier-bien-meteo-defavorable-adapter-approche.WEBP"
 slug: "photographing-property-bad-weather-adapting-approach"
 translationKey: "photographier-bien-meteo-defavorable-adapter-approche"
 ---

@@ -2,7 +2,7 @@
 title: "Photographie de rénovation : L'art de raconter la métamorphose d'un lieu"
 description: "Du 'Avant' au 'Après', la documentation d'une rénovation prouve votre expertise. Découvrez comment je photographie la métamorphose de vos chantiers."
 date: 2026-01-20
-image: "/images/post/photographie-de-renovation-l-art-de-raconter-la-metamorphose-d-un-lieu.webp"
+image: "/images/post/photographie-de-renovation-l-art-de-raconter-la-metamorphose-d-un-lieu.WEBP"
 slug: "photographie-renovation-raconter-transformation"
 translationKey: "photographie-renovation-raconter-transformation"
 ---

@@ -2,7 +2,7 @@
 title: "Photographie immobilière de prestige : valoriser l’espace et la lumière"
 description: "Dans la photographie immobilière haut de gamme, chaque détail influence la perception d’un bien. La lumière joue un rôle essentiel de mise en valeur."
 date: 2026-04-12
-image: "/images/post/photographie-immobiliere-prestige-espace-lumiere.webp"
+image: "/images/post/photographie-immobiliere-prestige-espace-lumiere.WEBP"
 slug: "photographie-immobiliere-prestige-espace-lumiere"
 translationKey: "photographie-immobiliere-prestige-espace-lumiere"
 ---

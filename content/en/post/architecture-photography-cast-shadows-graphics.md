@@ -2,7 +2,7 @@
 title: "Architecture Photography: Playing with Cast Shadows and Graphic Design"
 description: "Don't fear the midday sun! Discover how I use hard light and cast shadows to sculpt building facades and create striking architectural photographs."
 date: 2026-04-20
-image: "/images/post/photographie-architecture-ombres-portees-graphisme.webp"
+image: "/images/post/photographie-architecture-ombres-portees-graphisme.WEBP"
 slug: "architecture-photography-cast-shadows-graphics"
 translationKey: "photographie-architecture-ombres-portees-graphisme"
 ---

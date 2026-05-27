@@ -2,7 +2,7 @@
 title: "Architecture, Real Estate & Retail Photographer, Paris"
 description: "Architecture, real estate and retail photographer in Paris. Tailored images to elevate your commercial spaces, hotels, and property developments in Europe."
 hero_title: "Architecture, real estate and retail photographer in Paris, France"
-image: "/images/hero-1.webp"
+image: "/images/hero-1.WEBP"
 
 hero_subtitle: "Based in the Paris region, I work with architects, developers, retailers and design professionals to create images that strengthen the visual identity of their projects. Explore my portfolios and let’s find the right photographic approach for your spaces in France and across Europe."
 hero_arrow_label: "View services"

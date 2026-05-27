@@ -2,7 +2,7 @@
 title: "Retail Photography: Staging Your Teams to Humanize the Point of Sale"
 description: "A deserted store can feel cold. Learn why staging your teams before opening day is the best way to humanize your retail photography and brand image."
 date: 2026-02-14
-image: "/images/post/photographie-retail-mise-en-scene-equipes-experience-client.webp"
+image: "/images/post/photographie-retail-mise-en-scene-equipes-experience-client.WEBP"
 slug: "retail-photography-staging-teams-customer-experience"
 translationKey: "photographie-retail-mise-en-scene-equipes-experience-client"
 ---

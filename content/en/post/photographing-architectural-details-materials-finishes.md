@@ -2,7 +2,7 @@
 title: "Photographing Architectural Details: Enhancing Materials and Finishes"
 description: "Architectural details embody the soul of a project. Learn how I highlight the craftsmanship, materials, and finishes of your designs."
 date: 2026-03-15
-image: "/images/post/photographier-details-architecturaux-materiaux-finitions.webp"
+image: "/images/post/photographier-details-architecturaux-materiaux-finitions.WEBP"
 slug: "photographing-architectural-details-materials-finishes"
 translationKey: "photographier-details-architecturaux-materiaux-finitions"
 ---

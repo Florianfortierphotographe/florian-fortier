@@ -2,7 +2,7 @@
 title: "Pool and Spa Photography: Enhancing Water and Outdoor Spaces"
 description: "Photographing a pool requires mastering reflections and light. Discover my techniques for capturing crystal-clear water and enhancing outdoor spaces."
 date: 2026-03-25
-image: "/images/post/photographie-piscine-spa-sublimer-eau-exterieurs.webp"
+image: "/images/post/photographie-piscine-spa-sublimer-eau-exterieurs.WEBP"
 slug: "pool-spa-photography-enhancing-water-outdoors"
 translationKey: "photographie-piscine-spa-sublimer-eau-exterieurs"
 ---

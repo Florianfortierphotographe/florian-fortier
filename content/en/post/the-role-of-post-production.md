@@ -2,7 +2,7 @@
 title: "The Role of Post-Production"
 description: "Discover the importance of post-production in architecture and interior photography, and how it helps to enhance your projects naturally."
 date: 2026-05-14
-image: "/images/post/la-post-production.webp"
+image: "/images/post/la-post-production.WEBP"
 slug: "the-role-of-post-production"
 translationKey: "la-post-production"
 ---

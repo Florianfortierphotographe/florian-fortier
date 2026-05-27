@@ -2,7 +2,7 @@
 title: "Architecture Photographer for Real Estate Developers in France: A Strategic Lever to Sell Faster"
 description: "Sell your new developments faster. Discover why real estate developers must invest in consistent architecture photography."
 date: 2026-04-15
-image: "/images/post/photographe-architecture-promoteurs-immobiliers-france.webp"
+image: "/images/post/photographe-architecture-promoteurs-immobiliers-france.WEBP"
 slug: "architecture-photographer-real-estate-developers-france"
 translationKey: "photographe-architecture-promoteurs-immobiliers-france"
 ---

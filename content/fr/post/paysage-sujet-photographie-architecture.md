@@ -2,7 +2,7 @@
 title: "Quand le paysage devient sujet autant que l’architecture"
 description: "Un bâtiment s'inscrit toujours dans un lieu. Apprenez à trouver le juste équilibre visuel entre le projet architectural et son environnement naturel."
 date: 2026-05-10
-image: "/images/post/paysage-sujet-photographie-architecture.webp"
+image: "/images/post/paysage-sujet-photographie-architecture.WEBP"
 slug: "paysage-sujet-photographie-architecture"
 translationKey: "paysage-sujet-photographie-architecture"
 ---

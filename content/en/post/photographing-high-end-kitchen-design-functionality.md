@@ -2,7 +2,7 @@
 title: "Photographing a High-End Kitchen: Showcasing Both Design and Functionality"
 description: "Photographing a premium kitchen requires a precise approach. Discover how I highlight noble materials, leading lines, and ergonomics."
 date: 2026-01-20
-image: "/images/post/photographier-cuisine-haut-de-gamme-design-fonctionnalite.webp"
+image: "/images/post/photographier-cuisine-haut-de-gamme-design-fonctionnalite.WEBP"
 slug: "photographing-high-end-kitchen-design-functionality"
 translationKey: "photographier-cuisine-haut-de-gamme-design-fonctionnalite"
 ---

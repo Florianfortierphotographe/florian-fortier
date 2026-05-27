@@ -2,7 +2,7 @@
 title: "Photographier un logement en location courte durée : ce qui change par rapport à l’immobilier classique"
 description: "La location saisonnière exige de vendre une expérience. Découvrez comment je photographie les logements Airbnb pour déclencher des réservations immédiates."
 date: 2026-02-22
-image: "/images/post/photographier-logement-location-courte-duree-airbnb.webp"
+image: "/images/post/photographier-logement-location-courte-duree-airbnb.WEBP"
 slug: "photographier-logement-location-courte-duree-airbnb"
 translationKey: "photographier-logement-location-courte-duree-airbnb"
 ---

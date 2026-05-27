@@ -2,7 +2,7 @@
 title: "Photographing the Common Areas of a Residence: Creating a Coherent Image of the Residential Experience"
 description: "Lobbies and hallways define the standing of a real estate project. Learn how I enhance these spaces for premium and high-end communication."
 date: 2026-04-20
-image: "/images/post/photographier-parties-communes-residence-experience.webp"
+image: "/images/post/photographier-parties-communes-residence-experience.WEBP"
 slug: "photographing-common-areas-residence-residential-experience"
 translationKey: "photographier-parties-communes-residence-experience"
 ---

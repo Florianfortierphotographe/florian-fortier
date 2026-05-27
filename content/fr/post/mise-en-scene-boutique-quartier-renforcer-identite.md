@@ -2,7 +2,7 @@
 title: "Comment je mets en scène une boutique de quartier pour renforcer son identité"
 description: "Chaque boutique possède sa propre identité. Découvrez comment je la mets en scène pour créer des images authentiques et renforcer sa visibilité locale."
 date: 2026-05-02
-image: "/images/post/mise-en-scene-boutique-quartier-renforcer-identite.webp"
+image: "/images/post/mise-en-scene-boutique-quartier-renforcer-identite.WEBP"
 slug: "mise-en-scene-boutique-quartier-renforcer-identite"
 translationKey: "mise-en-scene-boutique-quartier-renforcer-identite"
 ---

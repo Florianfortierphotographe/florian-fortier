@@ -2,7 +2,7 @@
 title: "Photographier les détails architecturaux : sublimer les matériaux et les finitions d’un projet"
 description: "Les détails incarnent l’âme d’un projet architectural. Découvrez comment je mets en lumière le savoir-faire, les matériaux et les finitions."
 date: 2026-03-24
-image: "/images/post/photographier-details-architecturaux-materiaux-finitions.webp"
+image: "/images/post/photographier-details-architecturaux-materiaux-finitions.WEBP"
 slug: "photographier-details-architecturaux-materiaux-finitions"
 translationKey: "photographier-details-architecturaux-materiaux-finitions"
 ---

@@ -2,7 +2,7 @@
 title: "Contemporary Architecture Photography: Capturing Natural Light"
 description: "Natural light plays a central role in contemporary architecture photography. Learn how to master this light with precision and artistry."
 date: 2026-03-22
-image: "/images/post/photographie-architecture-lumiere-naturelle.webp"
+image: "/images/post/photographie-architecture-lumiere-naturelle.WEBP"
 slug: "contemporary-architecture-natural-light"
 translationKey: "photographie-architecture-lumiere-naturelle"
 ---

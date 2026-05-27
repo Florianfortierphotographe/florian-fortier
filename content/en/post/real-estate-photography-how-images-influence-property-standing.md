@@ -2,7 +2,7 @@
 title: "Real Estate Photography: How Images Influence the Perception of a Property's Standing"
 description: "Standing is not just about the address. Learn how masterful real estate photography immediately positions a high-end property."
 date: 2026-05-15
-image: "/images/post/photographie-immobiliere-influence-images-standing-bien.webp"
+image: "/images/post/photographie-immobiliere-influence-images-standing-bien.WEBP"
 slug: "real-estate-photography-how-images-influence-property-standing"
 translationKey: "photographie-immobiliere-influence-images-standing-bien"
 ---

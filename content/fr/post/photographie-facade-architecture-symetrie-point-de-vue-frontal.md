@@ -2,7 +2,7 @@
 title: "Photographie d'Architecture : La rigueur de la symétrie et du point de vue frontal"
 description: "Le point de vue frontal est le 'portrait officiel' d'un bâtiment. Découvrez pourquoi ce cadrage exigeant sublime la photographie d'architecture."
 date: 2026-03-12
-image: "/images/post/photographie-facade-architecture-symetrie-point-de-vue-frontal.webp"
+image: "/images/post/photographie-facade-architecture-symetrie-point-de-vue-frontal.WEBP"
 slug: "photographie-facade-architecture-symetrie-point-de-vue-frontal"
 translationKey: "photographie-facade-architecture-symetrie-point-de-vue-frontal"
 ---

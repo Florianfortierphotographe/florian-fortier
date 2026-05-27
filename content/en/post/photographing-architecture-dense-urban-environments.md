@@ -2,7 +2,7 @@
 title: "Photographing Architecture in Dense Urban Environments"
 description: "Architecture photography in the city requires precise framing. Learn how to transform urban obstacles into true visual assets."
 date: 2026-05-10
-image: "/images/post/photographier-architecture-milieu-urbain-dense.webp"
+image: "/images/post/photographier-architecture-milieu-urbain-dense.WEBP"
 slug: "photographing-architecture-dense-urban-environments"
 translationKey: "photographier-architecture-milieu-urbain-dense"
 ---

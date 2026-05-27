@@ -2,7 +2,7 @@
 title: "Architecture Photographer in France: Why Hire a Mobile Specialist?"
 description: "Discover why hiring a mobile architectural photographer in France guarantees visual consistency for all your real estate and retail projects."
 date: 2026-04-10
-image: "/images/post/photographe-architecture-france-specialiste-mobile.webp"
+image: "/images/post/photographe-architecture-france-specialiste-mobile.WEBP"
 slug: "mobile-architecture-photographer-france"
 translationKey: "photographe-architecture-france-specialiste-mobile"
 ---

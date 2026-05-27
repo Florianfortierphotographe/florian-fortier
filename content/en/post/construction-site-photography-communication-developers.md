@@ -2,7 +2,7 @@
 title: "Construction Site Photography: A Communication Tool for Developers and Architects"
 description: "Construction photography has become a strategic tool. Discover how it enhances team expertise and showcases project evolution."
 date: 2026-03-02
-image: "/images/post/photographie-de-chantier-communication-promoteurs-architectes.webp"
+image: "/images/post/photographie-de-chantier-communication-promoteurs-architectes.WEBP"
 slug: "construction-site-photography-communication-developers"
 translationKey: "reportage-fin-de-chantier-livraison-batiment"
 ---

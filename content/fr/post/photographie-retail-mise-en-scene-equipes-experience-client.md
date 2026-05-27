@@ -2,7 +2,7 @@
 title: "Photographie Retail : Mettre en scène vos équipes pour humaniser le point de vente"
 description: "Une boutique vide peut paraître froide. Découvrez pourquoi mettre en scène vos équipes à J-1 est la meilleure stratégie pour humaniser votre retail."
 date: 2026-02-14
-image: "/images/post/photographie-retail-mise-en-scene-equipes-experience-client.webp"
+image: "/images/post/photographie-retail-mise-en-scene-equipes-experience-client.WEBP"
 slug: "photographie-retail-mise-en-scene-equipes-experience-client"
 translationKey: "photographie-retail-mise-en-scene-equipes-experience-client"
 ---

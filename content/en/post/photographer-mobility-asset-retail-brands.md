@@ -2,7 +2,7 @@
 title: "Photographing Boutiques Across France: Why a Photographer's Mobility is an Asset for Brands"
 description: "Consistent visuals across your retail network are vital. Discover how a mobile photographer ensures a strong and unified visual brand identity."
 date: 2026-03-15
-image: "/images/post/mobilite-photographe-atout-reseaux-boutiques.webp"
+image: "/images/post/mobilite-photographe-atout-reseaux-boutiques.WEBP"
 slug: "photographer-mobility-asset-retail-brands"
 translationKey: "mobilite-photographe-atout-reseaux-boutiques"
 ---

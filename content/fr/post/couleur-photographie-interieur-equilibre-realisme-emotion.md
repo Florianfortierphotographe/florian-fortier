@@ -2,7 +2,7 @@
 title: "La couleur en photographie d’intérieur : trouver l’équilibre entre réalisme et émotion"
 description: "En photographie de décoration, la couleur joue un rôle essentiel. Découvrez comment trouver l'équilibre entre la réalité objective et l'émotion d'un espace."
 date: 2026-01-08
-image: "/images/post/couleur-photographie-interieur-equilibre-realisme-emotion.webp"
+image: "/images/post/couleur-photographie-interieur-equilibre-realisme-emotion.WEBP"
 slug: "couleur-photographie-interieur-equilibre-realisme-emotion"
 translationKey: "couleur-photographie-interieur-equilibre-realisme-emotion"
 ---

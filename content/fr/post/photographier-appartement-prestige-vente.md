@@ -2,7 +2,7 @@
 title: "Photographier un appartement de prestige : sublimer l’espace pour accélérer la vente"
 description: "Les acheteurs haut de gamme recherchent une atmosphère. Découvrez comment des images professionnelles subliment un bien de prestige pour accélérer la vente."
 date: 2026-05-12
-image: "/images/post/photographier-appartement-prestige-vente.webp"
+image: "/images/post/photographier-appartement-prestige-vente.WEBP"
 slug: "photographier-appartement-prestige-vente"
 translationKey: "photographier-appartement-prestige-vente"
 ---

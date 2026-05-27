@@ -2,7 +2,7 @@
 title: "Optimizing the Photography of Furnished Properties: Creating a Welcoming Atmosphere"
 description: "Photographing a furnished property requires care and detail. Discover how to reveal a warm atmosphere to attract future occupants."
 date: 2026-04-05
-image: "/images/post/photographier-bien-meuble-atmosphere-coherente-accueillante.webp"
+image: "/images/post/photographier-bien-meuble-atmosphere-coherente-accueillante.WEBP"
 slug: "optimizing-furnished-property-photography-welcoming-atmosphere"
 translationKey: "photographier-bien-meuble-atmosphere-coherente-accueillante"
 ---

@@ -2,7 +2,7 @@
 title: "Photographing a Luxury Hotel or Suite: Building a Coherent Visual Narrative"
 description: "Photographing a luxury hotel requires strong visual storytelling. Discover how I capture the atmosphere and guest experience of exceptional venues."
 date: 2026-01-20
-image: "/images/post/photographier-hotel-suite-prestige-recit-visuel.webp"
+image: "/images/post/photographier-hotel-suite-prestige-recit-visuel.WEBP"
 slug: "photographing-luxury-hotel-suite-visual-narrative"
 translationKey: "photographier-hotel-suite-prestige-recit-visuel"
 ---

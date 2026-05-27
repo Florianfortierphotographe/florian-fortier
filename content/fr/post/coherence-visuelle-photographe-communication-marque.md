@@ -2,7 +2,7 @@
 title: "Créer une cohérence visuelle entre vos supports de communication"
 description: "Découvrez comment créer une signature visuelle homogène pour votre entreprise et pourquoi la cohérence photographique renforce votre image de marque."
 date: 2026-03-05
-image: "/images/post/coherence-visuelle-photographe-communication-marque.webp"
+image: "/images/post/coherence-visuelle-photographe-communication-marque.WEBP"
 slug: "coherence-visuelle-photographe-communication-marque"
 translationKey: "coherence-visuelle-photographe-communication-marque"
 ---

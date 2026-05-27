@@ -2,7 +2,7 @@
 title: "L’importance du mobilier dans la photographie d’un intérieur haut de gamme"
 description: "Le mobilier structure l'image et révèle le standing d'un lieu. Découvrez comment je le valorise dans la photographie d'intérieurs haut de gamme."
 date: 2026-04-12
-image: "/images/post/importance-mobilier-photographie-interieur-haut-de-gamme.webp"
+image: "/images/post/importance-mobilier-photographie-interieur-haut-de-gamme.WEBP"
 slug: "importance-mobilier-photographie-interieur-haut-de-gamme"
 translationKey: "importance-mobilier-photographie-interieur-haut-de-gamme"
 ---

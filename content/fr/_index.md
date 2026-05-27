@@ -2,7 +2,7 @@
 title: "Photographe Architecture, Immobilier et Retail à Paris"
 description: "Photographe d'architecture, immobilier et retail à Paris. Des images sur mesure pour valoriser l'identité de vos projets, espaces professionnels et de vente."
 hero_title: "Photographe architecture, immobilier et retail en Île-de-France"
-image: "/images/hero-1.webp"
+image: "/images/hero-1.WEBP"
 
 hero_subtitle: "Basé en région parisienne, j’accompagne architectes, promoteurs, enseignes et professionnels de l’immobilier dans la création d’images pensées pour révéler tout le potentiel de leurs projets. Découvrez mes univers photographiques et trouvons ensemble la meilleure façon de mettre en lumière vos réalisations."
 hero_arrow_label: "Voir les services"

@@ -2,7 +2,7 @@
 title: "L’impact d’un objectif tilt-shift dans une série d’architecture"
 description: "Découvrez pourquoi l'objectif tilt-shift est incontournable en photographie d'architecture pour redresser les lignes et garantir un rendu professionnel."
 date: 2026-05-15
-image: "/images/post/impact-objectif-tilt-shift-serie-architecture.webp"
+image: "/images/post/impact-objectif-tilt-shift-serie-architecture.WEBP"
 slug: "impact-objectif-tilt-shift-serie-architecture"
 translationKey: "impact-objectif-tilt-shift-serie-architecture"
 ---

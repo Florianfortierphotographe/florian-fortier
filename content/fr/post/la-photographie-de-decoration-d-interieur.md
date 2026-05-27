@@ -2,7 +2,7 @@
 title: "La photographie de décoration d'intérieur"
 description: "La décoration d'intérieur est un art complexe qui nécessite de nombreuses compétences. Dans cet article, je vais explorer l'importance de la photographie dans ce domaine."
 date: 2026-05-14
-image: "/images/post/la-photographie-de-décoration-d-intérieur.webp"
+image: "/images/post/la-photographie-de-décoration-d-intérieur.WEBP"
 slug: "la-photographie-de-décoration-d-intérieur"
 translationKey: "la-photographie-de-décoration-d-intérieur"
 ---

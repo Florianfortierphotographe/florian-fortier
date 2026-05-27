@@ -2,7 +2,7 @@
 title: "Why a Building's Orientation Radically Changes the Photographic Approach"
 description: "Sun exposure dictates the success of a photo shoot. Understand why a building's orientation is fundamental in architectural photography."
 date: 2025-12-15
-image: "/images/post/orientation-batiment-influence-approche-photographique.webp"
+image: "/images/post/orientation-batiment-influence-approche-photographique.WEBP"
 slug: "building-orientation-influences-photographic-approach"
 translationKey: "orientation-batiment-influence-approche-photographique"
 ---

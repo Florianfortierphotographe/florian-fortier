@@ -2,7 +2,7 @@
 title: "Comment je m’organise pour livrer un projet urgent dans un contexte logistique compliqué"
 description: "Délai court ? Accès difficile ? Découvrez comment j'adapte ma méthode photographique pour livrer un reportage professionnel en urgence."
 date: 2026-04-20
-image: "/images/post/livrer-projet-urgent-contexte-logistique-complique.webp"
+image: "/images/post/livrer-projet-urgent-contexte-logistique-complique.WEBP"
 slug: "livrer-projet-urgent-contexte-logistique-complique"
 translationKey: "livrer-projet-urgent-contexte-logistique-complique"
 ---

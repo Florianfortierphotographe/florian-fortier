@@ -2,7 +2,7 @@
 title: "Why Excessive Post-Production Can Harm a Project's Credibility"
 description: "Editing must serve reality, not transform it. Discover why excessive post-production destroys trust in real estate and architecture photography."
 date: 2026-05-02
-image: "/images/post/post-production-excessive-nuire-credibilite-projet.webp"
+image: "/images/post/post-production-excessive-nuire-credibilite-projet.WEBP"
 slug: "excessive-post-production-harms-project-credibility"
 translationKey: "post-production-excessive-nuire-credibilite-projet"
 ---
