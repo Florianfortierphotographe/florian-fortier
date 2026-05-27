@@ -1,0 +1,100 @@
+<header>
+  <div class="header-inner">
+
+    <a href="{{ if eq .Lang "fr" }}/{{ else }}/en/{{ end }}" class="logo">
+      <img src="/images/logo.png" alt="Logo Florian Fortier" class="logo-img">
+      <div class="logo-text">
+        <span class="logo-nom">Florian Fortier</span>
+        <span class="logo-subtitle">Photographe d'architecture, retail et immobilier</span>
+      </div>
+    </a>
+
+    <div class="desktop-nav">
+      <nav>
+        <ul>
+          {{ range index .Site.Menus .Lang }}
+            {{ if .HasChildren }}
+              <li class="dropdown">
+                <a href="#">{{ .Name }}</a>
+                <ul class="dropdown-menu">
+                  {{ range .Children }}
+                    <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+                  {{ end }}
+                </ul>
+              </li>
+            {{ else }}
+              <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+            {{ end }}
+          {{ end }}
+        </ul>
+      </nav>
+      <div class="lang-switcher">
+        {{ if eq .Lang "fr" }}
+  <a href="/" class="active">FR</a>
+  <span>|</span>
+  {{ range .Translations }}
+    <a href="{{ .Permalink }}">EN</a>
+  {{ else }}
+    <a href="/en/">EN</a>
+  {{ end }}
+{{ else }}
+  {{ range .Translations }}
+    <a href="{{ .Permalink }}">FR</a>
+  {{ else }}
+    <a href="/">FR</a>
+  {{ end }}
+  <span>|</span>
+  <a href="/en/" class="active">EN</a>
+{{ end }}
+      </div>
+    </div>
+
+    <button class="burger" id="burger" aria-label="Ouvrir le menu">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+
+  </div>
+</header>
+
+<div class="nav-group" id="nav-group">
+  <button class="burger-close" id="burger-close" aria-label="Fermer le menu">×</button>
+  <nav>
+    <ul>
+      {{ range index .Site.Menus .Lang }}
+        {{ if .HasChildren }}
+          <li class="dropdown">
+            <a href="#">{{ .Name }}</a>
+            <ul class="dropdown-menu">
+              {{ range .Children }}
+                <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+              {{ end }}
+            </ul>
+          </li>
+        {{ else }}
+          <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+        {{ end }}
+      {{ end }}
+    </ul>
+  </nav>
+  <div class="lang-switcher">
+    {{ if eq .Lang "fr" }}
+  <a href="/" class="active">FR</a>
+  <span>|</span>
+  {{ range .Translations }}
+    <a href="{{ .Permalink }}">EN</a>
+  {{ else }}
+    <a href="/en/">EN</a>
+  {{ end }}
+{{ else }}
+  {{ range .Translations }}
+    <a href="{{ .Permalink }}">FR</a>
+  {{ else }}
+    <a href="/">FR</a>
+  {{ end }}
+  <span>|</span>
+  <a href="/en/" class="active">EN</a>
+{{ end }}
+  </div>
+</div>

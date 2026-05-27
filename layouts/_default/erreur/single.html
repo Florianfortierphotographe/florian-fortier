@@ -1,0 +1,24 @@
+{{ define "main" }}
+<section class="error-404-section">
+  <div class="error-404-container">
+    
+    <div class="error-404-image">
+      <img src="{{ .Params.image | absURL }}" alt="Erreur {{ .Title }} - Florian Fortier">
+    </div>
+
+    <div class="error-404-content">
+      <h1 class="error-title">{{ .Title }}</h1>
+      <p class="error-text">{{ .Params.description }}</p>
+      
+      <div class="error-actions">
+        <a href="{{ site.Home.RelPermalink }}" class="btn-error">{{ .Params.btn_home }}</a>
+        
+        {{ if .Params.btn_secondary_url }}
+          <a href="{{ .Params.btn_secondary_url | relLangURL }}" class="btn-error btn-secondary">{{ .Params.btn_secondary_text }}</a>
+        {{ end }}
+      </div>
+    </div>
+
+  </div>
+</section>
+{{ end }}

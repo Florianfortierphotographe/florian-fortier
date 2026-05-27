@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="{{ .Lang }}">
+<head>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-NHLP1D1CWQ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-NHLP1D1CWQ');
+  </script>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  {{ $pageTitle := .Title }}
+  {{ if not .IsHome }}
+    {{ $pageTitle = printf "%s | Florian Fortier" .Title }}
+  {{ end }}
+
+  {{ $pageDescription := .Site.Params.description }}
+  {{ with .Params.description }}
+    {{ $pageDescription = . }}
+  {{ end }}
+
+  {{ $ogLocale := "en_GB" }}
+  {{ if eq .Lang "fr" }}
+    {{ $ogLocale = "fr_FR" }}
+  {{ end }}
+
+  {{ $ogImage := "" }}
+  {{ with .Params.image }}
+    {{ $ogImage = . | absURL }}
+  {{ end }}
+  {{ if and .IsHome (eq $ogImage "") }}
+    {{ $ogImage = "images/hero-1.webp" | absURL }}
+  {{ end }}
+
+  <title>{{ $pageTitle }}</title>
+
+  <meta name="description" content="{{ $pageDescription }}">
+  <meta name="author" content="Florian Fortier">
+  <meta name="robots" content="index, follow">
+
+  <link rel="canonical" href="{{ .Permalink }}">
+
+  {{ if .IsHome }}
+  <link rel="alternate" hreflang="fr" href="{{ .Site.BaseURL }}">
+  <link rel="alternate" hreflang="en" href="{{ .Site.BaseURL }}en/">
+  {{ else }}
+    <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}">
+    {{ range .Translations }}
+      <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}">
+    {{ end }}
+  {{ end }}
+  <link rel="alternate" hreflang="x-default" href="{{ .Site.BaseURL }}">
+
+  <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+  <meta property="og:title" content="{{ $pageTitle }}">
+  <meta property="og:description" content="{{ $pageDescription }}">
+  <meta property="og:url" content="{{ .Permalink }}">
+  <meta property="og:site_name" content="Florian Fortier Photographe">
+  <meta property="og:locale" content="{{ $ogLocale }}">
+  {{ if ne $ogImage "" }}
+    <meta property="og:image" content="{{ $ogImage }}">
+  {{ end }}
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ $pageTitle }}">
+  <meta name="twitter:description" content="{{ $pageDescription }}">
+
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "name": "Florian Fortier Photographe",
+  "description": "{{ $pageDescription }}",
+  "url": "{{ .Permalink }}",
+  "telephone": "+33618267240",
+  "email": "contact@florianfortier.com",
+  "image": "{{ .Site.BaseURL }}images/logo.png",
+  "priceRange": "€€",
+"address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Rambouillet",
+    "addressRegion": "Île-de-France",
+    "postalCode": "78120",
+    "addressCountry": "FR"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "48.6424",
+    "longitude": "1.8294"
+  },
+  "areaServed": [
+    {"@type": "City", "name": "Paris"},
+    {{ if eq .Lang "fr" }}
+    {"@type": "State", "name": "Île-de-France"},
+    {"@type": "Country", "name": "France"}
+    {{ else }}
+    {"@type": "City", "name": "London"},
+    {"@type": "City", "name": "Amsterdam"},
+    {"@type": "Country", "name": "France"},
+    {"@type": "Country", "name": "United Kingdom"},
+    {"@type": "Country", "name": "Netherlands"}
+    {{ end }}
+  ],
+  "knowsAbout": [
+    {{ if eq .Lang "fr" }}
+    "Photographie d'architecture",
+    "Photographe immobilier Paris",
+    "Photographe retail",
+    "Photographe point de vente",
+    "Photographe architecture commerciale",
+    "Photographe Île-de-France"
+    {{ else }}
+    "Architecture photography",
+    "Real estate photographer Paris",
+    "Retail photography",
+    "Commercial photographer London",
+    "Architecture photographer Amsterdam"
+    {{ end }}
+  ],
+  "sameAs": [
+    "https://www.instagram.com/florianfortier"
+  ]
+}
+</script>
+
+  {{ if and .IsPage (eq .Section "blog") }}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "{{ .Title }}",
+    "image": "{{ with .Params.image }}{{ . | absURL }}{{ end }}",
+    "author": {
+      "@type": "Person",
+      "name": "Florian Fortier"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Florian Fortier Photographe",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "{{ .Site.BaseURL }}images/logo.png"
+      }
+    },
+    "datePublished": "{{ .Date.Format "2006-01-02" }}",
+    "dateModified": "{{ .Lastmod.Format "2006-01-02" }}",
+    "description": "{{ .Summary }}"
+  }
+  </script>
+  {{ end }}
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="/css/main.css">
+
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="manifest" href="/site.webmanifest" />
+
+</head>
+<body>
+
+  {{ partial "header.html" . }}
+
+  <main>
+    {{ block "main" . }}{{ end }}
+  </main>
+
+  {{ partial "footer.html" . }}
+
+  <script src="/js/main.js"></script>
+
+  <div id="custom-cookie-banner" style="display: none;">
+    <p id="custom-cookie-text">{{ if eq .Lang "fr" }}Ce site utilise des cookies pour vous garantir la meilleure expérience.{{ else }}This website uses cookies to ensure you get the best experience.{{ end }}</p>
+<button id="custom-cookie-btn" onclick="acceptCustomCookies()">{{ if eq .Lang "fr" }}Tout accepter{{ else }}Accept all{{ end }}</button>
+  </div>
+
+  <script>
+    if (!localStorage.getItem('cookies-accepted')) {
+      document.getElementById('custom-cookie-banner').style.display = 'flex';
+    }
+
+    function acceptCustomCookies() {
+      localStorage.setItem('cookies-accepted', 'true');
+      var banner = document.getElementById('custom-cookie-banner');
+      banner.style.opacity = '0';
+      banner.style.transform = 'translateY(20px)';
+      setTimeout(function() {
+        banner.style.display = 'none';
+      }, 300);
+    }
+  </script>
+
+</body>
+</html>

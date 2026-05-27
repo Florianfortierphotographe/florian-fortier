@@ -1,0 +1,157 @@
+baseURL = "https://florianfortier.com/"
+defaultContentLanguage = "fr"
+defaultContentLanguageInSubdir = false
+enableRobotsTXT = true
+title = "Florian Fortier - Photographe d'architecture et immobilier"
+
+[permalinks]
+  portfolio = "/:slug/"
+  post = "/post/:slug/"
+
+[params]
+  description = "Photographe d'architecture, immobilier et retail basé en région parisienne. Intervient à Paris, en Île-de-France et dans toute la France."
+  email = "contact@florianfortier.com"
+  phone = "06.18.26.72.40"
+  instagram = "https://www.instagram.com/florianfortier"
+  author = "Florian Fortier"
+  locale_fr = "fr_FR"
+  locale_en = "en_GB"
+[languages]
+  [languages.fr]
+    languageName = "Français"
+    weight = 1
+    contentDir = "content/fr"
+    title = "Florian Fortier - Photographe d'architecture et immobilier"
+    [languages.fr.params]
+      description = "Photographe d'architecture, immobilier et retail à Paris et en Île-de-France. Reportages professionnels pour architectes, promoteurs et enseignes."
+
+  [languages.en]
+    languageName = "English"
+    weight = 2
+    contentDir = "content/en"
+    title = "Florian Fortier - Architecture & Real Estate Photographer"
+    [languages.en.params]
+      description = "Architecture, retail and real estate photographer based in Paris. Professional photography for architects, developers and brands across Europe."
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[menus]
+  # ---------------------------------------------------------------------------
+  # MENU FRANÇAIS (Racine du site : florianfortier.com/)
+  # ---------------------------------------------------------------------------
+  [[menus.fr]]
+  name = "Accueil"
+  url = "/"
+  weight = 1
+
+  [[menus.fr]]
+  name = "Portfolio"
+  url = "#"
+  weight = 2
+  identifier = "portfolio-fr"
+
+  [[menus.fr]]
+  name = "Architecture"
+  url = "/architecture/"
+  weight = 21
+  parent = "portfolio-fr"
+
+  [[menus.fr]]
+  name = "Immobilier résidentiel & touristique"
+  url = "/immobilier/"
+  weight = 22
+  parent = "portfolio-fr"
+
+  [[menus.fr]]
+  name = "Immobilier professionnel & retail"
+  url = "/immobilier-professionnel/"
+  weight = 23
+  parent = "portfolio-fr"
+
+  [[menus.fr]]
+  name = "Reportage d'entreprise"
+  url = "/reportage-entreprise/"
+  weight = 24
+  parent = "portfolio-fr"
+
+  [[menus.fr]]
+  name = "Paysage"
+  url = "/paysage/"
+  weight = 25
+  parent = "portfolio-fr"
+
+  [[menus.fr]]
+  name = "Présentation"
+  url = "/presentation/"
+  weight = 3
+
+  [[menus.fr]]
+  name = "Blog"
+  url = "/blog/"
+  weight = 4
+
+  [[menus.fr]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 5
+
+  # ---------------------------------------------------------------------------
+  # MENU ANGLAIS (Sous-répertoire : florianfortier.com/en/)
+  # ---------------------------------------------------------------------------
+  [[menus.en]]
+  name = "Home"
+  url = "/en/"
+  weight = 1
+
+  [[menus.en]]
+  name = "Portfolio"
+  url = "#"
+  weight = 2
+  identifier = "portfolio-en"
+
+  [[menus.en]]
+  name = "Architecture"
+  url = "/en/architecture/"
+  weight = 21
+  parent = "portfolio-en"
+
+  [[menus.en]]
+  name = "Residential & Hospitality"
+  url = "/en/residential-hospitality/"
+  weight = 22
+  parent = "portfolio-en"
+
+  [[menus.en]]
+  name = "Retail & Commercial"
+  url = "/en/retail-commercial/"
+  weight = 23
+  parent = "portfolio-en"
+
+  [[menus.en]]
+  name = "Corporate"
+  url = "/en/corporate/"
+  weight = 24
+  parent = "portfolio-en"
+
+  [[menus.en]]
+  name = "Landscape"
+  url = "/en/landscape/"
+  weight = 25
+  parent = "portfolio-en"
+
+  [[menus.en]]
+  name = "About"
+  url = "/en/about/"
+  weight = 3
+
+  [[menus.en]]
+  name = "Blog"
+  url = "/en/blog/"
+  weight = 4
+
+  [[menus.en]]
+  name = "Contact"
+  url = "/en/contact/"
+  weight = 5

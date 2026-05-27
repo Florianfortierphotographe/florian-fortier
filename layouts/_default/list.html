@@ -1,0 +1,17 @@
+{{ define "title" }}Blog — Florian Fortier{{ end }}
+
+{{ define "main" }}
+<section class="blog-list-section">
+  <div class="blog-list-grid">
+    {{ range .Pages }}
+    <a href="{{ .Permalink }}" class="blog-list-card">
+      <img src="{{ .Params.image }}" alt="{{ .Title }}" loading="lazy">
+      <div class="blog-list-overlay">
+        <h2>{{ .Title }}</h2>
+        <p>{{ .Params.description }}</p>
+      </div>
+    </a>
+    {{ end }}
+  </div>
+</section>
+{{ end }}

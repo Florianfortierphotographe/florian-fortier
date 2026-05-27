@@ -1,0 +1,140 @@
+{{ define "main" }}
+
+<!-- HERO SLIDER -->
+<section class="hero">
+
+  <div class="hero-slide">
+    <img src="/images/hero-1.webp" alt="{{ .Params.hero_image_1_alt }}" loading="eager">
+    <div class="hero-overlay"></div>
+  </div>
+  <div class="hero-slide">
+    <img src="/images/hero-2.webp" alt="{{ .Params.hero_image_2_alt }}" loading="lazy">
+    <div class="hero-overlay"></div>
+  </div>
+  <div class="hero-slide">
+    <img src="/images/hero-3.webp" alt="{{ .Params.hero_image_3_alt }}" loading="lazy">
+    <div class="hero-overlay"></div>
+  </div>
+
+  <div class="hero-content">
+    <h1>{{ .Title }}</h1>
+    <p class="hero-subtitle">{{ .Params.hero_subtitle }}</p>
+    <a href="#seo" class="hero-arrow" aria-label="{{ .Params.hero_arrow_label }}">
+      <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+        <line x1="12" y1="5" x2="12" y2="19"></line>
+        <polyline points="19 12 12 19 5 12"></polyline>
+      </svg>
+    </a>
+  </div>
+
+  <div class="hero-dots">
+    <button class="hero-dot" aria-label="Slide 1"></button>
+    <button class="hero-dot" aria-label="Slide 2"></button>
+    <button class="hero-dot" aria-label="Slide 3"></button>
+  </div>
+
+</section>
+
+<!-- ZONE TEXTE SEO -->
+<section class="seo-section" id="seo">
+  <div class="container">
+    <h2>{{ .Params.seo_title }}</h2>
+    <div class="seo-intro">
+      <p>{{ .Params.seo_intro_1 }}</p>
+      <p>{{ .Params.seo_intro_2 }}</p>
+      <p>{{ .Params.seo_intro_3 }}</p>
+    </div>
+  </div>
+</section>
+
+<!-- BANDEAU PHOTOS -->
+<section class="bandeau-section">
+  <div class="bandeau-grid">
+    <div class="bandeau-item">
+      <img src="/images/service-architecture.webp" alt="{{ .Params.service_image_1_alt }}" loading="lazy">
+    </div>
+    <div class="bandeau-item">
+      <img src="/images/service-immobilier.webp" alt="{{ .Params.service_image_2_alt }}" loading="lazy">
+    </div>
+    <div class="bandeau-item">
+      <img src="/images/service-retail.webp" alt="{{ .Params.service_image_3_alt }}" loading="lazy">
+    </div>
+    <div class="bandeau-item">
+      <img src="/images/service-corporate.webp" alt="{{ .Params.service_image_4_alt }}" loading="lazy">
+    </div>
+    <div class="bandeau-item">
+      <img src="/images/service-paysage.webp" alt="{{ .Params.service_image_5_alt }}" loading="lazy">
+    </div>
+  </div>
+</section>
+
+<!-- LISTE SERVICES -->
+<section class="services-section" id="services">
+  <div class="container">
+    <h2>{{ .Params.services_title }}</h2>
+
+    <div class="services-list">
+
+      <div class="service-item">
+        <h3>{{ .Params.service_1_title }}</h3>
+        <p>{{ .Params.service_1_text }}</p>
+        <a href="{{ .Params.service_1_url }}" class="btn btn-primary">{{ .Params.read_more_label }}</a>
+      </div>
+
+      <div class="service-item">
+        <h3>{{ .Params.service_2_title }}</h3>
+        <p>{{ .Params.service_2_text }}</p>
+        <a href="{{ .Params.service_2_url }}" class="btn btn-primary">{{ .Params.read_more_label }}</a>
+      </div>
+
+      <div class="service-item">
+        <h3>{{ .Params.service_3_title }}</h3>
+        <p>{{ .Params.service_3_text }}</p>
+        <a href="{{ .Params.service_3_url }}" class="btn btn-primary">{{ .Params.read_more_label }}</a>
+      </div>
+
+      <div class="service-item">
+        <h3>{{ .Params.service_4_title }}</h3>
+        <p>{{ .Params.service_4_text }}</p>
+        <a href="{{ .Params.service_4_url }}" class="btn btn-primary">{{ .Params.read_more_label }}</a>
+      </div>
+
+      <div class="service-item">
+        <h3>{{ .Params.service_5_title }}</h3>
+        <p>{{ .Params.service_5_text }}</p>
+        <a href="{{ .Params.service_5_url }}" class="btn btn-primary">{{ .Params.read_more_label }}</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- BANDEAU IMAGE SÉPARATION -->
+<section class="bandeau-separation">
+  <img src="/images/bandeau-separation.webp" alt="{{ .Params.separator_image_alt }}" loading="lazy">
+</section>
+
+<!-- SECTION CONTACT -->
+<section class="home-contact-section">
+  <div class="container">
+    <div class="home-contact-grid">
+      <div class="home-contact-left">
+        <h2>{{ .Params.contact_title }}</h2>
+      </div>
+      <div class="home-contact-right">
+        <p>{{ .Params.contact_text_1 }}</p>
+        <p>{{ .Params.contact_text_2 | markdownify }}</p>
+        <a href="{{ .Params.contact_url }}" class="btn btn-primary">{{ .Params.contact_button_label }}</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- LIGHTBOX -->
+<div id="lightbox" class="lightbox">
+  <button class="lightbox-close" aria-label="{{ .Params.lightbox_close_label }}">×</button>
+  <button class="lightbox-prev" aria-label="{{ .Params.lightbox_prev_label }}">‹</button>
+  <img src="" alt="" loading="lazy">
+  <button class="lightbox-next" aria-label="{{ .Params.lightbox_next_label }}">›</button>
+</div>
+
+{{ end }}

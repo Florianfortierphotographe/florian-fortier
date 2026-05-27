@@ -1,0 +1,106 @@
+{{ define "main" }}
+
+<!-- HERO PORTFOLIO -->
+<section class="portfolio-hero">
+  <div class="portfolio-hero-grid">
+    <div class="portfolio-hero-image">
+      <img src="{{ .Params.hero_image }}" alt="{{ .Params.hero_alt | default .Title }}" loading="lazy">
+    </div>
+    <div class="portfolio-hero-content">
+      <h1>{{ .Params.hero_title | default .Title }}</h1>
+      {{ with .Params.intro }}
+        {{ . | markdownify }}
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+<!-- PROJETS -->
+<section class="projets-section">
+  <div class="projets-wrapper">
+    <h2>{{ .Params.projets_title | default (cond (eq .Lang "fr") "Mes projets" "My projects") }}</h2>
+    <div class="projets-grid">
+      {{ range .Params.projets }}
+      <div class="projet-card">
+        <div class="projet-image">
+          <img src="{{ .image }}" alt="{{ .titre }}" loading="lazy">
+        </div>
+        <div class="projet-content">
+          <p>{{ .description }}</p>
+          <button class="btn btn-primary voir-plus-btn" data-photos='{{ .photos | jsonify }}' data-titre="{{ .titre }}">
+            {{ if eq $.Lang "fr" }}Voir plus{{ else }}See more{{ end }}
+          </button>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+<!-- GALERIE CAROUSEL -->
+<section class="galerie-section">
+  <div class="carousel-wrapper">
+    <button class="carousel-btn carousel-btn-prev" aria-label="{{ if eq .Lang "fr" }}Précédent{{ else }}Previous{{ end }}">‹</button>
+    <div class="carousel-track-container">
+      <div class="carousel-track">
+        {{ range .Params.galerie }}
+        <div class="carousel-item">
+          <img src="{{ .image }}" alt="{{ $.Params.galerie_alt | default $.Title }}" draggable="false" loading="lazy">
+        </div>
+        {{ end }}
+      </div>
+    </div>
+    <button class="carousel-btn carousel-btn-next" aria-label="{{ if eq .Lang "fr" }}Suivant{{ else }}Next{{ end }}">›</button>
+  </div>
+</section>
+
+<section class="seo-section">
+  <div class="container">
+    <div class="portfolio-conclusion">
+      <div class="portfolio-conclusion-text">
+        {{ with .Params.conclusion }}
+          {{ . | markdownify }}
+        {{ end }}
+      </div>
+      <div class="portfolio-conclusion-action">
+        <a href="{{ if eq .Lang `fr` }}/contact/{{ else }}/en/contact/{{ end }}" class="btn btn-primary">
+          {{ if eq .Lang "fr" }}Me contacter{{ else }}Contact me{{ end }}
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- LIGHTBOX -->
+<div id="lightbox" class="lightbox">
+  <button class="lightbox-close" aria-label="{{ if eq .Lang "fr" }}Fermer{{ else }}Close{{ end }}">×</button>
+  <button class="lightbox-prev" aria-label="{{ if eq .Lang "fr" }}Précédent{{ else }}Previous{{ end }}">‹</button>
+  <img src="" alt="" loading="lazy">
+  <button class="lightbox-next" aria-label="{{ if eq .Lang "fr" }}Suivant{{ else }}Next{{ end }}">›</button>
+</div>
+
+<!-- POPUP PROJET -->
+<div id="projet-popup" class="projet-popup">
+  <div class="projet-popup-inner">
+    <button class="projet-popup-close">×</button>
+    <div class="projet-popup-main">
+      <button class="projet-popup-prev">‹</button>
+      <img id="projet-popup-img" src="" alt="" loading="lazy">
+      <button class="projet-popup-next">›</button>
+    </div>
+    <div class="projet-popup-thumbs"></div>
+  </div>
+</div>
+
+<div id="gallery-popup" class="projet-popup">
+  <div class="projet-popup-inner">
+    <button class="projet-popup-close" id="gallery-popup-close">×</button>
+    <div class="projet-popup-main">
+      <button class="projet-popup-prev" id="gallery-popup-prev">‹</button>
+      <img id="gallery-popup-img" src="" alt="" loading="lazy">
+      <button class="projet-popup-next" id="gallery-popup-next">›</button>
+    </div>
+    <div class="projet-popup-thumbs" id="gallery-popup-thumbs"></div>
+  </div>
+</div>
+{{ end }}

@@ -1,0 +1,26 @@
+<footer>
+  <div class="footer-inner">
+
+    <div class="footer-right">
+      <p class="footer-nom">Florian Fortier</p>
+      <p class="footer-tagline">
+        {{ if eq .Lang "fr" }}
+          Photographe d'architecture, retail et immobilier à Paris et en Île-de-France
+        {{ else }}
+          Architecture, retail, and real estate photographer in Paris and Île-de-France
+        {{ end }}
+      </p>
+    </div>
+
+    <ul class="footer-links">
+      {{ if eq .Lang "fr" }}
+  <li><a href="/mentions-legales/">Mentions légales</a></li>
+  <li><a href="/conditions-generales/">Conditions générales de vente</a></li>
+{{ else }}
+  <li><a href="/en/legal/">Legal notice</a></li>
+  <li><a href="/en/terms/">Terms & Conditions</a></li>
+{{ end }}
+    </ul>
+
+  </div>
+</footer>

@@ -1,0 +1,33 @@
+{{ define "title" }}{{ .Title }} — Florian Fortier{{ end }}
+
+{{ define "main" }}
+<section class="about-section">
+  <div class="container">
+    <div class="about-grid">
+
+      <div class="about-image">
+        <img src="{{ .Params.photo }}" alt="Florian Fortier" loading="lazy">
+      </div>
+
+      <div class="about-text">
+        
+        {{ if eq .Lang "fr" }}
+          <h1>Présentation</h1>
+        {{ else }}
+          <h1>About</h1>
+        {{ end }}
+        
+        {{ .Content }}
+        
+        {{ if eq .Lang "fr" }}
+          <a href="/contact/" class="btn btn-primary">Me contacter</a>
+        {{ else }}
+          <a href="/en/contact/" class="btn btn-primary">Contact me</a>
+        {{ end }}
+        
+      </div>
+
+    </div>
+  </div>
+</section>
+{{ end }}

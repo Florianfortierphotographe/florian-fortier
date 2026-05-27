@@ -1,0 +1,22 @@
+{{ define "title" }}{{ .Title }} — Florian Fortier{{ end }}
+
+{{ define "main" }}
+<article class="blog-article-page">
+  <div class="blog-article-hero">
+    <img src="{{ .Params.image }}" alt="{{ .Title }}" loading="lazy">
+    <div class="blog-article-hero-overlay">
+      <h1>{{ .Title }}</h1>
+    </div>
+  </div>
+  <div class="container">
+    <div class="blog-article-content">
+     {{ .Content }}
+      <div class="back-to-blog">
+  <a href="{{ if eq .Lang `fr` }}/blog/{{ else }}/en/blog/{{ end }}" class="btn">
+    {{ if eq .Lang "fr" }}RETOUR AU BLOG{{ else }}BACK TO BLOG{{ end }}
+  </a>
+</div>
+    </div>
+  </div>
+</article>
+{{ end }}
