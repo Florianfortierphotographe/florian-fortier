@@ -3,7 +3,6 @@ defaultContentLanguage = "fr"
 defaultContentLanguageInSubdir = false
 enableRobotsTXT = true
 title = "Florian Fortier - Photographe d'architecture et immobilier"
-disableKinds = ["RSS"]
 
 [permalinks]
   portfolio = "/:slug/"
@@ -14,7 +13,7 @@ disableKinds = ["RSS"]
   email = "contact@florianfortier.com"
   phone = "06.18.26.72.40"
   instagram = "https://www.instagram.com/florianfortier"
-  author = { name = "Florian Fortier", email = "contact@florianfortier.com" }
+  author = "Florian Fortier"
   locale_fr = "fr_FR"
   locale_en = "en_GB"
 [languages]
