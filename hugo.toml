@@ -13,7 +13,7 @@ title = "Florian Fortier - Photographe d'architecture et immobilier"
   email = "contact@florianfortier.com"
   phone = "06.18.26.72.40"
   instagram = "https://www.instagram.com/florianfortier"
-  author = "Florian Fortier"
+  author = { name = "Florian Fortier", email = "contact@florianfortier.com" }
   locale_fr = "fr_FR"
   locale_en = "en_GB"
 [languages]
