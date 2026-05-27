@@ -3,6 +3,7 @@ defaultContentLanguage = "fr"
 defaultContentLanguageInSubdir = false
 enableRobotsTXT = true
 title = "Florian Fortier - Photographe d'architecture et immobilier"
+disableKinds = ["RSS"]
 
 [permalinks]
   portfolio = "/:slug/"
