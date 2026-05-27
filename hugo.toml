@@ -1,5 +1,4 @@
-baseURL = "https://855c2852.florian-fortier.pages.dev"
-relativeURLs = true
+baseURL = "https://florian-fortier.pages.dev/"
 defaultContentLanguage = "fr"
 defaultContentLanguageInSubdir = false
 enableRobotsTXT = true
