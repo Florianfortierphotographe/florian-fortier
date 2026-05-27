@@ -1,4 +1,5 @@
 baseURL = "https://855c2852.florian-fortier.pages.dev"
+relativeURLs = true
 defaultContentLanguage = "fr"
 defaultContentLanguageInSubdir = false
 enableRobotsTXT = true
@@ -155,4 +156,3 @@ title = "Florian Fortier - Photographe d'architecture et immobilier"
   name = "Contact"
   url = "/en/contact/"
   weight = 5
-  
