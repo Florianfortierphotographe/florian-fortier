@@ -1,0 +1,13 @@
+name: Déploiement quotidien
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch: 
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Déclencher Cloudflare Pages
+        run: curl -X POST "${{ secrets.CLOUDFLARE_WEBHOOK }}"
