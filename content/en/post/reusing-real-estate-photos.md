@@ -2,7 +2,7 @@
 title: "Can You Reuse Photos from a Previous Real Estate Listing?"
 description: "Discover the legal and strategic implications of reusing real estate photography from a previous mandate for a new property listing in France."
 date: 2026-05-28
-image: "/images/post/reutiliser-photos-ancien-mandat-immobilier.webp"
+image: "/images/post/reutiliser-photos-ancien-mandat-immobilier.WEBP"
 slug: "reusing-real-estate-photos-listing-rights"
 translationKey: "reutiliser-photos-mandat"
 ---

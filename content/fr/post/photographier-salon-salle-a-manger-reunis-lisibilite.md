@@ -2,7 +2,7 @@
 title: "Salon et salle à manger réunis : structurer l’image sans perdre la lisibilité"
 description: "Comment photographier une pièce de vie ouverte (salon et salle à manger) tout en gardant une parfaite lisibilité de l'espace pour vos annonces immobilières."
 date: 2026-05-30
-image: "/images/post/photographier-salon-salle-a-manger-reunis-lisibilite.webp"
+image: "/images/post/photographier-salon-salle-a-manger-reunis-lisibilite.WEBP"
 slug: "photographier-salon-salle-a-manger-reunis-lisibilite"
 translationKey: "salon-salle-a-manger-lisibilite"
 ---

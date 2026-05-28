@@ -2,7 +2,7 @@
 title: "Peut-on réutiliser des photos d’un ancien mandat pour un nouveau ?"
 description: "Découvrez si vous pouvez légalement et stratégiquement réutiliser les photos d'un ancien mandat immobilier pour une nouvelle mise en vente à Paris et en Île-de-France."
 date: 2026-05-28
-image: "/images/post/reutiliser-photos-ancien-mandat-immobilier.webp"
+image: "/images/post/reutiliser-photos-ancien-mandat-immobilier.WEBP"
 slug: "reutiliser-photos-ancien-mandat-immobilier"
 translationKey: "reutiliser-photos-mandat"
 ---

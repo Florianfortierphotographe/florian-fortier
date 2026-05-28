@@ -2,7 +2,7 @@
 title: "Combined Living and Dining Rooms: Structuring the Image Without Losing Clarity"
 description: "Learn how to photograph open-plan living and dining spaces to maintain clarity, flow, and realistic volumes in real estate photography."
 date: 2026-05-30
-image: "/images/post/photographier-salon-salle-a-manger-reunis-lisibilite.webp"
+image: "/images/post/photographier-salon-salle-a-manger-reunis-lisibilite.WEBP"
 slug: "photographing-open-plan-living-dining-room-clarity"
 translationKey: "salon-salle-a-manger-lisibilite"
 ---

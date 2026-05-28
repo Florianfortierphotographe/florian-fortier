@@ -2,7 +2,7 @@
 title: "Retail Photography: The Importance of Detail in Brand Image"
 description: "Discover why close-up and detail photography is essential in retail to highlight brand identity, materials, and the customer experience."
 date: 2026-06-01
-image: "/images/post/retail-importance-detail-image.webp"
+image: "/images/post/retail-importance-detail-image.WEBP"
 slug: "retail-photography-importance-detail-brand-image"
 translationKey: "retail-importance-detail"
 ---

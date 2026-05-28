@@ -2,7 +2,7 @@
 title: "Retail : l’importance du détail dans l’image"
 description: "Découvrez pourquoi la photographie de détail est essentielle en retail pour valoriser l'identité de marque, les matériaux et l'expérience client en point de vente."
 date: 2026-06-01
-image: "/images/post/retail-importance-detail-image.webp"
+image: "/images/post/retail-importance-detail-image.WEBP"
 slug: "retail-importance-detail-image"
 translationKey: "retail-importance-detail"
 ---
