@@ -1,0 +1,41 @@
+# =============================================
+# Redirections 301 — florianfortier.com
+# Fichier : /static/_redirects  (racine Hugo)
+# =============================================
+
+# --- Pages principales FR (Ajout des slashs finaux) ---
+/presentation              /presentation/               301
+/contact                   /contact/                    301
+/blog                      /blog/                       301
+/immobilier                /immobilier/                 301
+/architecture              /architecture/               301
+/paysage                   /paysage/                    301
+/immobilier-professionnel  /immobilier-professionnel/   301
+/reportage-entreprise      /reportage-entreprise/       301
+
+# --- Redirections d'anciennes URL Wix vers FR ---
+/reportage                 /reportage-entreprise/       301
+/retail                    /immobilier-professionnel/   301
+/faq                       /                            301
+
+# --- Pages légales ---
+/mentions-legales          /mentions-legales/           301
+/conditions-generales      /conditions-generales/       301
+
+# --- Pages principales EN (Ajout des slashs finaux) ---
+/en/about                        /en/about/                        301
+/en/architecture                 /en/architecture/                 301
+/en/residential-hospitality      /en/residential-hospitality/      301
+/en/retail-commercial            /en/retail-commercial/            301
+/en/corporate                    /en/corporate/                    301
+/en/landscape                    /en/landscape/                    301
+/en/contact                      /en/contact/                      301
+/en/blog                         /en/blog/                         301
+
+# --- Redirections d'anciennes URL vers EN ---
+/en/presentation                 /en/about/                        301
+
+# --- Articles de blog (règle wildcard globale FR et EN) ---
+# Couvre tous les /post/[slug] → /post/[slug]/
+/post/:slug                      /post/:slug/                      301
+/en/post/:slug                   /en/post/:slug/                   301
