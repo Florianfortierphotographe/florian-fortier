@@ -43,14 +43,9 @@
 
   <link rel="canonical" href="{{ .Permalink }}">
 
-  {{ if .IsHome }}
-  <link rel="alternate" hreflang="fr" href="{{ .Site.BaseURL }}">
-  <link rel="alternate" hreflang="en" href="{{ .Site.BaseURL }}en/">
-  {{ else }}
+  <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}">
+  {{ range .Translations }}
     <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}">
-    {{ range .Translations }}
-      <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}">
-    {{ end }}
   {{ end }}
   <link rel="alternate" hreflang="x-default" href="{{ .Site.BaseURL }}">
 
@@ -71,15 +66,15 @@
   <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "ProfessionalService",
+  "@type": ["Organization", "ProfessionalService"],
   "name": "Florian Fortier Photographe",
   "description": "{{ $pageDescription }}",
-  "url": "{{ .Permalink }}",
+  "url": "{{ .Site.BaseURL }}",
   "telephone": "+33618267240",
   "email": "contact@florianfortier.com",
   "image": "{{ .Site.BaseURL }}images/logo.png",
   "priceRange": "€€",
-"address": {
+  "address": {
     "@type": "PostalAddress",
     "addressLocality": "Rambouillet",
     "addressRegion": "Île-de-France",
@@ -126,7 +121,7 @@
 }
 </script>
 
-  {{ if and .IsPage (eq .Section "blog") }}
+  {{ if and .IsPage (eq .Section "post") }}
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -148,6 +143,29 @@
     "datePublished": "{{ .Date.Format "2006-01-02" }}",
     "dateModified": "{{ .Lastmod.Format "2006-01-02" }}",
     "description": "{{ .Summary }}"
+  }
+  </script>
+  {{ end }}
+
+  {{ if not .IsHome }}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "{{ if eq .Lang "fr" }}Accueil{{ else }}Home{{ end }}",
+        "item": "{{ .Site.BaseURL }}"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "{{ .Title }}",
+        "item": "{{ .Permalink }}"
+      }
+    ]
   }
   </script>
   {{ end }}
