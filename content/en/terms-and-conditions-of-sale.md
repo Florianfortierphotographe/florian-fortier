@@ -1,5 +1,6 @@
 ---
 title: "Terms and Conditions of Sale"
+description: "Read the general terms and conditions of sale (T&Cs) regarding Florian Fortier's professional photography services in architecture and retail."
 slug: "terms"
 layout: "legal"
 translationKey: "conditions-generales"

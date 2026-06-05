@@ -1297,6 +1297,10 @@ footer {
     margin-top: 70px;
   }
 
+  .hero-dots {
+    display: none !important;
+  }
+
   .portfolio-hero {
     margin-top: 70px;
   }
@@ -1475,6 +1479,13 @@ footer {
   justify-content: flex-start;
   align-items: center;
 }
+
+.projet-popup-close {
+    position: fixed !important;
+    top: 1.5rem !important;
+    right: 1.5rem !important;
+    z-index: 10000;
+  }
 
 .projet-popup-thumb {
   width: 120px;

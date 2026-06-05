@@ -1,5 +1,6 @@
 ---
 title: "Conditions générales de vente"
+description: "Prenez connaissance des conditions générales de vente (CGV) encadrant les prestations photographiques de Florian Fortier pour les professionnels."
 slug: "conditions-generales"
 layout: "legal"
 translationKey: "conditions-generales"

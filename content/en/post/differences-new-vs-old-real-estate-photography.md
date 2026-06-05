@@ -4,7 +4,7 @@ description: "From new developments to historical apartments, discover why each 
 date: 2026-03-25
 image: "/images/post/immobilier-neuf-vs-ancien-differences-photographie.WEBP"
 slug: "differences-new-vs-old-real-estate-photography"
-translationKey: "difference-photo-immobiliere-photo-architecture"
+translationKey: "immobilier-neuf-vs-ancien-differences-photographie"
 ---
 
 In the real estate sector, not all images serve the same goals. Photographing a new development for a real estate developer does not follow the same logic as enhancing an old apartment for a real estate agency.

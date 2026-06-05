@@ -1,5 +1,6 @@
 ---
 title: "Mentions légales"
+description: "Consultez les mentions légales du site de Florian Fortier : informations sur l'éditeur, l'hébergement, la confidentialité et les droits d'auteur."
 slug: "mentions-legales"
 layout: "legal"
 translationKey: "mentions-legales"

@@ -1,5 +1,6 @@
 ---
 title: "Legal Notice"
+description: "Consult the legal notices of Florian Fortier's website: information regarding the publisher, hosting, privacy policy, and copyright details."
 slug: "legal"
 layout: "legal"
 translationKey: "mentions-legales"

@@ -1,5 +1,6 @@
 ---
 title: "Présentation"
+description: "Découvrez le parcours et l'approche de Florian Fortier, photographe professionnel d'architecture, d'intérieur et d'espaces commerciaux à Paris."
 layout: "presentation"
 translationKey: "presentation"
 photo: "/images/presentation.WEBP"
