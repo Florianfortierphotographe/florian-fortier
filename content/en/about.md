@@ -1,5 +1,6 @@
 ---
 title: "About"
+description: "Discover the background and approach of Florian Fortier, a professional photographer specializing in architecture, interiors, and retail spaces in Paris."
 layout: "presentation"
 translationKey: "presentation"
 photo: "/images/presentation.WEBP"
