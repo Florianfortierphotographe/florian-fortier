@@ -347,7 +347,7 @@ nav ul li a:hover {
 
 .hero-content {
   position: absolute;
-  bottom: 5%;
+  bottom: 15%;
   left: 50%;
   transform: translateX(-50%);
   text-align: center;
@@ -1295,16 +1295,6 @@ footer {
 
   .hero {
     margin-top: 70px;
-  }
-
-  .hero-content {
-    bottom: 10rem; 
-  }
-
-  .hero-arrow {
-    position: static;
-    transform: none;
-    margin-top: 1rem;
   }
 
   .hero-dots {
