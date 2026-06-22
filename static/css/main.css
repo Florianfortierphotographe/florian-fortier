@@ -404,7 +404,7 @@ nav ul li a:hover {
   opacity: 0.8;
   transition: all var(--transition);
   animation: bounce 2s infinite;
-  margin-top: 2.5rem; 
+  margin-top: 4.5rem; 
 }
 
 .hero-arrow:hover {
