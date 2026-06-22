@@ -1297,6 +1297,16 @@ footer {
     margin-top: 70px;
   }
 
+  .hero-content {
+    bottom: 10rem; 
+  }
+
+  .hero-arrow {
+    position: static;
+    transform: none;
+    margin-top: 1rem;
+  }
+
   .hero-dots {
     display: none !important;
   }
