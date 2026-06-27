@@ -121,32 +121,6 @@
 }
 </script>
 
-  {{ if and .IsPage (eq .Section "post") }}
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "headline": "{{ .Title }}",
-    "image": "{{ with .Params.image }}{{ . | absURL }}{{ end }}",
-    "author": {
-      "@type": "Person",
-      "name": "Florian Fortier"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "Florian Fortier Photographe",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "{{ .Site.BaseURL }}images/logo.png"
-      }
-    },
-    "datePublished": "{{ .Date.Format "2006-01-02" }}",
-    "dateModified": "{{ .Lastmod.Format "2006-01-02" }}",
-    "description": "{{ .Summary }}"
-  }
-  </script>
-  {{ end }}
-
   {{ if not .IsHome }}
   <script type="application/ld+json">
   {
@@ -168,11 +142,12 @@
     ]
   }
   </script>
+  {{ end }}
 
   {{ if .IsHome }}
-<link rel="preload" as="image" href="/images/hero-1-mobile.WEBP" media="(max-width: 768px)">
-<link rel="preload" as="image" href="/images/hero-1.WEBP" media="(min-width: 769px)">
-{{ end }}
+  <link rel="preload" as="image" href="/images/hero-1-mobile.WEBP" media="(max-width: 768px)">
+  <link rel="preload" as="image" href="/images/hero-1.WEBP" media="(min-width: 769px)">
+  {{ end }}
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
