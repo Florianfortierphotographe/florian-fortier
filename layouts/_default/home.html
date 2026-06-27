@@ -4,17 +4,35 @@
 <section class="hero">
 
   <div class="hero-slide">
-    <img src="/images/hero-1.WEBP" alt="{{ .Params.hero_image_1_alt }}" fetchpriority="high" width="800" height="533">
-    <div class="hero-overlay"></div>
-  </div>
-  <div class="hero-slide">
-    <img src="/images/hero-2.WEBP" alt="{{ .Params.hero_image_2_alt }}" loading="lazy" width="800" height="533">
-    <div class="hero-overlay"></div>
-  </div>
-  <div class="hero-slide">
-    <img src="/images/hero-3.WEBP" alt="{{ .Params.hero_image_3_alt }}" loading="lazy" width="800" height="533">
-    <div class="hero-overlay"></div>
-  </div>
+  <img src="/images/hero-1.WEBP" 
+       alt="{{ .Params.hero_image_1_alt }}" 
+       fetchpriority="high"
+       srcset="/images/hero-1-mobile.WEBP 768w,
+               /images/hero-1.WEBP 1400w"
+       sizes="100vw"
+       width="1400" height="933">
+  <div class="hero-overlay"></div>
+</div>
+<div class="hero-slide">
+  <img src="/images/hero-2.WEBP" 
+       alt="{{ .Params.hero_image_2_alt }}" 
+       loading="lazy"
+       srcset="/images/hero-2-mobile.WEBP 768w,
+               /images/hero-2.WEBP 1400w"
+       sizes="100vw"
+       width="1400" height="933">
+  <div class="hero-overlay"></div>
+</div>
+<div class="hero-slide">
+  <img src="/images/hero-3.WEBP" 
+       alt="{{ .Params.hero_image_3_alt }}" 
+       loading="lazy"
+       srcset="/images/hero-3-mobile.WEBP 768w,
+               /images/hero-3.WEBP 1400w"
+       sizes="100vw"
+       width="1400" height="933">
+  <div class="hero-overlay"></div>
+</div>
 
   <div class="hero-content">
     <h1>{{ .Title }}</h1>
@@ -51,19 +69,19 @@
 <section class="bandeau-section">
   <div class="bandeau-grid">
     <div class="bandeau-item">
-      <img src="/images/service-architecture.WEBP" alt="{{ .Params.service_image_1_alt }}" loading="lazy">
+      <img src="/images/service-architecture.WEBP" alt="{{ .Params.service_image_1_alt }}" loading="lazy" width="400" height="500">
     </div>
     <div class="bandeau-item">
-      <img src="/images/service-immobilier.WEBP" alt="{{ .Params.service_image_2_alt }}" loading="lazy">
+      <img src="/images/service-immobilier.WEBP" alt="{{ .Params.service_image_2_alt }}" loading="lazy" width="400" height="500">
     </div>
     <div class="bandeau-item">
-      <img src="/images/service-retail.WEBP" alt="{{ .Params.service_image_3_alt }}" loading="lazy">
+      <img src="/images/service-retail.WEBP" alt="{{ .Params.service_image_3_alt }}" loading="lazy" width="400" height="500">
     </div>
     <div class="bandeau-item">
-      <img src="/images/service-corporate.WEBP" alt="{{ .Params.service_image_4_alt }}" loading="lazy">
+      <img src="/images/service-corporate.WEBP" alt="{{ .Params.service_image_4_alt }}" loading="lazy" width="400" height="500">
     </div>
     <div class="bandeau-item">
-      <img src="/images/service-paysage.WEBP" alt="{{ .Params.service_image_5_alt }}" loading="lazy">
+      <img src="/images/service-paysage.WEBP" alt="{{ .Params.service_image_5_alt }}" loading="lazy" width="400" height="500">
     </div>
   </div>
 </section>

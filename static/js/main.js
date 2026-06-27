@@ -405,6 +405,6 @@ document.addEventListener('DOMContentLoaded', () => {
   initSlider();
   initBurger();
   initLightbox();
-  initCarousel();
-  initProjetPopup();
+  if (document.querySelector('.carousel-track')) initCarousel();
+  if (document.getElementById('projet-popup')) initProjetPopup();
 });
