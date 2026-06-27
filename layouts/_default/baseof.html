@@ -168,7 +168,11 @@
     ]
   }
   </script>
-  {{ end }}
+
+  {{ if .IsHome }}
+<link rel="preload" as="image" href="/images/hero-1-mobile.WEBP" media="(max-width: 768px)">
+<link rel="preload" as="image" href="/images/hero-1.WEBP" media="(min-width: 769px)">
+{{ end }}
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
