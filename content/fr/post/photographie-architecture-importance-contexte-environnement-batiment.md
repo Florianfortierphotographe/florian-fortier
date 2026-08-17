@@ -27,11 +27,11 @@ Cette approche est essentielle lorsque je photographie des façades, comme expli
 
 Le contexte raconte pourquoi le bâtiment existe ainsi. Une maison ouverte sur un paysage, un immeuble protégé du vis-à-vis, un équipement public intégré à un quartier : chaque choix architectural prend sens lorsqu’il est montré.
 
-Lors de mes repérages, que je considère comme une étape clé du processus ([l’importance du repérage avant un shooting d’architecture](/post/importance-reperage-shooting-architecture-immobilier)), j’identifie les points de vue qui mettent en valeur cette relation entre architecture et environnement.
+Lors de mes repérages, que je considère comme une étape clé du processus ([l’importance du repérage avant un shooting d’architecture](/post/importance-reperage-avant-shooting-architecture-immobilier/)), j’identifie les points de vue qui mettent en valeur cette relation entre architecture et environnement.
 
 ## Répondre aux attentes des promoteurs, architectes et investisseurs
 
-Pour un promoteur ou un architecte, les images ne servent pas uniquement à montrer un bâtiment fini. Elles doivent expliquer son intégration, rassurer et projeter. C’est particulièrement vrai pour les programmes immobiliers, où la cohérence visuelle joue un rôle clé, comme je l’aborde dans [Pourquoi les promoteurs immobiliers ont besoin d’images cohérentes pour tout un programme](/post/photographe-immobilier-coherence-visuelle-programme-immobilier).
+Pour un promoteur ou un architecte, les images ne servent pas uniquement à montrer un bâtiment fini. Elles doivent expliquer son intégration, rassurer et projeter. C’est particulièrement vrai pour les programmes immobiliers, où la cohérence visuelle joue un rôle clé, comme je l’aborde dans [Pourquoi les promoteurs immobiliers ont besoin d’images cohérentes pour tout un programme](/post/images-coherentes-programme-immobilier/).
 
 Le contexte devient alors un argument de communication à part entière.
 

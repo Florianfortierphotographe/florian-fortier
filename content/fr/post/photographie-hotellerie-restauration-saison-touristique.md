@@ -15,19 +15,19 @@ Pour les hôteliers et restaurateurs, une mise à jour des visuels avant le "rus
 
 Dans l'hôtellerie moderne, on ne vend pas un lit (fonctionnel), on vend une nuit de sommeil réparatrice (émotionnel). On ne vend pas une assiette, on vend un moment de convivialité.
 
-Mon rôle de photographe est de capturer cette atmosphère immatérielle : le moelleux des draps, la vue dégagée depuis la terrasse, l'intimité d'un coin lounge. Comme je l'aborde dans mon article sur la manière de [photographier un hôtel ou une suite de prestige](/post/photographe-hotel-suite-prestige-reportage-visuel), il s'agit de construire un récit visuel qui permet au client de s'imaginer déjà sur place, valise posée et détendu.
+Mon rôle de photographe est de capturer cette atmosphère immatérielle : le moelleux des draps, la vue dégagée depuis la terrasse, l'intimité d'un coin lounge. Comme je l'aborde dans mon article sur la manière de [photographier un hôtel ou une suite de prestige](/post/photographier-hotel-suite-prestige-recit-visuel/), il s'agit de construire un récit visuel qui permet au client de s'imaginer déjà sur place, valise posée et détendu.
 
 ## L'importance des détails et des matières
 
 Le client est de plus en plus exigeant. Il veut voir ce qu'il achète. Dans un établissement de qualité, la différence se fait souvent dans les détails : la texture d'un fauteuil en velours, la qualité des produits d'accueil dans la salle de bain, ou la finesse du dressage d'une table.
 
-Je porte une attention particulière à ces éléments de style. En appliquant les techniques que j'utilise pour [révéler les détails décoratifs d'un designer](/post/photographie-decoration-details-style-designer), je valorise les investissements que vous avez faits dans la décoration et l'agencement de votre lieu. Une photo nette et texturée est un gage de propreté et de standing.
+Je porte une attention particulière à ces éléments de style. En appliquant les techniques que j'utilise pour [révéler les détails décoratifs d'un designer](/post/details-decoratifs-style-designer/), je valorise les investissements que vous avez faits dans la décoration et l'agencement de votre lieu. Une photo nette et texturée est un gage de propreté et de standing.
 
 ## Gérer les ambiances nocturnes et artificielles
 
 Un restaurant, un bar à cocktails ou un lobby d'hôtel vivent souvent le soir. Or, rien n'est plus vendeur qu'une ambiance tamisée et chaleureuse, et rien n'est plus destructeur qu'une photo prise au flash qui "écrase" cette ambiance.
 
-Le défi technique est de restituer la chaleur du lieu tout en gardant une image lisible et sans bruit numérique. C'est une expertise spécifique que je détaille dans mon article sur [la gestion des espaces nocturnes et lumières artificielles](/post/photographier-espaces-nocturnes-lumieres-artificielles). L'objectif est de retranscrire la magie du lieu telle que le client la vivra lors de son dîner.
+Le défi technique est de restituer la chaleur du lieu tout en gardant une image lisible et sans bruit numérique. C'est une expertise spécifique que je détaille dans mon article sur [la gestion des espaces nocturnes et lumières artificielles](/post/photographier-espaces-nocturnes-gerer-lumieres-artificielles/). L'objectif est de retranscrire la magie du lieu telle que le client la vivra lors de son dîner.
 
 ## Des photos polyvalentes pour le Web et les Réseaux Sociaux
 

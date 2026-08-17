@@ -69,14 +69,14 @@ Pour les architectes d'intérieur, mon travail consiste à documenter cette renc
 * Comment la cuisine moderne s'intègre-t-elle sans casser les moulures ?
 * Comment la verrière atelier dialogue-t-elle avec les fenêtres d'époque ?
 
-Je construis mes images pour montrer ce respect du patrimoine allié au confort moderne. C'est un sujet que j'aborde souvent : [photographier une architecture ancienne rénovée](/post/photographier-architecture-ancienne-renovee) demande de comprendre les deux langages architecturaux.
+Je construis mes images pour montrer ce respect du patrimoine allié au confort moderne. C'est un sujet que j'aborde souvent : [photographier une architecture ancienne rénovée](/post/photographier-architecture-ancienne-renovee-equilibre-patrimoine-modernite/) demande de comprendre les deux langages architecturaux.
 
 ## La dimension émotionnelle : Vendre le rêve parisien
 
 Au-delà de la technique, la photo d'un bien Haussmannien doit déclencher une émotion. On vend un art de vivre.
 * **L'entrée monumentale :** Je n'oublie jamais de photographier les parties communes si elles sont à la hauteur (escalier en pierre, tapis rouge, ascenseur d'époque). L'expérience commence dès le hall.
 * **Les détails :** Une poignée de porte en laiton, une crémone ancienne, le détail d'une rosace. Ces plans serrés (close-ups) ajoutent une touche éditoriale au reportage. Ils racontent l'histoire du lieu.
-* **La lumière "Golden Hour" :** Si le bien est exposé Ouest, je recommande toujours un shooting en fin de journée. Le soleil doré qui entre par les grandes fenêtres et vient frapper le parquet crée une ambiance chaleureuse irrésistible. C'est ce que je détaille dans mon article sur [l'importance de l’orientation du bâtiment](/post/photographe-architecture-orientation-batiment-lumiere).
+* **La lumière "Golden Hour" :** Si le bien est exposé Ouest, je recommande toujours un shooting en fin de journée. Le soleil doré qui entre par les grandes fenêtres et vient frapper le parquet crée une ambiance chaleureuse irrésistible. C'est ce que je détaille dans mon article sur [l'importance de l’orientation du bâtiment](/post/orientation-batiment-influence-approche-photographique/).
 
 ## Conclusion
 

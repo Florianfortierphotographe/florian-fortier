@@ -13,7 +13,7 @@ Dans les projets architecturaux et immobiliers complexes, la photographie ne se 
 
 Un projet complexe ne se résume jamais à une succession d’espaces. Il raconte une intention architecturale, un usage précis et souvent une identité de marque ou de territoire.
 
-C’est précisément ce que je mets en œuvre dans ma manière d’[organiser un shooting d’architecture](/post/organiser-shooting-architecture-methode-photographe) : analyse du programme, lecture des volumes, compréhension des circulations et des points de vue structurants. Cette approche permet d’éviter une série d’images déconnectées et de construire un récit visuel cohérent, à l’image de ce que je détaille dans [Construire une série cohérente en photographie d’architecture](/post/serie-coherente-photographie-architecture).
+C’est précisément ce que je mets en œuvre dans ma manière d’[organiser un shooting d’architecture](/post/organiser-shooting-architecture-methode-resultat-professionnel/) : analyse du programme, lecture des volumes, compréhension des circulations et des points de vue structurants. Cette approche permet d’éviter une série d’images déconnectées et de construire un récit visuel cohérent, à l’image de ce que je détaille dans [Construire une série cohérente en photographie d’architecture](/post/serie-coherente-photographie-architecture).
 
 ## Gérer les contraintes techniques sans les rendre visibles
 
@@ -23,7 +23,7 @@ Les projets complexes cumulent souvent les difficultés :
 * Coexistence de lumières naturelles et artificielles.
 * Contraintes de délais ou de phasage.
 
-Un photographe spécialisé sait anticiper ces situations, notamment grâce au repérage en amont, que je considère comme indispensable sur les projets à forts enjeux ([L’importance du repérage avant un shooting d’architecture ou immobilier](/post/importance-reperage-shooting-architecture-immobilier)).
+Un photographe spécialisé sait anticiper ces situations, notamment grâce au repérage en amont, que je considère comme indispensable sur les projets à forts enjeux ([L’importance du repérage avant un shooting d’architecture ou immobilier](/post/importance-reperage-avant-shooting-architecture-immobilier/)).
 
 La maîtrise des perspectives, la gestion fine des verticales et la correction mesurée des déformations optiques permettent de restituer des espaces crédibles, comme expliqué dans [Comment j’anticipe et corrige les déformations optiques en architecture](/post/anticiper-corriger-deformations-optiques-architecture).
 
@@ -35,7 +35,7 @@ Un projet complexe n’est jamais photographié pour un seul usage. Les images d
 * Un appel d’offres.
 * Un site internet ou une signalétique.
 
-C’est pourquoi la cohérence visuelle est essentielle, notamment pour les programmes immobiliers, où les images doivent dialoguer entre elles sur la durée ([Pourquoi les promoteurs immobiliers ont besoin d’images cohérentes pour tout un programme](/post/photographe-immobilier-coherence-visuelle-programme-immobilier)).
+C’est pourquoi la cohérence visuelle est essentielle, notamment pour les programmes immobiliers, où les images doivent dialoguer entre elles sur la durée ([Pourquoi les promoteurs immobiliers ont besoin d’images cohérentes pour tout un programme](/post/images-coherentes-programme-immobilier/)).
 
 Un photographe spécialisé anticipe ces usages dès la prise de vue et adapte son cadrage, son rythme et son traitement.
 
@@ -43,7 +43,7 @@ Un photographe spécialisé anticipe ces usages dès la prise de vue et adapte s
 
 Certains projets complexes s’inscrivent dans une temporalité longue : rénovation, chantier en site occupé, livraison progressive. La photographie devient alors un outil de documentation autant que de valorisation.
 
-C’est tout l’enjeu de [la photographie de chantier](/post/photographie-de-chantier-communication-promoteurs-architectes) et du [reportage de fin de projet](/post/reportage-fin-chantier-livraison-batiment), où la rigueur et la constance du regard sont déterminantes.
+C’est tout l’enjeu de [la photographie de chantier](/post/photographie-de-chantier-communication-promoteurs-architectes) et du [reportage de fin de projet](/post/reportage-fin-de-chantier-livraison-batiment/), où la rigueur et la constance du regard sont déterminantes.
 
 ## Conclusion
 

@@ -53,7 +53,7 @@ Every mission relies on:
 * Planning according to the sun's path.
 * Precise management of perspectives and vertical lines.
 
-The use of specialized optics, notably tilt-shift lenses, guarantees controlled lines and realistic volumes. If you want to understand the impact of this tool on the quality of a series, I explain its role in detail in my article on [tilt-shift lenses](/en/post/impact-objectif-tilt-shift-photographie-architecture).
+The use of specialized optics, notably tilt-shift lenses, guarantees controlled lines and realistic volumes. If you want to understand the impact of this tool on the quality of a series, I explain its role in detail in my article on [tilt-shift lenses](/en/post/impact-tilt-shift-lens-architecture-photography/).
 
 ## Better Enhancement for Competitions and Publications
 

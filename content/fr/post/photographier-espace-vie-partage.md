@@ -103,7 +103,7 @@ Dans une annonce ou sur un site internet, ces images peuvent aider à :
 * montrer la cohérence de l’aménagement ;
 * renforcer la perception de confort.
 
-Cette logique rejoint certains enjeux de la [photographie de location courte durée](/post/photographier-location-courte-duree-differences-immobilier-classique/), où l’image doit aider le visiteur à se projeter rapidement dans l’expérience du séjour.
+Cette logique rejoint certains enjeux de la [photographie de location courte durée](/post/photographier-logement-location-courte-duree-airbnb/), où l’image doit aider le visiteur à se projeter rapidement dans l’expérience du séjour.
 
 ## Équilibrer architecture intérieure et vie quotidienne
 

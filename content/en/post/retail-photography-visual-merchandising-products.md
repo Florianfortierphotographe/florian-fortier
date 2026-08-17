@@ -19,13 +19,13 @@ I pay obsessive attention to geometry:
 * **Planogram compliance:** Shelf lines must be perfectly parallel and horizontal.
 * **Facing:** I make sure that products are brought forward and aligned to the millimeter.
 
-This geometric rigor is the foundation of my work, as I explain in my article on [the secrets of good composition](/en/post/composition-photo-architecture). A successful retail photo is one where the eye navigates without obstacles, guided by the vanishing lines of the furniture.
+This geometric rigor is the foundation of my work, as I explain in my article on [the secrets of good composition](/en/post/secrets-good-composition-architecture-photography/). A successful retail photo is one where the eye navigates without obstacles, guided by the vanishing lines of the furniture.
 
 ## Light on the Product: Revealing Textures and Materials
 
 Wood, glass, metal, cardboard packaging... Light must make the material look "tactile" while remaining faithful to the true colors of the products.
 
-This is a constant technical challenge, especially when managing reflections on perfume bottles or glasses. Unlike a studio packshot on a white background, I photograph the product in its actual luminous environment. This requires perfect mastery of light sources to avoid unsightly glare while maintaining the sparkle that makes the product desirable. This is where [managing artificial lights](/en/post/photographier-espaces-nocturnes-lumieres-artificielles) (spotlights, shelf backlighting) becomes crucial.
+This is a constant technical challenge, especially when managing reflections on perfume bottles or glasses. Unlike a studio packshot on a white background, I photograph the product in its actual luminous environment. This requires perfect mastery of light sources to avoid unsightly glare while maintaining the sparkle that makes the product desirable. This is where [managing artificial lights](/en/post/photographing-night-spaces-managing-artificial-lights/) (spotlights, shelf backlighting) becomes crucial.
 
 ## From Wide Shots to Close-Ups: Contextualizing the Offer
 

@@ -46,7 +46,7 @@ Ces images permettent à vos futurs membres de se projeter immédiatement dans l
 
 Conférences, cocktails, ateliers thématiques, afterworks : ces événements représentent souvent une part importante du chiffre d’affaires d’un coworking.
 
-Je peux intégrer des photos du lieu préparé en configuration événementielle, ou des images d’ambiance lors d’une vraie soirée. Ces visuels sont très pertinents pour vos plaquettes B2B et vos [supports de reportage d'entreprise](/reportage-dentreprise/).
+Je peux intégrer des photos du lieu préparé en configuration événementielle, ou des images d’ambiance lors d’une vraie soirée. Ces visuels sont très pertinents pour vos plaquettes B2B et vos [supports de reportage d'entreprise](/reportage-entreprise/).
 
 ## Conclusion
 

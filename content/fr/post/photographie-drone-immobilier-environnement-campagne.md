@@ -31,7 +31,7 @@ En zone urbaine dense, les vols nécessitent des protocoles complexes et des aut
 
 ## Plus qu'une photo, une mise en contexte
 
-Attention, prendre de la hauteur ne signifie pas monter à 100 mètres ! Souvent, les plus belles images se font à 10 ou 15 mètres du sol. C'est ce qu'on appelle la vue "à hauteur de mât". Elle offre une perspective humaine magnifiée, permettant de voir par-dessus une haie ou un portail, tout en gardant une connexion avec le sol. Bien entendu, ces vols sont dépendants des conditions climatiques (voir [ma gestion de la météo en extérieur](/post/photographier-meteo-defavorable)).
+Attention, prendre de la hauteur ne signifie pas monter à 100 mètres ! Souvent, les plus belles images se font à 10 ou 15 mètres du sol. C'est ce qu'on appelle la vue "à hauteur de mât". Elle offre une perspective humaine magnifiée, permettant de voir par-dessus une haie ou un portail, tout en gardant une connexion avec le sol. Bien entendu, ces vols sont dépendants des conditions climatiques (voir [ma gestion de la météo en extérieur](/post/photographier-bien-meteo-defavorable-adapter-approche/)).
 
 ## Conclusion
 

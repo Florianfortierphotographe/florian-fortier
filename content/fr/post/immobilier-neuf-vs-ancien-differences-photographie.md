@@ -17,9 +17,9 @@ Dans un programme immobilier neuf, la photographie intervient souvent au moment 
 
 La photographie d’un programme neuf s’inscrit alors dans une logique proche de [la photographie d’architecture](/architecture/). La maîtrise des lignes, des perspectives et des proportions devient essentielle. Une légère déformation peut altérer immédiatement la perception qualitative du bâtiment.
 
-J’aborde d’ailleurs l’importance de cette rigueur technique dans mon article sur [l’impact de l’objectif tilt-shift en photographie d’architecture](/post/impact-objectif-tilt-shift-photographie-architecture), un outil déterminant pour préserver des verticales parfaitement droites et des volumes réalistes.
+J’aborde d’ailleurs l’importance de cette rigueur technique dans mon article sur [l’impact de l’objectif tilt-shift en photographie d’architecture](/post/impact-objectif-tilt-shift-serie-architecture/), un outil déterminant pour préserver des verticales parfaitement droites et des volumes réalistes.
 
-La cohérence visuelle est également centrale. Pour les groupes développant plusieurs opérations, maintenir une signature homogène est stratégique. J’explique pourquoi dans cet article consacré à [la cohérence visuelle d’un programme immobilier](/post/photographe-immobilier-coherence-visuelle-programme-immobilier), où je détaille l’impact direct de cette homogénéité sur la crédibilité globale d’un promoteur.
+La cohérence visuelle est également centrale. Pour les groupes développant plusieurs opérations, maintenir une signature homogène est stratégique. J’explique pourquoi dans cet article consacré à [la cohérence visuelle d’un programme immobilier](/post/images-coherentes-programme-immobilier/), où je détaille l’impact direct de cette homogénéité sur la crédibilité globale d’un promoteur.
 
 ## Immobilier ancien : révéler le caractère et le potentiel
 
@@ -49,7 +49,7 @@ Pour une agence immobilière travaillant sur de l’ancien, l’objectif est sou
 
 Dans un programme neuf, les parties communes représentent un argument de vente majeur. Hall d’entrée, escaliers, paliers ou jardins partagés participent à la perception qualitative globale.
 
-Je développe cette approche dans [Photographier les parties communes d’une résidence](/post/photographier-parties-communes-residence), où j’explique comment traduire la qualité des matériaux et la lisibilité des volumes. Le choix des focales est ici déterminant pour préserver des proportions naturelles. J’aborde cet aspect dans [Choix des focales en photographie d’architecture : impact sur la perception des volumes](/post/choix-focales-photographie-architecture-perception-volumes).
+Je développe cette approche dans [Photographier les parties communes d’une résidence](/post/photographier-parties-communes-residence-experience/), où j’explique comment traduire la qualité des matériaux et la lisibilité des volumes. Le choix des focales est ici déterminant pour préserver des proportions naturelles. J’aborde cet aspect dans [Choix des focales en photographie d’architecture : impact sur la perception des volumes](/post/choix-focales-photographie-architecture-perception-volumes).
 
 ## Réalisme et crédibilité : un principe commun
 

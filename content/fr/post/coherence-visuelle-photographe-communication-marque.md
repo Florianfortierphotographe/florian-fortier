@@ -55,4 +55,4 @@ Une identité visuelle homogène renforce immédiatement la crédibilité de la 
 
 La photographie professionnelle agit comme un véritable fil conducteur entre les supports. Elle relie visuellement les messages, renforce l’unité de la marque et structure son univers esthétique. Faire appel à un photographe spécialisé est une démarche stratégique qui vise à créer une image de marque solide et professionnelle. 
 
-**Besoin de structurer l'image de votre entreprise ?** [Découvrez mon portfolio Corporate](/reportage-dentreprise/) ou [contactez-moi pour échanger](/contact/).
+**Besoin de structurer l'image de votre entreprise ?** [Découvrez mon portfolio Corporate](/reportage-entreprise/) ou [contactez-moi pour échanger](/contact/).

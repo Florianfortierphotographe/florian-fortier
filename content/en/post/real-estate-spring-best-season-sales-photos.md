@@ -15,7 +15,7 @@ For a real estate agent or a homeowner, this is the critical moment. A listing i
 
 The first asset of spring is, obviously, the change in luminosity. We emerge from the winter gloom to rediscover more abundant and enveloping light.
 
-Unlike summer, where the sun at its zenith can create very harsh shadows at noon, spring light is often much softer. It makes it possible to enhance interior volumes without having to compensate with artificial lighting. As I explain in my article on [natural light in architecture](/en/post/photographie-architecture-lumiere-naturelle), it is this luminous balance that gives rooms a feeling of space and clarity, which is essential to seduce buyers.
+Unlike summer, where the sun at its zenith can create very harsh shadows at noon, spring light is often much softer. It makes it possible to enhance interior volumes without having to compensate with artificial lighting. As I explain in my article on [natural light in architecture](/en/post/contemporary-architecture-natural-light/), it is this luminous balance that gives rooms a feeling of space and clarity, which is essential to seduce buyers.
 
 ## The Rebirth of Exteriors: The "Wow" Factor
 
@@ -25,7 +25,7 @@ Spring radically changes the perception of exteriors:
 * **Vegetation:** Trees get their leaves back, restoring privacy and structure to the garden.
 * **Color:** The grass turns green again, and the first flowers bring splashes of color that draw the eye to the listing.
 
-If we have shot visuals of your property under the gloom in recent months (applying my methods for [managing bad weather](/en/post/photographier-meteo-defavorable)), a spring update is highly recommended to show the property at its absolute best.
+If we have shot visuals of your property under the gloom in recent months (applying my methods for [managing bad weather](/en/post/photographing-property-bad-weather-adapting-approach/)), a spring update is highly recommended to show the property at its absolute best.
 
 ## Selling a Lifestyle Rather Than Just Floor Space
 
@@ -36,7 +36,7 @@ During my spring shoots, I always ask to prepare the outdoor spaces:
 * Set up the cushions on the terrace.
 * Open the parasols and the bay windows.
 
-This Indoor/Outdoor connection is crucial, particularly for [luxury real estate photography](/en/post/photographie-immobiliere-prestige-espace-lumiere), where the appeal of the outdoor spaces (pool, park, terrace) justifies a large portion of the asking price.
+This Indoor/Outdoor connection is crucial, particularly for [luxury real estate photography](/en/post/luxury-real-estate-photography-space-light/), where the appeal of the outdoor spaces (pool, park, terrace) justifies a large portion of the asking price.
 
 ## The Big Spring Cleaning: An Asset for Photography
 

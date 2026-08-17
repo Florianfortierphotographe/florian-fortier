@@ -30,7 +30,7 @@ Est-ce une boutique haussmannienne avec des boiseries ? Un concept-store minimal
 
 La nuit, la dynamique s'inverse. Les reflets disparaissent et la vitrine devient une boîte de lumière incandescente au milieu de l'obscurité. C'est souvent le meilleur moment pour des photos "Coup de Cœur".
 
-Cependant, photographier de nuit demande une maîtrise parfaite des sources artificielles. Les spots LED, les néons et les écrans doivent être parfaitement exposés pour ne pas "baver" ou paraître tout blancs sur la photo. Comme je l'explique dans mon article sur [les espaces nocturnes](/post/photographier-espaces-nocturnes-lumieres-artificielles), l'objectif est de garder la fidélité des couleurs des produits exposés tout en capturant l'ambiance chaleureuse qui se dégage sur le trottoir.
+Cependant, photographier de nuit demande une maîtrise parfaite des sources artificielles. Les spots LED, les néons et les écrans doivent être parfaitement exposés pour ne pas "baver" ou paraître tout blancs sur la photo. Comme je l'explique dans mon article sur [les espaces nocturnes](/post/photographier-espaces-nocturnes-gerer-lumieres-artificielles/), l'objectif est de garder la fidélité des couleurs des produits exposés tout en capturant l'ambiance chaleureuse qui se dégage sur le trottoir.
 
 ## Le Visual Merchandising : Le diable est dans les détails
 
@@ -40,7 +40,7 @@ Je ne me contente pas d'un plan d'ensemble. Je réalise des plans serrés sur la
 * L'agencement géométrique des produits.
 * La signalétique (stickers, logo sur vitre).
 
-Ces détails sont essentiels pour vos rapports internes (si vous êtes un réseau de franchises) afin de valider le respect des guidelines, comme nous l'avons vu dans l'article sur [la mobilité du photographe pour les enseignes](/post/photographe-boutiques-france-mobilite-reseau).
+Ces détails sont essentiels pour vos rapports internes (si vous êtes un réseau de franchises) afin de valider le respect des guidelines, comme nous l'avons vu dans l'article sur [la mobilité du photographe pour les enseignes](/post/mobilite-photographe-atout-reseaux-boutiques/).
 
 ## L'Humain : Donner de la vie sans voler la vedette
 

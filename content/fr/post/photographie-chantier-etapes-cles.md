@@ -38,7 +38,7 @@ C’est précisément pour cette raison qu’un suivi photographique par étapes
 
 Dans le cadre d’un projet architectural, certaines phases intermédiaires sont parfois aussi fortes visuellement que le résultat final. Une dalle fraîchement coulée, une structure en cours d’élévation, une charpente, une façade partiellement posée ou une toiture en construction peuvent produire des images très parlantes. Elles ne montrent pas encore le bâtiment terminé, mais elles racontent sa construction avec une force particulière.
 
-Cette logique complète naturellement le reportage final. J’en parle notamment dans mon article sur [le reportage de fin de chantier](/post/reportage-fin-chantier-livraison-batiment/), qui intervient à un autre moment du projet : celui où l’on documente la livraison et la mise en valeur du bâtiment achevé.
+Cette logique complète naturellement le reportage final. J’en parle notamment dans mon article sur [le reportage de fin de chantier](/post/reportage-fin-de-chantier-livraison-batiment/), qui intervient à un autre moment du projet : celui où l’on documente la livraison et la mise en valeur du bâtiment achevé.
 
 ## Créer une mémoire visuelle utile pour les architectes et maîtres d’ouvrage
 

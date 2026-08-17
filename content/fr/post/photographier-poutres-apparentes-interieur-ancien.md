@@ -17,7 +17,7 @@ Dans une maison ancienne, un appartement rénové ou une demeure de caractère, 
 
 Le bois apporte aussi une matière forte. Ses irrégularités, ses teintes, ses marques et ses variations de texture créent un contraste avec les murs blancs, les sols plus sobres ou le mobilier contemporain. C’est souvent ce contraste qui donne tout son intérêt à l’intérieur : l’image ne montre pas seulement une pièce, elle révèle une rencontre entre patrimoine et confort actuel.
 
-Cette lecture est différente d’un simple reportage décoratif. Elle se rapproche davantage du travail que j’évoque dans mon article sur [la photographie d’une architecture ancienne rénovée](/post/photographier-architecture-ancienne-renovee/), mais avec un enjeu plus précis : montrer comment un élément architectural très présent peut enrichir une image sans la dominer.
+Cette lecture est différente d’un simple reportage décoratif. Elle se rapproche davantage du travail que j’évoque dans mon article sur [la photographie d’une architecture ancienne rénovée](/post/photographier-architecture-ancienne-renovee-equilibre-patrimoine-modernite/), mais avec un enjeu plus précis : montrer comment un élément architectural très présent peut enrichir une image sans la dominer.
 
 ## Trouver le bon cadrage pour éviter une image trop lourde
 

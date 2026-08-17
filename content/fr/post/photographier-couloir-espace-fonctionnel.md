@@ -113,7 +113,7 @@ Le couloir devient alors une véritable respiration dans la série d'images.
 
 Il prépare le regard, crée une attente et renforce la cohérence du reportage.
 
-Cette logique narrative est proche de celle que j'aborde dans mon article **[Photographier les parties communes d'une résidence : créer une image cohérente de l'expérience résidentielle](/post/photographier-parties-communes-residence/)**, où chaque espace participe à raconter le projet dans son ensemble.
+Cette logique narrative est proche de celle que j'aborde dans mon article **[Photographier les parties communes d'une résidence : créer une image cohérente de l'expérience résidentielle](/post/photographier-parties-communes-residence-experience/)**, où chaque espace participe à raconter le projet dans son ensemble.
 
 ## Transformer un espace ordinaire en photographie d'architecture
 

@@ -15,7 +15,7 @@ My role as a photographer then consists of finding the right balance between arc
 
 Many projects were designed in direct dialogue with their environment. Orientation, openings, volumes, materials: everything is often thought out in relation to the landscape.
 
-This is particularly true in high-end residential projects, cultural facilities, or architectures located in sensitive sites. As I explain in my article on [the impact of a building's orientation on the photographic approach](/en/post/photographe-architecture-orientation-batiment-lumiere), ignoring the context amounts to truncating the reading of the project.
+This is particularly true in high-end residential projects, cultural facilities, or architectures located in sensitive sites. As I explain in my article on [the impact of a building's orientation on the photographic approach](/en/post/building-orientation-influences-photographic-approach/), ignoring the context amounts to truncating the reading of the project.
 
 Photographing only the building, without showing what it responds to, considerably impoverishes the visual narrative.
 
@@ -23,7 +23,7 @@ Photographing only the building, without showing what it responds to, considerab
 
 When the landscape becomes the subject, it is not simply a matter of "adding a backdrop" to the image. It becomes a genuine tool for composition.
 
-Horizon lines, plant masses, reliefs, empty and solid spaces structure the reading of the image just as much as architectural lines do. This approach echoes the principles I develop in [the secrets of good composition in architecture photography](/en/post/composition-photo-architecture).
+Horizon lines, plant masses, reliefs, empty and solid spaces structure the reading of the image just as much as architectural lines do. This approach echoes the principles I develop in [the secrets of good composition in architecture photography](/en/post/secrets-good-composition-architecture-photography/).
 
 In some cases, the landscape even serves as a counterpoint to the rigor of the building: a highly geometric architecture can dialogue with a more organic environment, creating deliberate visual tension.
 
@@ -36,13 +36,13 @@ I therefore favor framing that shows how the building anchors itself in its site
 * The integration into a slope.
 * Views framed from the inside out.
 
-This logic is close to what I apply in [architecture photography in dense urban environments](/en/post/photographier-architecture-milieu-urbain-dense), where each surrounding element influences the final reading of the image.
+This logic is close to what I apply in [architecture photography in dense urban environments](/en/post/photographing-architecture-dense-urban-environments/), where each surrounding element influences the final reading of the image.
 
 ## Light: The Natural Link Between Architecture and Landscape
 
 Light plays a key role in this relationship. The same architecture can look completely different depending on how it captures the light of the surrounding landscape.
 
-Sunrise or sunset, grazing light, mastered backlighting: these situations often make it possible to visually link the building to its environment. I also discuss this approach in [backlighting in real estate and architectural photography](/en/post/contre-jour-photographie-architecture-gestion-lumiere-naturelle).
+Sunrise or sunset, grazing light, mastered backlighting: these situations often make it possible to visually link the building to its environment. I also discuss this approach in [backlighting in real estate and architectural photography](/en/post/backlighting-real-estate-photography-natural-light/).
 
 Light then becomes a common thread connecting the interior, the facade, and the landscape.
 
@@ -50,7 +50,7 @@ Light then becomes a common thread connecting the interior, the facade, and the 
 
 Not all landscapes are photographed in the same way. A natural environment often calls for more open, breathable images, where weather and season play an important role. Conversely, an urban landscape imposes a more graphic, sometimes more constrained reading.
 
-In both cases, the goal remains the same: to show that the architecture is not subjected to its environment, but dialogues with it. This overall consistency is essential, especially for projects presented in competition files or corporate communication materials, as I explain in [the importance of visual consistency in architecture photography](/en/post/coherence-visuelle-photographe-communication-marque).
+In both cases, the goal remains the same: to show that the architecture is not subjected to its environment, but dialogues with it. This overall consistency is essential, especially for projects presented in competition files or corporate communication materials, as I explain in [the importance of visual consistency in architecture photography](/en/post/creating-visual-consistency-brand-communication/).
 
 ## Conclusion
 

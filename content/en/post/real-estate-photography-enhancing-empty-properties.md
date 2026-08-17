@@ -15,25 +15,25 @@ The challenge of [real estate photography](/en/residential-hospitality/) for the
 
 The human brain needs references to understand the size of a room. Without a sofa or a table, it is difficult to tell whether a living room is 15 m² or 30 m².
 
-To compensate for this absence, I play with fixed architectural elements. I use windows, doors, radiators, or floorboards to create leading lines that guide the eye. Unlike the method for [optimizing the photography of a furnished property](/en/post/photographier-bien-meuble-atmosphere-coherente-accueillante)—where the goal is to declutter—here I seek to accentuate the depth of field and the ceiling height (often by slightly lowering my viewpoint) to amplify the sensation of space.
+To compensate for this absence, I play with fixed architectural elements. I use windows, doors, radiators, or floorboards to create leading lines that guide the eye. Unlike the method for [optimizing the photography of a furnished property](/en/post/optimizing-furnished-property-photography-welcoming-atmosphere/)—where the goal is to declutter—here I seek to accentuate the depth of field and the ceiling height (often by slightly lowering my viewpoint) to amplify the sensation of space.
 
 ## Light as Furniture
 
 When there is no decoration, light *becomes* the decoration. It is the most powerful tool for "furnishing" emptiness.
 
-I pay extreme attention to natural light sources. Shadows cast on the floor or on a white wall bring contrast and depth to a room that would otherwise be too monotonous. As I explain in my article on [capturing natural light](/en/post/photographie-architecture-lumiere-naturelle), it is this interplay of soft shadows that breaks the clinical aspect of a white wall and makes the atmosphere warm, even without furniture.
+I pay extreme attention to natural light sources. Shadows cast on the floor or on a white wall bring contrast and depth to a room that would otherwise be too monotonous. As I explain in my article on [capturing natural light](/en/post/contemporary-architecture-natural-light/), it is this interplay of soft shadows that breaks the clinical aspect of a white wall and makes the atmosphere warm, even without furniture.
 
 ## Enhancing Materials and Finishes
 
 Since there is no furniture to distract the eye, the buyer's gaze will scan the structure of the property. The quality of the materials then becomes the main subject of the photo.
 
-This is the ideal time to shoot close-ups of the "structural" assets: the texture of an oak floor, the finesse of a molding, or the quality of the tiling. I make a point of [photographing architectural details](/en/post/photographier-details-architecturaux-materiaux-finitions) to prove the intrinsic value of the property, far beyond its mere surface area.
+This is the ideal time to shoot close-ups of the "structural" assets: the texture of an oak floor, the finesse of a molding, or the quality of the tiling. I make a point of [photographing architectural details](/en/post/photographing-architectural-details-materials-finishes/) to prove the intrinsic value of the property, far beyond its mere surface area.
 
 ## The Projection Option (Virtual Staging or 3D)
 
 Sometimes, certain atypical volumes remain difficult to read when bare. In this case, professional photography serves as a perfect foundation for projection.
 
-Clear, well-exposed photos can be used for Virtual Home Staging. This is a complementary approach, much like a [3D virtual tour](/en/post/photo-pro-vs-visite-virtuelle-3d-immobilier), which helps the buyer mentally place their furniture. My job is to provide the highest quality "blank canvas" possible to facilitate this projection.
+Clear, well-exposed photos can be used for Virtual Home Staging. This is a complementary approach, much like a [3D virtual tour](/en/post/professional-photo-vs-3d-virtual-tour-complementary/), which helps the buyer mentally place their furniture. My job is to provide the highest quality "blank canvas" possible to facilitate this projection.
 
 ## Conclusion
 

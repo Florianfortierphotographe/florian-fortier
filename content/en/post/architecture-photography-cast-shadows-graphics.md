@@ -15,7 +15,7 @@ As Le Corbusier said: *"Architecture is the learned, correct, and magnificent pl
 
 The cast shadow of a balcony, a railing, or a neighboring tree creates a pattern on the wall that changes every hour of the day. It is a moving architecture that superimposes itself on the building.
 
-My job as a photographer is to anticipate the precise moment when the shadow aligns perfectly with the structure to create a pure geometric composition. This is where [the importance of scouting](/en/post/importance-reperage-shooting-architecture-immobilier) takes on its full meaning: you have to know exactly when the sun will transform an ordinary facade into an abstract painting.
+My job as a photographer is to anticipate the precise moment when the shadow aligns perfectly with the structure to create a pure geometric composition. This is where [the importance of scouting](/en/post/importance-scouting-before-architecture-real-estate-shoot/) takes on its full meaning: you have to know exactly when the sun will transform an ordinary facade into an abstract painting.
 
 ## Revealing Rhythm and Texture
 
@@ -31,7 +31,7 @@ Photographing in direct sunlight is a perilous exercise. The risk is "blowing ou
 
 Unlike certain approaches that favor Black & White for graphics, I choose color to anchor the building in its environment. Under harsh light, colors are not washed out; they vibrate. The blue of the sky becomes deep (thanks to a polarizer) and the facade materials (brick, wood, colored plaster) gain in saturation.
 
-My approach consists of playing on this strong chromatic contrast: the opposition between the lit area (bright) and the shadow area (dense and cold) creates an image with relief, almost tactile. It is a subtle balancing act that I also discuss in my article on [color management](/en/post/couleur-photographie-interieur-equilibre-realisme-emotion).
+My approach consists of playing on this strong chromatic contrast: the opposition between the lit area (bright) and the shadow area (dense and cold) creates an image with relief, almost tactile. It is a subtle balancing act that I also discuss in my article on [color management](/en/post/color-interior-photography-balance-realism-emotion/).
 
 ## Conclusion
 

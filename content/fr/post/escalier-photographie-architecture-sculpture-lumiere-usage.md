@@ -19,7 +19,7 @@ Photographier un escalier implique alors une lecture fine des lignes, des propor
 
 L’escalier est souvent un capteur de lumière naturelle. Puits zénithaux, baies verticales ou ouvertures latérales accompagnent fréquemment cet élément de circulation. La photographie doit tirer parti de cette lumière pour révéler les matériaux, les textures et la profondeur.
 
-Selon l’orientation du bâtiment, la lumière peut transformer radicalement la perception de l’escalier au fil de la journée. Anticiper ces variations fait partie intégrante de mon travail, comme je l’explique dans [Pourquoi l’orientation d’un bâtiment change radicalement l’approche photographique](/post/photographe-architecture-orientation-batiment-lumiere).
+Selon l’orientation du bâtiment, la lumière peut transformer radicalement la perception de l’escalier au fil de la journée. Anticiper ces variations fait partie intégrante de mon travail, comme je l’explique dans [Pourquoi l’orientation d’un bâtiment change radicalement l’approche photographique](/post/orientation-batiment-influence-approche-photographique/).
 
 Dans certains contextes, un équilibre subtil entre lumière naturelle et éclairage artificiel permet de conserver une lecture réaliste de l’espace, sans écraser les contrastes ni trahir l’ambiance du lieu.
 

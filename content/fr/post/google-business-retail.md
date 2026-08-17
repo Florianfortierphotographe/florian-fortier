@@ -17,7 +17,7 @@ La fiche Google Business agit comme une extension numérique du point de vente. 
 
 Une image sombre ou mal cadrée peut inconsciemment transmettre un message négatif. À l’inverse, une photographie professionnelle, équilibrée et lumineuse renforce immédiatement la crédibilité du commerce. Elle suggère de l’organisation, de la rigueur et une certaine exigence.
 
-Dans mon article consacré à [la manière de traduire le parcours client en images](/post/traduire-parcours-client-images/), j’explique comment la photographie retail influence déjà l’expérience avant même l’entrée en magasin. Google Business amplifie précisément ce phénomène.
+Dans mon article consacré à [la manière de traduire le parcours client en images](/post/photographie-retail-traduire-parcours-client-images/), j’explique comment la photographie retail influence déjà l’expérience avant même l’entrée en magasin. Google Business amplifie précisément ce phénomène.
 
 ## L’image comme déclencheur de visite
 
@@ -33,7 +33,7 @@ Google Business ne doit pas être traité comme un canal isolé. Il fait partie 
 
 Si les photos présentes sur la fiche Google ne correspondent pas à l’univers visuel développé sur le site internet ou les réseaux sociaux, un décalage s’installe. Ce manque d’homogénéité fragilise la perception de la marque.
 
-J’aborde cette question dans mon article sur [la cohérence visuelle entre les supports de communication](/post/coherence-visuelle-supports/). L’image doit rester alignée, quel que soit le point de contact. Google Business devient ainsi un maillon essentiel de cette cohérence.
+J’aborde cette question dans mon article sur [la cohérence visuelle entre les supports de communication](/post/coherence-visuelle-photographe-communication-marque/). L’image doit rester alignée, quel que soit le point de contact. Google Business devient ainsi un maillon essentiel de cette cohérence.
 
 ## L’impact sur le référencement local
 
@@ -45,19 +45,19 @@ Google valorise les établissements dynamiques. Une présence visuelle soignée 
 
 Une erreur fréquente consiste à photographier un magasin vide, de manière purement descriptive. Or, le retail repose sur l’expérience. La circulation, la scénographie, l’éclairage et la mise en scène des produits participent pleinement à la perception.
 
-Dans mon article consacré à [la scénographie lumineuse en photographie retail](/post/scenographie-lumineuse-retail/), je détaille comment la lumière structure l’espace et influence l’émotion ressentie. Sur Google Business, ces éléments sont déterminants. Ils permettent au client de comprendre l’univers de la marque en quelques secondes.
+Dans mon article consacré à [la scénographie lumineuse en photographie retail](/post/photographie-retail-eclairage-scenographie-ambiance/), je détaille comment la lumière structure l’espace et influence l’émotion ressentie. Sur Google Business, ces éléments sont déterminants. Ils permettent au client de comprendre l’univers de la marque en quelques secondes.
 
 ## La façade : premier signal fort
 
 La photographie de la devanture joue un rôle décisif. Elle permet d’identifier immédiatement le commerce, d’évaluer son intégration dans la rue et de mesurer son attractivité.
 
-Une façade correctement cadrée, lisible et valorisée inspire confiance. À l’inverse, une image floue ou mal exposée peut nuire à la perception. J’aborde cette dimension spécifique dans mon article sur [la photographie de vitrine et de devanture](/post/photographie-vitrine-devanture/), car elle constitue souvent le premier point de contact visuel.
+Une façade correctement cadrée, lisible et valorisée inspire confiance. À l’inverse, une image floue ou mal exposée peut nuire à la perception. J’aborde cette dimension spécifique dans mon article sur [la photographie de vitrine et de devanture](/post/photographier-vitrine-magasin-devanture-boutique/), car elle constitue souvent le premier point de contact visuel.
 
 ## Enseignes multi-sites : l’enjeu de l’harmonisation
 
 Pour les franchises et les réseaux nationaux, Google Business représente un défi supplémentaire. Chaque point de vente dispose de sa propre fiche. Sans cohérence visuelle, l’identité globale peut rapidement se fragmenter.
 
-Maintenir une signature homogène, quel que soit le lieu, renforce la reconnaissance de marque. J’évoque cette approche dans mon article sur [la mobilité du photographe pour les enseignes nationales](/post/mobilite-photographe-enseignes-nationales/), où j’explique comment une stratégie centralisée garantit un niveau d’exigence constant.
+Maintenir une signature homogène, quel que soit le lieu, renforce la reconnaissance de marque. J’évoque cette approche dans mon article sur [la mobilité du photographe pour les enseignes nationales](/post/mobilite-photographe-atout-reseaux-boutiques/), où j’explique comment une stratégie centralisée garantit un niveau d’exigence constant.
 
 ## Actualiser pour refléter l’évolution
 
@@ -69,4 +69,4 @@ Actualiser régulièrement les visuels permet de refléter la dynamique du point
 
 Google Business n’est plus un simple annuaire en ligne. C’est la première vitrine d’un commerce. Dans un contexte où l’image précède la visite, investir dans des photographies professionnelles permet d’améliorer la visibilité locale, de renforcer l’image de marque et d’augmenter la probabilité de visite.
 
-Si vous souhaitez optimiser la présence digitale de votre point de vente, vous pouvez découvrir [mon approche dédiée à la photographie retail](/retail/) ou me contacter directement via [la page Contact](/contact/).
+Si vous souhaitez optimiser la présence digitale de votre point de vente, vous pouvez découvrir [mon approche dédiée à la photographie retail](/immobilier-professionnel/) ou me contacter directement via [la page Contact](/contact/).

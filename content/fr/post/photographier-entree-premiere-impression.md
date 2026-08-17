@@ -105,7 +105,7 @@ Cette logique narrative renforce également l'impact des photographies les plus 
 
 Chaque image apporte une nouvelle information et accompagne naturellement le visiteur tout au long de la découverte du bien.
 
-Cette approche complète celle que je présente dans mon article **[Quels espaces photographier absolument dans un logement pour maximiser l'impact](/post/espaces-a-photographier-logement-impact-annonce-immobiliere/)**, où j'explique comment construire une série équilibrée adaptée aux attentes des futurs acquéreurs.
+Cette approche complète celle que je présente dans mon article **[Quels espaces photographier absolument dans un logement pour maximiser l'impact](/post/quels-espaces-photographier-logement-maximiser-impact/)**, où j'explique comment construire une série équilibrée adaptée aux attentes des futurs acquéreurs.
 
 ## Une entrée soignée valorise immédiatement le bien
 

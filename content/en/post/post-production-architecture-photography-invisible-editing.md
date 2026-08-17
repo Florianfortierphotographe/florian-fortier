@@ -25,7 +25,7 @@ The camera, however, is frozen. It must make a drastic choice: either it exposes
 
 The second major challenge is color grading. Here again, our brain plays tricks on us by performing a permanent automatic "white balance." A sheet of white paper placed under a yellow lightbulb will always appear white to us, because our brain corrects the information.
 
-The camera sensor, however, is a cold, objective measuring instrument. It records the actual hue. In a complex indoor scene, as I discuss in my article on [retail lighting](/en/post/photographie-retail-eclairage-scenographie-ambiance), we are often faced with "chromatic chaos":
+The camera sensor, however, is a cold, objective measuring instrument. It records the actual hue. In a complex indoor scene, as I discuss in my article on [retail lighting](/en/post/retail-photography-capturing-lighting-mood/), we are often faced with "chromatic chaos":
 * Cold blue light entering through the north window.
 * Warm orange light from wall sconces.
 * Sometimes even a green tint cast by the garden lawn onto the white ceiling.

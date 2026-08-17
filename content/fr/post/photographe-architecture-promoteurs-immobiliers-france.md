@@ -31,7 +31,7 @@ Un reportage de fin de chantier permet :
 * De renforcer la crédibilité des futurs programmes.
 * D’enrichir les dossiers d’appels d’offres.
 
-J’explique d’ailleurs l’importance de cette étape dans mon article consacré au [reportage de fin de chantier](/post/reportage-fin-chantier-livraison-batiment).
+J’explique d’ailleurs l’importance de cette étape dans mon article consacré au [reportage de fin de chantier](/post/reportage-fin-de-chantier-livraison-batiment/).
 
 ## Une cohérence d’image sur l’ensemble des programmes
 
@@ -41,7 +41,7 @@ Les promoteurs développent souvent plusieurs opérations en parallèle, parfois
 * D’assurer une continuité colorimétrique.
 * De maintenir un niveau d’exigence constant.
 
-Cette cohérence renforce l’identité du groupe et facilite la reconnaissance de marque. Pour comprendre pourquoi cette homogénéité est essentielle, je détaille ce point dans mon article sur [la cohérence visuelle des programmes immobiliers](/post/photographe-immobilier-coherence-visuelle-programme-immobilier).
+Cette cohérence renforce l’identité du groupe et facilite la reconnaissance de marque. Pour comprendre pourquoi cette homogénéité est essentielle, je détaille ce point dans mon article sur [la cohérence visuelle des programmes immobiliers](/post/images-coherentes-programme-immobilier/).
 
 ## Mettre en valeur les parties communes : un argument de vente majeur
 

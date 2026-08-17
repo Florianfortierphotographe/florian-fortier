@@ -13,7 +13,7 @@ My role as a [retail photographer](/en/retail-commercial/) therefore consists of
 
 ## Understanding the Customer Journey Before Shooting
 
-Before taking any photos, I analyze the logic of the location: entrance, draw zones, discovery spaces, decision areas, and the exit path. This reading is essential for building a coherent series, as I detail in my article on [building a cohesive series in architectural photography](/en/post/serie-coherente-photographie-architecture).
+Before taking any photos, I analyze the logic of the location: entrance, draw zones, discovery spaces, decision areas, and the exit path. This reading is essential for building a coherent series, as I detail in my article on [building a cohesive series in architectural photography](/en/post/building-coherent-series-architecture-photography/).
 
 Every image must have a precise intention: guiding the eye, prioritizing information, and accompanying the visitor's progression.
 
@@ -21,7 +21,7 @@ Every image must have a precise intention: guiding the eye, prioritizing informa
 
 The facade is the first interaction between the brand and its audience. It must be readable, attractive, and contextualized. Photographing a boutique without its immediate environment strips the image of meaning. 
 
-This approach echoes my work on [the architectural identity of facades](/en/post/photographier-facades-identite-architecturale), where the building is always placed back within its actual use.
+This approach echoes my work on [the architectural identity of facades](/en/post/photographing-facades-architectural-identity/), where the building is always placed back within its actual use.
 
 ## Highlighting the Key Areas of the Journey
 
@@ -31,23 +31,23 @@ A good retail reportage does not show everything, but it shows accurately. I pay
 * Visual focal points.
 * Fluid circulation zones.
 
-This prioritization is directly linked to my approach to [staging a neighborhood boutique](/en/post/photographier-boutique-quartier-mise-en-scene-identite-visuelle), where each image reinforces the readability of the location.
+This prioritization is directly linked to my approach to [staging a neighborhood boutique](/en/post/staging-neighborhood-boutique-strengthen-identity/), where each image reinforces the readability of the location.
 
 ## Light and Atmosphere: Accompanying the Experience
 
 Light structures the customer journey. A poorly photographed lighting scenography can completely break the perception of the place. 
 
-I therefore pay particular attention to the balance between natural and artificial light, especially in transition zones, as explained in my article on [managing lighting and mood in retail photography](/en/post/photographie-retail-eclairage-scenographie-ambiance). The goal is never to exaggerate, but to faithfully restore the atmosphere felt in the store.
+I therefore pay particular attention to the balance between natural and artificial light, especially in transition zones, as explained in my article on [managing lighting and mood in retail photography](/en/post/retail-photography-capturing-lighting-mood/). The goal is never to exaggerate, but to faithfully restore the atmosphere felt in the store.
 
 ## Humanizing the Journey Without Overloading It
 
-Depending on the brand's positioning, integrating staff or customers can reinforce the understanding of the journey. These presences must remain discreet and credible, consistent with my approach developed in [staging teams in retail](/en/post/photographie-retail-mise-en-scene-equipes-experience-client).
+Depending on the brand's positioning, integrating staff or customers can reinforce the understanding of the journey. These presences must remain discreet and credible, consistent with my approach developed in [staging teams in retail](/en/post/retail-photography-staging-teams-customer-experience/).
 
 An overcrowded image distracts attention from the location and harms the readability of the message.
 
 ## Building a Series Designed for Communication
 
-A retail reportage is rarely used on a single medium. Website, social networks, press kits, calls for tenders: the series must be adaptable. This is why I design each reportage as a structured whole, linked to the [visual consistency of communication media](/en/post/coherence-visuelle-photographe-communication-marque).
+A retail reportage is rarely used on a single medium. Website, social networks, press kits, calls for tenders: the series must be adaptable. This is why I design each reportage as a structured whole, linked to the [visual consistency of communication media](/en/post/creating-visual-consistency-brand-communication/).
 
 ## Conclusion
 

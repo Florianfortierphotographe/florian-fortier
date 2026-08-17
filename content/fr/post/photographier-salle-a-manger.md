@@ -120,7 +120,7 @@ Elles peuvent servir pour :
 
 Dans tous ces contextes, la salle à manger peut devenir un espace clé. Elle montre la possibilité de recevoir, de partager et de profiter du lieu. Pour un bien de caractère, elle peut aussi révéler les matériaux et l’ambiance qui différencient le logement d’un espace plus standard.
 
-Cette logique rejoint certains enjeux de la [photographie de location courte durée](/post/photographier-location-courte-duree-differences-immobilier-classique/), où les images doivent permettre au visiteur de se projeter dans l’expérience du séjour.
+Cette logique rejoint certains enjeux de la [photographie de location courte durée](/post/photographier-logement-location-courte-duree-airbnb/), où les images doivent permettre au visiteur de se projeter dans l’expérience du séjour.
 
 ## Montrer l’élégance sans surjouer le standing
 

@@ -15,7 +15,7 @@ This is a mistake. These locations possess their own distinct aesthetic: monumen
 
 The main problem with a 10,000 m² warehouse is that, paradoxically, it can look flat or empty in a photo. Without a point of reference, the eye struggles to comprehend the immensity of the volume.
 
-To restore this monumentality, I use elements of scale. I often include a human silhouette (an architect, a dock manager) or handling equipment in the distance. This technique immediately gives a sense of the ceiling height and the depth of the aisles, while applying the [rules of architectural composition](/en/post/composition-photo-architecture) to guide the eye toward the vanishing point.
+To restore this monumentality, I use elements of scale. I often include a human silhouette (an architect, a dock manager) or handling equipment in the distance. This technique immediately gives a sense of the ceiling height and the depth of the aisles, while applying the [rules of architectural composition](/en/post/secrets-good-composition-architecture-photography/) to guide the eye toward the vanishing point.
 
 ## Repetition and Graphics: Finding Beauty in the Functional
 
@@ -29,7 +29,7 @@ Warehouses are often complex challenges in terms of color grading. They mix:
 * The cold light (green or blue) of industrial lighting or neon tubes.
 * The harsh daylight coming from skydomes (roofs) or open loading docks.
 
-It is crucial to master this mix so that the white walls do not appear greenish. As I discuss in my [comparison of artificial vs natural light](/en/post/lumière-artificiel-ou-lumière-naturel), I use advanced shooting and post-production techniques to neutralize these color casts and make the space look bright and healthy.
+It is crucial to master this mix so that the white walls do not appear greenish. As I discuss in my [comparison of artificial vs natural light](/en/post/artificial-or-natural-light/), I use advanced shooting and post-production techniques to neutralize these color casts and make the space look bright and healthy.
 
 ## Exteriors: Integration into the Territory
 

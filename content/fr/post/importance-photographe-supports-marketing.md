@@ -54,4 +54,4 @@ Un shooting photo professionnel n’est pas une dépense, mais un investissement
 
 Une photographie réussie ne se contente pas d’illustrer : elle devient un élément clé de l’identité visuelle. Le photographe intervient alors comme un partenaire stratégique, capable de donner vie à une image de marque forte, cohérente et immédiatement reconnaissable.
 
-**Prêt à valoriser vos supports de communication ?** [Découvrez mon portfolio Corporate & Événementiel](/reportage-dentreprise/) ou [contactez-moi pour en discuter](/contact/).
+**Prêt à valoriser vos supports de communication ?** [Découvrez mon portfolio Corporate & Événementiel](/reportage-entreprise/) ou [contactez-moi pour en discuter](/contact/).

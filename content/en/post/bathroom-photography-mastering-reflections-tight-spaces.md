@@ -21,7 +21,7 @@ To bypass this trap, I use specific shooting techniques. Positioning comes down 
 
 How do you show all the amenities (bathtub, walk-in shower, double vanity) without having enough room to step back? The temptation is great to use an ultra-wide angle to shoehorn everything in. This is a common mistake that distorts reality: the bathtub stretches unnaturally, and the room seems huge but empty.
 
-As I mention in [my article on the wide-angle myth](/en/post/photographie-immobiliere-mythe-grand-angle-volumes-realistes), my approach favors realism. I look for vanishing lines that guide the eye and give a sense of depth without caricatural distortion. The landscape format is crucial here to visually "widen" the walls and let the composition breathe.
+As I mention in [my article on the wide-angle myth](/en/post/real-estate-photography-dangers-ultra-wide-angle/), my approach favors realism. I look for vanishing lines that guide the eye and give a sense of depth without caricatural distortion. The landscape format is crucial here to visually "widen" the walls and let the composition breathe.
 
 ## Enhancing Materials: From Marble to Ceramics
 

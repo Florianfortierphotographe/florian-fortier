@@ -15,7 +15,7 @@ Pourtant, attendre que le lieu soit habité peut transformer profondément la na
 
 Lorsqu’un bâtiment est photographié immédiatement après livraison, il est présenté comme un objet. La composition met en valeur les lignes, la symétrie, les proportions. L’image insiste sur la pureté formelle.
 
-J’explique cette approche dans mon article consacré à [la rigueur de la symétrie et du point de vue frontal en photographie d’architecture](/post/rigueur-symetrie-architecture/), où la lecture architecturale prime sur l’usage.
+J’explique cette approche dans mon article consacré à [la rigueur de la symétrie et du point de vue frontal en photographie d’architecture](/post/photographie-facade-architecture-symetrie-point-de-vue-frontal/), où la lecture architecturale prime sur l’usage.
 
 Une fois habité, le projet quitte cette dimension purement formelle. Il devient un espace vécu. Les circulations s’activent, les ouvertures dialoguent avec l’extérieur, les volumes prennent une échelle plus humaine.
 
@@ -25,7 +25,7 @@ La narration évolue : on ne regarde plus seulement un bâtiment, on comprend co
 
 Un projet architectural est conçu pour être habité, traversé, utilisé. Sans présence, certaines intentions restent abstraites.
 
-Un escalier, par exemple, peut être perçu comme une sculpture lorsqu’il est vide. Une fois utilisé, il révèle sa fonction, son ergonomie, sa relation au mouvement. J’aborde cette dimension dans [L’escalier en photographie d’architecture : entre sculpture, lumière et usage](/post/escalier-architecture-sculpture-usage/).
+Un escalier, par exemple, peut être perçu comme une sculpture lorsqu’il est vide. Une fois utilisé, il révèle sa fonction, son ergonomie, sa relation au mouvement. J’aborde cette dimension dans [L’escalier en photographie d’architecture : entre sculpture, lumière et usage](/post/escalier-photographie-architecture-sculpture-lumiere-usage/).
 
 La présence d’occupants ou d’éléments de vie apporte une échelle. Elle contextualise le projet. Elle rend perceptible ce qui était seulement suggéré.
 
@@ -41,7 +41,7 @@ Cette évolution enrichit la narration visuelle. Elle introduit une dimension te
 
 Un projet photographié vide parle principalement aux architectes et aux professionnels du secteur. Il met en avant la composition, les choix formels, la matérialité. Un projet photographié habité élargit le public. Il devient plus accessible. L’image raconte une histoire.
 
-Dans [Architecture et photographie : ce que l’image doit montrer… et ce qu’elle doit volontairement taire](/post/architecture-photographie-montrer-taire/), j’évoque cette idée de sélection narrative. Photographier un lieu habité implique un choix : montrer l’usage sans diluer l’intention initiale.
+Dans [Architecture et photographie : ce que l’image doit montrer… et ce qu’elle doit volontairement taire](/post/photographie-architecture-montrer-taire-intention/), j’évoque cette idée de sélection narrative. Photographier un lieu habité implique un choix : montrer l’usage sans diluer l’intention initiale.
 
 ## Entre authenticité et mise en scène
 
@@ -53,7 +53,7 @@ Dans mon article sur [comment photographier un intérieur habité tout en conser
 
 Un bâtiment habité dialogue différemment avec son environnement. Les balcons vivent, les terrasses s’installent, les espaces communs s’animent.
 
-Cette dimension renforce l’importance du contexte, que je développe dans [Photographie d’architecture : pourquoi le contexte compte autant que le bâtiment](/post/photographie-architecture-contexte/). L’usage crée une continuité entre intérieur et extérieur. Il rend visible l’insertion du projet dans son cadre de vie.
+Cette dimension renforce l’importance du contexte, que je développe dans [Photographie d’architecture : pourquoi le contexte compte autant que le bâtiment](/post/photographie-architecture-importance-contexte-environnement-batiment/). L’usage crée une continuité entre intérieur et extérieur. Il rend visible l’insertion du projet dans son cadre de vie.
 
 ## Un outil stratégique pour les agences d’architecture
 

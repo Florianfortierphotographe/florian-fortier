@@ -22,7 +22,7 @@ In the early morning, the light grazes the facade and naturally highlights the a
 
 This rendering is often impossible to achieve later in the day, when the sun rises higher and flattens out the details. 
 
-To understand how I approach other demanding situations, I also detail my workflow in this article: [Photographing highly colorful spaces: how I balance saturation, realism, and visual identity](/en/post/photographier-espaces-tres-colores-equilibrer-saturation-realisme-identite-visuelle).
+To understand how I approach other demanding situations, I also detail my workflow in this article: [Photographing highly colorful spaces: how I balance saturation, realism, and visual identity](/en/post/photographing-colorful-spaces-balancing-saturation-realism/).
 
 ## Preparation: The Key to a Successful Image
 
@@ -34,7 +34,7 @@ To take full advantage of this light, I anticipate every step:
 
 The goal is simple: to be ready at the exact moment the light becomes perfect, because this window of opportunity only lasts a few minutes. 
 
-To discover how I apply this same rigorous preparation in other contexts, I explain it in: [Which spaces to photograph absolutely in a home to maximize impact](/en/post/espaces-a-photographier-logement-impact-annonce-immobiliere).
+To discover how I apply this same rigorous preparation in other contexts, I explain it in: [Which spaces to photograph absolutely in a home to maximize impact](/en/post/essential-spaces-to-photograph-in-a-home-maximize-impact/).
 
 ## Long Shadows: A Powerful Creative Tool
 
@@ -43,7 +43,7 @@ At sunrise, stretched shadows create a dynamic reading of the building. I use th
 * Reinforce the geometry.
 * Guide the eye toward the architectural lines.
 
-However, they must be carefully managed to avoid unwanted shadows cast by distracting elements like vegetation or street furniture. This pursuit of precision is also central to my approach to geometry, detailed here: [The impact of a tilt-shift lens in an architecture series](/en/post/impact-objectif-tilt-shift-photographie-architecture).
+However, they must be carefully managed to avoid unwanted shadows cast by distracting elements like vegetation or street furniture. This pursuit of precision is also central to my approach to geometry, detailed here: [The impact of a tilt-shift lens in an architecture series](/en/post/impact-tilt-shift-lens-architecture-photography/).
 
 ## The Soft Morning Rendering: An Asset for Materials
 

@@ -37,7 +37,7 @@ En photographie, il est important de préserver cette diversité sans créer un 
 
 Les finitions sont aussi un point essentiel. Les raccords, les alignements, les jeux de profondeur, les proportions des caissons ou la régularité des panneaux racontent la qualité de l’aménagement. Ce sont parfois des éléments discrets, mais ils participent fortement à la perception du sur-mesure.
 
-Cette attention rejoint l’importance du mobilier dans la perception d’un intérieur haut de gamme, que j’aborde dans mon article sur [le rôle du mobilier dans la photographie d’un intérieur haut de gamme](/post/photographie-interieur-haut-de-gamme-importance-mobilier/). Dans le cas du mobilier intégré, cette question est encore plus forte, car le meuble fait véritablement corps avec le lieu.
+Cette attention rejoint l’importance du mobilier dans la perception d’un intérieur haut de gamme, que j’aborde dans mon article sur [le rôle du mobilier dans la photographie d’un intérieur haut de gamme](/post/importance-mobilier-photographie-interieur-haut-de-gamme/). Dans le cas du mobilier intégré, cette question est encore plus forte, car le meuble fait véritablement corps avec le lieu.
 
 ## Intégrer les objets décoratifs sans perdre la lecture du sur-mesure
 

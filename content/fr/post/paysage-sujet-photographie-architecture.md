@@ -15,7 +15,7 @@ Mon rôle de photographe consiste alors à trouver l’équilibre juste entre ar
 
 De nombreux projets ont été conçus en dialogue direct avec leur environnement. Orientation, percements, volumes, matériaux : tout est souvent pensé en fonction du paysage.
 
-C’est particulièrement vrai dans les projets résidentiels haut de gamme, les équipements culturels ou les architectures implantées en site sensible. Comme je l’explique dans mon article sur [l’impact de l’orientation d’un bâtiment sur l’approche photographique](/post/photographe-architecture-orientation-batiment-lumiere), ignorer le contexte revient à tronquer la lecture du projet.
+C’est particulièrement vrai dans les projets résidentiels haut de gamme, les équipements culturels ou les architectures implantées en site sensible. Comme je l’explique dans mon article sur [l’impact de l’orientation d’un bâtiment sur l’approche photographique](/post/orientation-batiment-influence-approche-photographique/), ignorer le contexte revient à tronquer la lecture du projet.
 
 Photographier uniquement le bâti, sans montrer ce à quoi il répond, appauvrit considérablement le récit visuel.
 

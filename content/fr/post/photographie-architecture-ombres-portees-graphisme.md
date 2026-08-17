@@ -15,7 +15,7 @@ Comme le disait Le Corbusier : *"L'architecture est le jeu savant, correct et ma
 
 L'ombre projetée d'un balcon, d'un garde-corps ou d'un arbre voisin crée un motif sur le mur qui change à chaque heure de la journée. C'est une architecture mouvante qui se superpose à celle du bâti.
 
-Mon travail de photographe est d'anticiper le moment précis où l'ombre s'aligne parfaitement avec la structure pour créer une composition géométrique pure. C'est ici que [l'importance du repérage](/post/importance-reperage-shooting-architecture-immobilier) prend tout son sens : il faut savoir exactement quand le soleil transformera une façade banale en tableau abstrait.
+Mon travail de photographe est d'anticiper le moment précis où l'ombre s'aligne parfaitement avec la structure pour créer une composition géométrique pure. C'est ici que [l'importance du repérage](/post/importance-reperage-avant-shooting-architecture-immobilier/) prend tout son sens : il faut savoir exactement quand le soleil transformera une façade banale en tableau abstrait.
 
 ## Révéler le rythme et la texture
 

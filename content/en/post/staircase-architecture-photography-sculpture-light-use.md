@@ -13,13 +13,13 @@ The staircase is often perceived as a mere functional element. In reality, it oc
 
 In many contemporary projects or renovated heritage buildings, the staircase is designed as an architectural object in its own right. Suspended flights, minimalist railings, interplay of materials, or curved lines: it sometimes resembles a sculpture integrated into the space.
 
-Photographing a staircase therefore implies a fine reading of lines, proportions, and vanishing points. The choice of viewpoint is decisive. A frontal shot can emphasize symmetry, while an oblique angle reveals the dynamics of the volume, following my approach described in [The rigor of symmetry and the frontal viewpoint](/en/post/photographie-facade-architecture-symetrie-point-de-vue-frontal).
+Photographing a staircase therefore implies a fine reading of lines, proportions, and vanishing points. The choice of viewpoint is decisive. A frontal shot can emphasize symmetry, while an oblique angle reveals the dynamics of the volume, following my approach described in [The rigor of symmetry and the frontal viewpoint](/en/post/architecture-photography-symmetry-frontal-viewpoint/).
 
 ## Light: Revealing Structure and Material
 
 The staircase is often a natural light catcher. Skylights, vertical bays, or side openings frequently accompany this circulation element. Photography must take advantage of this light to reveal materials, textures, and depth.
 
-Depending on the building's orientation, light can radically transform the perception of the staircase throughout the day. Anticipating these variations is an integral part of my job, as I explain in [Why a building's orientation radically changes the photographic approach](/en/post/photographe-architecture-orientation-batiment-lumiere).
+Depending on the building's orientation, light can radically transform the perception of the staircase throughout the day. Anticipating these variations is an integral part of my job, as I explain in [Why a building's orientation radically changes the photographic approach](/en/post/building-orientation-influences-photographic-approach/).
 
 In some contexts, a subtle balance between natural light and artificial lighting helps maintain a realistic reading of the space, without crushing contrasts or betraying the mood of the location.
 
@@ -27,7 +27,7 @@ In some contexts, a subtle balance between natural light and artificial lighting
 
 A staircase is not just a graphic object: it is a space for passage, movement, and transition. In architecture photography, the challenge is to suggest this use without falling into artificial staging.
 
-A discreet human presence, a mastered motion blur, or a composition hinting at circulation reinforces the credibility of the image. This approach echoes my reflection developed in [Architecture and photography: what the image must show... and what it must deliberately hide](/en/post/photographie-architecture-montrer-taire-intention).
+A discreet human presence, a mastered motion blur, or a composition hinting at circulation reinforces the credibility of the image. This approach echoes my reflection developed in [Architecture and photography: what the image must show... and what it must deliberately hide](/en/post/architecture-photography-what-to-show-what-to-hide/).
 
 The goal is not to literally document usage, but to suggest the life of the building.
 
@@ -35,7 +35,7 @@ The goal is not to literally document usage, but to suggest the life of the buil
 
 Staircases often combine several photographic difficulties: narrow spaces, varying ceiling heights, steep low angles, and risks of optical distortion. Poor management of these parameters can quickly distort the perception of volumes.
 
-The use of adapted lenses and the controlled correction of perspectives are essential, as I detail in [How I anticipate and correct optical distortions in architecture](/en/post/anticiper-corriger-deformations-optiques-architecture). The goal remains the same: faithfully restoring the architectural intent without visible artifices.
+The use of adapted lenses and the controlled correction of perspectives are essential, as I detail in [How I anticipate and correct optical distortions in architecture](/en/post/anticipating-correcting-optical-distortions-architecture/). The goal remains the same: faithfully restoring the architectural intent without visible artifices.
 
 ## Conclusion
 

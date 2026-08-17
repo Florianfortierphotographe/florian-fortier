@@ -22,7 +22,7 @@ C'est cette technique qui permet de valoriser la qualité des matériaux : la mo
 ## Le moment idéal : Zénith ou Golden Hour ?
 
 Tout dépend de l'objectif :
-* **À midi (Le Zénith) :** Le soleil tape au fond du bassin. L'eau prend une teinte turquoise saturée, très "vacances". C'est idéal pour l'immobilier résidentiel classique car cela évoque la baignade immédiate. Attention, cela nécessite un grand soleil (voir mon article sur [la gestion de la météo](/post/photographier-meteo-defavorable)).
+* **À midi (Le Zénith) :** Le soleil tape au fond du bassin. L'eau prend une teinte turquoise saturée, très "vacances". C'est idéal pour l'immobilier résidentiel classique car cela évoque la baignade immédiate. Attention, cela nécessite un grand soleil (voir mon article sur [la gestion de la météo](/post/photographier-bien-meteo-defavorable-adapter-approche/)).
 * **Le soir (Golden Hour) :** Le ciel se reflète dans l'eau, les éclairages immergés s'allument. C'est une ambiance "Lounge" et sophistiquée, parfaite pour l'hôtellerie ou l'immobilier de prestige.
 
 ## Intégrer la piscine dans son environnement

@@ -85,7 +85,7 @@ Une série complète peut inclure :
 
 L’objectif est de construire une lecture progressive du projet. Les images principales attirent l’attention, tandis que les images secondaires complètent la compréhension du bâtiment. Dans cette logique, le palier devient une pièce du récit visuel, au même titre que les autres espaces.
 
-Cette approche rejoint celle que j’aborde dans mon article sur [la cohérence visuelle d’un programme immobilier](/post/photographe-immobilier-coherence-visuelle-programme-immobilier/). Pour qu’un reportage fonctionne, il ne suffit pas d’accumuler des images fortes. Il faut aussi montrer les espaces intermédiaires qui donnent de la continuité à l’ensemble.
+Cette approche rejoint celle que j’aborde dans mon article sur [la cohérence visuelle d’un programme immobilier](/post/images-coherentes-programme-immobilier/). Pour qu’un reportage fonctionne, il ne suffit pas d’accumuler des images fortes. Il faut aussi montrer les espaces intermédiaires qui donnent de la continuité à l’ensemble.
 
 ## Éviter une image trop froide ou trop technique
 

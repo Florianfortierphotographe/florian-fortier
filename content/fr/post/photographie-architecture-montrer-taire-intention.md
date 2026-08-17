@@ -13,7 +13,7 @@ Photographier un bâtiment, ce n’est pas documenter exhaustivement un lieu. C�
 
 ## Montrer l’essentiel : l’intention architecturale avant tout
 
-Chaque projet architectural repose sur une intention claire : un jeu de volumes, une relation à la lumière, une matérialité spécifique ou un dialogue avec son environnement. Mon rôle consiste à identifier cette intention dès la phase de repérage, comme je le détaille dans mon article sur [l’importance du repérage avant un shooting d’architecture ou immobilier](/post/importance-reperage-shooting-architecture-immobilier).
+Chaque projet architectural repose sur une intention claire : un jeu de volumes, une relation à la lumière, une matérialité spécifique ou un dialogue avec son environnement. Mon rôle consiste à identifier cette intention dès la phase de repérage, comme je le détaille dans mon article sur [l’importance du repérage avant un shooting d’architecture ou immobilier](/post/importance-reperage-avant-shooting-architecture-immobilier/).
 
 Plutôt que de multiplier les points de vue, je privilégie des images qui :
 * Clarifient la lecture des volumes.
@@ -39,7 +39,7 @@ Une image trop descriptive devient confuse. Une image trop neutre perd son impac
 
 Le cadrage est l’outil principal de cette sélection visuelle. La hauteur de prise de vue, l’angle choisi ou l’usage d’un objectif spécifique permettent d’écarter certains éléments sans les masquer artificiellement.
 
-C’est notamment pour cette raison que j’utilise des optiques adaptées, comme expliqué dans [l’impact d’un objectif tilt-shift dans une série d’architecture](/post/impact-objectif-tilt-shift-photographie-architecture). Elles me permettent de préserver les proportions tout en contrôlant précisément ce qui entre ou non dans l’image.
+C’est notamment pour cette raison que j’utilise des optiques adaptées, comme expliqué dans [l’impact d’un objectif tilt-shift dans une série d’architecture](/post/impact-objectif-tilt-shift-serie-architecture/). Elles me permettent de préserver les proportions tout en contrôlant précisément ce qui entre ou non dans l’image.
 
 Cette rigueur est indispensable pour éviter les dérives évoquées dans mon article sur [les dangers de l’ultra grand angle en photographie immobilière](/post/photographie-immobiliere-mythe-grand-angle-volumes-realistes).
 

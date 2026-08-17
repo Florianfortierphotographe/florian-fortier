@@ -53,7 +53,7 @@ Chaque mission repose sur :
 * Une planification en fonction de la course du soleil.
 * Une gestion précise des perspectives et des verticales.
 
-L’utilisation d’optiques spécialisées, notamment le tilt-shift, garantit des lignes maîtrisées et des volumes réalistes. Si vous souhaitez comprendre l’impact de cet outil sur la qualité d’une série, j’explique en détail son rôle dans mon article sur [les objectifs tilt-shift](/post/impact-objectif-tilt-shift-photographie-architecture).
+L’utilisation d’optiques spécialisées, notamment le tilt-shift, garantit des lignes maîtrisées et des volumes réalistes. Si vous souhaitez comprendre l’impact de cet outil sur la qualité d’une série, j’explique en détail son rôle dans mon article sur [les objectifs tilt-shift](/post/impact-objectif-tilt-shift-serie-architecture/).
 
 ## Une meilleure valorisation pour les concours et publications
 

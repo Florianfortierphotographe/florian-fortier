@@ -15,7 +15,7 @@ Dans ce contexte, actualiser les photos n’est pas un simple détail esthétiqu
 
 Un bien remis en vente apparaît souvent comme “déjà vu”. Les acquéreurs ayant activé des alertes sur les portails immobiliers reconnaissent immédiatement les anciens visuels. Si les photos sont identiques à la première publication, l’annonce risque d’être ignorée car elle ne suscite plus aucune curiosité.
 
-Actualiser les images permet de recréer une sensation de nouveauté. Même si le bien est le même, la manière dont il est présenté change la perception. Comme je le détaille dans mon article sur [l’impact des images sur la perception du standing d’un bien](/post/impact-images-perception-standing/), la photographie influence directement le positionnement perçu par les acheteurs. Une nouvelle série peut transformer la lecture globale du projet.
+Actualiser les images permet de recréer une sensation de nouveauté. Même si le bien est le même, la manière dont il est présenté change la perception. Comme je le détaille dans mon article sur [l’impact des images sur la perception du standing d’un bien](/post/photographie-immobiliere-influence-images-standing-bien/), la photographie influence directement le positionnement perçu par les acheteurs. Une nouvelle série peut transformer la lecture globale du projet.
 
 ## Le marché évolue, la présentation doit suivre
 
@@ -33,13 +33,13 @@ La photographie devient alors un véritable outil d’ajustement face à la réa
 
 Entre deux mises en vente, plusieurs éléments physiques peuvent évoluer : réalisation de travaux, rafraîchissement des peintures, nouveau mobilier ou prestation de *home staging*. 
 
-Dans mon guide sur [la préparation d'un shooting immobilier](/post/preparer-shooting-immobilier-checklist/), je souligne l’importance de cette préparation. Si le bien a été amélioré, conserver d’anciennes images serait contre-productif. Une nouvelle série se doit de refléter la réalité actuelle et les efforts fournis.
+Dans mon guide sur [la préparation d'un shooting immobilier](/post/preparer-interieur-shooting-immobilier-checklist-conseils/), je souligne l’importance de cette préparation. Si le bien a été amélioré, conserver d’anciennes images serait contre-productif. Une nouvelle série se doit de refléter la réalité actuelle et les efforts fournis.
 
 ## La lumière change la perception
 
 Un bien photographié en plein cœur de l'hiver ne renvoie pas la même impression qu’au printemps ou en été. À Paris et en Île-de-France, la qualité de la lumière naturelle varie fortement selon la saison. Un appartement sombre en décembre peut paraître baigné de lumière en mai.
 
-Dans mon article expliquant [pourquoi le printemps est la saison reine pour vos photos de vente](/post/printemps-saison-reine-photos-immobilier/), je démontre comment la saisonnalité influence l’attractivité visuelle. Revenir photographier un bien dans de meilleures conditions climatiques peut transformer radicalement son attractivité.
+Dans mon article expliquant [pourquoi le printemps est la saison reine pour vos photos de vente](/post/immobilier-printemps-meilleure-saison-photo/), je démontre comment la saisonnalité influence l’attractivité visuelle. Revenir photographier un bien dans de meilleures conditions climatiques peut transformer radicalement son attractivité.
 
 ## Redonner confiance aux acheteurs
 
@@ -51,7 +51,7 @@ De nouvelles photographies professionnelles envoient un signal fort et positif :
 
 Il arrive fréquemment que la première série d’images présente des défauts techniques : focale trop large, déformations optiques, pièces mal hiérarchisées ou ambiance trop sombre.
 
-Dans [Photographie immobilière : les dangers de l’ultra grand-angle](/post/dangers-ultra-grand-angle-immobilier/), j’explique pourquoi certaines pratiques amateurs peuvent nuire à la crédibilité de l'annonce. Actualiser les photos permet de corriger ces erreurs et de proposer une lecture plus juste et valorisante des volumes.
+Dans [Photographie immobilière : les dangers de l’ultra grand-angle](/post/photographie-immobiliere-mythe-grand-angle-volumes-realistes/), j’explique pourquoi certaines pratiques amateurs peuvent nuire à la crédibilité de l'annonce. Actualiser les photos permet de corriger ces erreurs et de proposer une lecture plus juste et valorisante des volumes.
 
 ## Relancer l’algorithme des portails immobiliers
 

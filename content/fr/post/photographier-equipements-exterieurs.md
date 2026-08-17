@@ -34,7 +34,7 @@ Dans un reportage immobilier ou architectural, les façades et les logements occ
 
 Les abords et équipements extérieurs complètent la lecture du projet. Ils montrent comment le bâtiment s’insère dans son environnement immédiat et comment il est utilisé dès les premiers mètres. Un accès bien traité, un cheminement clair, un espace vélo soigné ou une zone plantée structurée peuvent donner une impression de qualité, de confort et de cohérence.
 
-Cette logique rejoint l’importance de construire une série complète autour d’un programme immobilier. Dans mon article sur [la cohérence visuelle d’un programme immobilier](/post/photographe-immobilier-coherence-visuelle-programme-immobilier/), j’explique que la qualité d’un reportage repose aussi sur la capacité à montrer l’ensemble du projet, pas seulement ses images principales.
+Cette logique rejoint l’importance de construire une série complète autour d’un programme immobilier. Dans mon article sur [la cohérence visuelle d’un programme immobilier](/post/images-coherentes-programme-immobilier/), j’explique que la qualité d’un reportage repose aussi sur la capacité à montrer l’ensemble du projet, pas seulement ses images principales.
 
 Photographier les équipements extérieurs permet donc d’ajouter une dimension plus concrète à la série. Ces images montrent le bâtiment dans son usage réel, une fois livré.
 
@@ -65,7 +65,7 @@ Le seuil est particulièrement important. Il marque le passage entre l’espace 
 
 Je cherche à rendre ces parcours lisibles. L’image doit permettre de comprendre où l’on passe, où l’on entre et comment les espaces sont organisés. Les lignes du sol, les alignements des dalles, les plantations et les volumes architecturaux peuvent aider à guider le regard.
 
-Cette attention rejoint des sujets déjà présents dans la photographie des espaces communs. Dans mon article sur [les parties communes d’une résidence](/post/photographier-parties-communes-residence/), j’aborde l’importance de ces espaces dans l’expérience résidentielle. Les équipements extérieurs prolongent cette logique, mais à l’échelle des abords du bâtiment.
+Cette attention rejoint des sujets déjà présents dans la photographie des espaces communs. Dans mon article sur [les parties communes d’une résidence](/post/photographier-parties-communes-residence-experience/), j’aborde l’importance de ces espaces dans l’expérience résidentielle. Les équipements extérieurs prolongent cette logique, mais à l’échelle des abords du bâtiment.
 
 ## Intégrer les éléments techniques sans les rendre négatifs
 
@@ -116,7 +116,7 @@ Elles peuvent servir pour :
 
 Ces images montrent que le programme ne se limite pas à une enveloppe architecturale. Elles montrent les usages, les équipements, les accès et le soin apporté aux espaces partagés.
 
-Elles peuvent également compléter un [reportage de fin de chantier](/post/reportage-fin-chantier-livraison-batiment/), en documentant les espaces livrés dans leur dimension pratique et quotidienne. Une fois le bâtiment terminé, les équipements extérieurs deviennent une part importante de la perception du projet.
+Elles peuvent également compléter un [reportage de fin de chantier](/post/reportage-fin-de-chantier-livraison-batiment/), en documentant les espaces livrés dans leur dimension pratique et quotidienne. Une fois le bâtiment terminé, les équipements extérieurs deviennent une part importante de la perception du projet.
 
 ## Conclusion
 

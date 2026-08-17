@@ -44,7 +44,7 @@ J’anticipe également tout ce qui peut être corrigé sur place : verticales, 
 
 En arrivant, je commence par un repérage express afin de comprendre la circulation de la lumière, les contraintes d’accès, la structure des espaces et la présence éventuelle d’éléments perturbateurs.
 
-J’organise ensuite un enchaînement logique des prises de vue en fonction de la course du soleil, un pilier de ma pratique. Pour en savoir plus, vous pouvez consulter mon article sur [la capture de la lumière naturelle en photographie d’architecture](/post/photographier-architecture-lumiere-naturelle/), où j’explique comment j’exploite ces variations pour révéler les volumes.
+J’organise ensuite un enchaînement logique des prises de vue en fonction de la course du soleil, un pilier de ma pratique. Pour en savoir plus, vous pouvez consulter mon article sur [la capture de la lumière naturelle en photographie d’architecture](/post/photographie-architecture-lumiere-naturelle/), où j’explique comment j’exploite ces variations pour révéler les volumes.
 
 Même dans l’urgence, je veille à maintenir une vraie cohérence visuelle : couleurs harmonisées, compositions soignées, direction de lumière homogène et ambiance équilibrée.
 
@@ -64,7 +64,7 @@ Je fournis toujours plusieurs exports : haute définition, versions optimisées 
 
 Cette approche me permet d’intervenir rapidement, même dans des contextes difficiles, sans jamais compromettre la qualité du rendu final. Le client reçoit des images fiables, cohérentes et directement utilisables pour ses supports : site web, brochure, dossier d’appel d’offres, communication interne ou réseaux sociaux.
 
-Cette capacité à absorber les urgences tout en maintenant une exigence professionnelle fait partie intégrante de ma méthode d'intervention en [reportage d'entreprise](/reportage-dentreprise/).
+Cette capacité à absorber les urgences tout en maintenant une exigence professionnelle fait partie intégrante de ma méthode d'intervention en [reportage d'entreprise](/reportage-entreprise/).
 
 ## Conclusion
 

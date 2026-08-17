@@ -19,7 +19,7 @@ Mais comment faire tenir ces trois espaces dans une seule image sans créer un s
 
 Le défi principal de la suite parentale est la connexion. Si je photographie la chambre d'un côté et la salle de bain de l'autre, je perds l'essence même du concept de "suite". L'objectif est de montrer la fluidité.
 * **L'angle de vue traversant :** Je cherche toujours l'angle qui permet, depuis la tête de lit, d'apercevoir l'entrée du dressing ou la vasque de la salle de bain.
-* **La profondeur de champ :** Contrairement à un simple packshot produit, ici, je veux que l'œil voyage. J'utilise une ouverture qui permet de garder la netteté sur le premier plan (le lit) tout en laissant deviner l'arrière-plan (la baignoire îlot). C'est une technique que j'applique aussi pour [photographier un hôtel ou une suite de prestige](/post/photographe-hotel-suite-prestige-reportage-visuel), où la narration visuelle est primordiale.
+* **La profondeur de champ :** Contrairement à un simple packshot produit, ici, je veux que l'œil voyage. J'utilise une ouverture qui permet de garder la netteté sur le premier plan (le lit) tout en laissant deviner l'arrière-plan (la baignoire îlot). C'est une technique que j'applique aussi pour [photographier un hôtel ou une suite de prestige](/post/photographier-hotel-suite-prestige-recit-visuel/), où la narration visuelle est primordiale.
 
 ## Le "Staging" du lit : L'effet "Hôtel 5 étoiles"
 

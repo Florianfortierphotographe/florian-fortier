@@ -25,7 +25,7 @@ Cette rigueur géométrique est la base de mon travail, comme je l'explique dans
 
 Bois, verre, métal, packaging cartonné… La lumière doit rendre la matière "tactile" tout en restant fidèle aux couleurs réelles des produits.
 
-C'est un défi technique constant, notamment pour gérer les reflets sur les flacons ou les lunettes. Contrairement à un packshot studio sur fond blanc, je photographie le produit dans son environnement lumineux réel. Cela demande une maîtrise parfaite des sources lumineuses pour éviter les brillances disgracieuses tout en conservant l'éclat qui rend le produit désirable. C'est ici que [la gestion de la lumière artificielle](/post/photographier-espaces-nocturnes-lumieres-artificielles) (spots, rétro-éclairage des étagères) devient cruciale.
+C'est un défi technique constant, notamment pour gérer les reflets sur les flacons ou les lunettes. Contrairement à un packshot studio sur fond blanc, je photographie le produit dans son environnement lumineux réel. Cela demande une maîtrise parfaite des sources lumineuses pour éviter les brillances disgracieuses tout en conservant l'éclat qui rend le produit désirable. C'est ici que [la gestion de la lumière artificielle](/post/photographier-espaces-nocturnes-gerer-lumieres-artificielles/) (spots, rétro-éclairage des étagères) devient cruciale.
 
 ## Du plan large au plan serré : Contextualiser l'offre
 

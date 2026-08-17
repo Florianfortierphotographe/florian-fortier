@@ -21,13 +21,13 @@ Backlighting creates soft cast shadows that "anchor" the furniture to the floor,
 
 If backlighting is so dreaded, it is because it poses a major physical problem: dynamic range. The difference in brightness between the glaring sun in the garden and the cozy interior of the living room is immense. A camera set to automatic mode would panic: it would either "blow out" the window (becoming a white rectangle without details), or plunge the room into total darkness to save the outside view.
 
-This is where my expertise comes in. Rather than fighting the sun with powerful flashes that would denature the mood, I use advanced shooting techniques (bracketing). As I explained in my article on [post-production and invisible editing](/en/post/post-production-photographie-architecture-retouche-invisible-naturelle), I capture the details of the room and those of the outside view separately, to merge them later. This results in a balanced image where natural light floods the room without ever blinding the viewer.
+This is where my expertise comes in. Rather than fighting the sun with powerful flashes that would denature the mood, I use advanced shooting techniques (bracketing). As I explained in my article on [post-production and invisible editing](/en/post/post-production-architecture-photography-invisible-editing/), I capture the details of the room and those of the outside view separately, to merge them later. This results in a balanced image where natural light floods the room without ever blinding the viewer.
 
 ## The View: Bringing the Outside In
 
 In real estate, and particularly for luxury properties, the view has tangible financial value. A wooded terrace, an urban panorama, or a glimpse of the sea are not details; they are major selling points. Photographing facing the bay window is often the only way to show the fluid connection between the "Inside" and the "Outside."
 
-By mastering backlighting, I allow future buyers to understand that they can enjoy their garden from their couch. The window is no longer a source of glare; it becomes a living painting that visually enlarges the space, an essential concept for rendering [realistic volumes](/en/post/photographie-immobiliere-mythe-grand-angle-volumes-realistes).
+By mastering backlighting, I allow future buyers to understand that they can enjoy their garden from their couch. The window is no longer a source of glare; it becomes a living painting that visually enlarges the space, an essential concept for rendering [realistic volumes](/en/post/real-estate-photography-dangers-ultra-wide-angle/).
 
 ## Emotion and Atmosphere
 

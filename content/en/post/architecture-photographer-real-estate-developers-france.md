@@ -31,7 +31,7 @@ An end-of-construction reportage allows you to:
 * Reinforce the credibility of future programs.
 * Enrich call-for-tender files.
 
-I explain the importance of this step in my article dedicated to [the end-of-construction reportage](/en/post/reportage-fin-chantier-livraison-batiment).
+I explain the importance of this step in my article dedicated to [the end-of-construction reportage](/en/post/post-construction-photo-report-building-handover/).
 
 ## Image Consistency Across All Developments
 
@@ -41,7 +41,7 @@ Developers often run several operations in parallel, sometimes in different regi
 * Ensure colorimetric continuity.
 * Maintain a constant level of standards.
 
-This consistency strengthens the group's identity and facilitates brand recognition. To understand why this homogeneity is essential, I detail this point in my article on [the visual consistency of real estate developments](/en/post/photographe-immobilier-coherence-visuelle-programme-immobilier).
+This consistency strengthens the group's identity and facilitates brand recognition. To understand why this homogeneity is essential, I detail this point in my article on [the visual consistency of real estate developments](/en/post/consistent-images-real-estate-developments/).
 
 ## Highlighting Common Areas: A Major Selling Point
 
@@ -76,7 +76,7 @@ I favor precise but natural post-production, in order to faithfully restore:
 * Proportions.
 * Lighting atmospheres.
 
-I develop this approach in my article on [the importance of mastered post-production in architecture photography](/en/post/post-production-photographie-architecture-retouche-invisible-naturelle).
+I develop this approach in my article on [the importance of mastered post-production in architecture photography](/en/post/post-production-architecture-photography-invisible-editing/).
 
 ## A Strategic Asset for National Developers
 

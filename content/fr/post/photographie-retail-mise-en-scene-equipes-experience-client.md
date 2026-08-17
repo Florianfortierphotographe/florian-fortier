@@ -9,7 +9,7 @@ translationKey: "photographie-retail-mise-en-scene-equipes-experience-client"
 
 En photographie d'architecture commerciale, on cherche souvent la pureté des lignes dans un espace vide. Mais pour une enseigne, le but ultime est que le magasin vive. Une photo désertée peut parfois sembler froide ou "non testée".
 
-C'est une approche que j'applique régulièrement pour mes clients Retail. Que ce soit pour une boutique unique ou lors d'un déploiement national nécessitant [une grande mobilité sur tout le territoire](/post/photographe-boutiques-france-mobilite-reseau), cette méthode garantit une image de marque cohérente et humanisée.
+C'est une approche que j'applique régulièrement pour mes clients Retail. Que ce soit pour une boutique unique ou lors d'un déploiement national nécessitant [une grande mobilité sur tout le territoire](/post/mobilite-photographe-atout-reseaux-boutiques/), cette méthode garantit une image de marque cohérente et humanisée.
 
 ## Pourquoi shooter à J-1 plutôt que le jour de l'ouverture ?
 

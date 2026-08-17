@@ -17,7 +17,7 @@ A Google Business listing acts as a digital extension of your point of sale. For
 
 A dark or poorly framed image can subconsciously send a negative message. Conversely, a professional, well-balanced, and bright photograph immediately reinforces the credibility of the business. It suggests organization, rigor, and a high standard of quality.
 
-In my article on [how to translate the customer journey into images](/en/post/translate-customer-journey-images/), I explain how retail photography influences the experience before the customer even steps inside. Google Business perfectly amplifies this phenomenon.
+In my article on [how to translate the customer journey into images](/en/post/retail-photography-translating-customer-journey-images/), I explain how retail photography influences the experience before the customer even steps inside. Google Business perfectly amplifies this phenomenon.
 
 ## The Image as a Catalyst for Visits
 
@@ -33,7 +33,7 @@ Google Business should not be treated as an isolated channel. It is an integral 
 
 If the photos on your Google listing do not match the visual universe developed on your website or social media, a disconnect occurs. This lack of uniformity weakens brand perception.
 
-I address this in detail in my article on [visual consistency across communication channels](/en/post/visual-consistency-channels/). Your imagery must remain aligned across every touchpoint. Google Business thus becomes an essential link in this consistency.
+I address this in detail in my article on [visual consistency across communication channels](/en/post/creating-visual-consistency-brand-communication/). Your imagery must remain aligned across every touchpoint. Google Business thus becomes an essential link in this consistency.
 
 ## The Impact on Local SEO
 
@@ -45,19 +45,19 @@ Google rewards dynamic businesses. A polished visual presence can contribute to 
 
 A common mistake is photographing an empty store in a purely descriptive way. But retail is built on experience. Traffic flow, scenography, lighting, and product staging all play a vital role in perception.
 
-In my article dedicated to [lighting scenography in retail photography](/en/post/lighting-scenography-retail/), I detail how light structures space and influences emotional response. On Google Business, these elements are decisive. They allow the customer to grasp the brand's universe in seconds.
+In my article dedicated to [lighting scenography in retail photography](/en/post/retail-photography-capturing-lighting-mood/), I detail how light structures space and influences emotional response. On Google Business, these elements are decisive. They allow the customer to grasp the brand's universe in seconds.
 
 ## The Facade: The First Strong Signal
 
 Photographing the storefront plays a decisive role. It allows the customer to immediately identify the shop, evaluate its integration into the street, and measure its appeal.
 
-A properly framed, legible facade inspires trust. Conversely, a blurry or poorly exposed image can harm perception. I discuss this specific dimension in my article on [storefront and window photography](/en/post/storefront-window-photography/), as it often constitutes the first visual point of contact.
+A properly framed, legible facade inspires trust. Conversely, a blurry or poorly exposed image can harm perception. I discuss this specific dimension in my article on [storefront and window photography](/en/post/photographing-store-windows-shop-front-marketing/), as it often constitutes the first visual point of contact.
 
 ## Multi-Site Brands: The Challenge of Harmonization
 
 For franchises and national networks, Google Business represents an additional challenge. Each location has its own listing. Without visual consistency, the global identity can quickly become fragmented.
 
-Maintaining a uniform signature reinforces brand recognition. I discuss this approach in my article on [photographer mobility for national brands](/en/post/photographer-mobility-national-brands/), where I explain how a centralized strategy guarantees a constant level of quality.
+Maintaining a uniform signature reinforces brand recognition. I discuss this approach in my article on [photographer mobility for national brands](/en/post/photographer-mobility-asset-retail-brands/), where I explain how a centralized strategy guarantees a constant level of quality.
 
 ## Updating to Reflect Evolution
 
@@ -69,4 +69,4 @@ Regularly updating visuals reflects the dynamics of the point of sale and mainta
 
 Google Business is no longer just an online directory. It is the primary storefront of a business. In a context where the image precedes the visit, investing in professional photography improves local visibility, strengthens brand image, and increases the likelihood of a visit.
 
-If you want to optimize the digital presence of your retail space, you can discover [my dedicated approach to retail photography](/en/retail/) or contact me directly via [the Contact page](/en/contact/).
+If you want to optimize the digital presence of your retail space, you can discover [my dedicated approach to retail photography](/en/retail-commercial/) or contact me directly via [the Contact page](/en/contact/).

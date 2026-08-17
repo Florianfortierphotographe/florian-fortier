@@ -109,7 +109,7 @@ Elles peuvent servir à :
 * documenter un logement rénové ;
 * améliorer la perception d’un bien compact.
 
-Dans le cas d’une location courte durée, cette clarté est particulièrement importante. Le visiteur doit comprendre immédiatement ce que le logement propose et comment il pourra l’utiliser. J’aborde cette logique dans mon article sur [la photographie d’un logement en location courte durée](/post/photographier-location-courte-duree-differences-immobilier-classique/), où l’image doit aider à se projeter dans un usage concret.
+Dans le cas d’une location courte durée, cette clarté est particulièrement importante. Le visiteur doit comprendre immédiatement ce que le logement propose et comment il pourra l’utiliser. J’aborde cette logique dans mon article sur [la photographie d’un logement en location courte durée](/post/photographier-logement-location-courte-duree-airbnb/), où l’image doit aider à se projeter dans un usage concret.
 
 Pour un studio, chaque image doit donc être utile. Elle doit montrer une fonction, une qualité ou une information importante pour la personne qui découvre le bien en ligne.
 
@@ -119,7 +119,7 @@ Un studio ne peut pas toujours être raconté avec une seule image. Même si une
 
 L’objectif est de construire une série claire, sans répétition inutile. Chaque image doit répondre à une question que peut se poser un futur occupant : où cuisine-t-on ? Où travaille-t-on ? Où range-t-on ses affaires ? Comment circule-t-on ? Quelle est la taille de la salle d’eau ? Où arrive la lumière ?
 
-Cette approche rejoint mon article sur [les espaces à photographier dans un logement pour maximiser l’impact d’une annonce immobilière](/post/espaces-a-photographier-logement-impact-annonce-immobiliere/). Dans un petit logement, cette logique est encore plus importante, car les fonctions sont concentrées dans un volume réduit.
+Cette approche rejoint mon article sur [les espaces à photographier dans un logement pour maximiser l’impact d’une annonce immobilière](/post/quels-espaces-photographier-logement-maximiser-impact/). Dans un petit logement, cette logique est encore plus importante, car les fonctions sont concentrées dans un volume réduit.
 
 Une série cohérente permet de montrer le logement sans exagération. Elle donne une vision complète, rassurante et utile du bien.
 

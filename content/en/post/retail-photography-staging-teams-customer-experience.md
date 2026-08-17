@@ -9,12 +9,12 @@ translationKey: "photographie-retail-mise-en-scene-equipes-experience-client"
 
 In commercial architecture photography, we often look for the purity of lines in an empty space. But for a brand, the ultimate goal is for the store to come alive. A deserted photo can sometimes seem cold or "untested."
 
-This is an approach I regularly apply for my Retail clients. Whether it is for a single boutique or a national rollout requiring [high mobility across the territory](/en/post/photographe-boutiques-france-mobilite-reseau), this method guarantees a coherent and humanized brand image.
+This is an approach I regularly apply for my Retail clients. Whether it is for a single boutique or a national rollout requiring [high mobility across the territory](/en/post/photographer-mobility-asset-retail-brands/), this method guarantees a coherent and humanized brand image.
 
 ## Why Shoot on "Day -1" Rather Than on Opening Day?
 
 Opening day is often chaotic: crowds, traffic management, unforeseen events. Conducting the shoot the day before ("D-1") offers ideal conditions:
-* **The Merchandising is perfect:** Shelves are full, and facing is meticulously aligned (see my article on [Visual Merchandising](/en/post/photographie-retail-visual-merchandising-produits)).
+* **The Merchandising is perfect:** Shelves are full, and facing is meticulously aligned (see my article on [Visual Merchandising](/en/post/retail-photography-visual-merchandising-products/)).
 * **Cleaning is flawless:** No footprints on the floor and no dust.
 * **Time is controlled:** We can take the time to perfect every frame without disturbing any actual customers.
 

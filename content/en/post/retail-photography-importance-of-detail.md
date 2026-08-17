@@ -15,13 +15,13 @@ However, in retail photography, attention is often solely focused on the wider p
 
 A boutique is much more than its square footage; it is the physical expression of a brand's positioning. A natural stone floor, custom-built furniture, a brass handle, or exposed stitching on a sofa—these elements tell a story of high standards.
 
-In retail photography, capturing these details visually translates perceived quality. The image becomes a storytelling tool. As I explain in my article on [maintaining visual consistency across communication channels](/en/post/visual-consistency-brand-communication/), every visual asset contributes to reinforcing a brand's global identity. Details are often the most powerful vehicles for this.
+In retail photography, capturing these details visually translates perceived quality. The image becomes a storytelling tool. As I explain in my article on [maintaining visual consistency across communication channels](/en/post/creating-visual-consistency-brand-communication/), every visual asset contributes to reinforcing a brand's global identity. Details are often the most powerful vehicles for this.
 
 ## Creating a Multi-Layered Reading of the Space
 
 An effective photographic series generally alternates between wide shots and tighter frames. The wide shot allows the viewer to understand the space, while the detail brings depth. In a Parisian concept store or a premium boutique in the Île-de-France region, a simple wide angle is not enough to reveal the architectural and commercial intent.
 
-Details catch the eye, slow down the viewer, and create a sense of proximity. They invite the viewer to look closer. This approach ties into my thoughts on [photographing decorative details to highlight a designer's style](/en/post/interior-decor-details-designer-style/), where a secondary element can become the focal point of the visual narrative.
+Details catch the eye, slow down the viewer, and create a sense of proximity. They invite the viewer to look closer. This approach ties into my thoughts on [photographing decorative details to highlight a designer's style](/en/post/decorative-details-highlighting-designer-style/), where a secondary element can become the focal point of the visual narrative.
 
 ## Materials: A Key Element in Retail
 
@@ -33,13 +33,13 @@ A photograph that is too broad can flatten these nuances. Conversely, precise fr
 
 Detail directly influences the perception of the price point and product range. A customer who observes careful finishing, precise assembly, or thoughtful layout will subconsciously associate these elements with high quality.
 
-In my article explaining [how photography influences the perceived standing of a property](/en/post/real-estate-photography-influence-perceived-value/), I decode this mechanism for real estate. In retail, the phenomenon is exactly the same. A well-photographed detail can suggest premium positioning without the need for an explicit sales pitch.
+In my article explaining [how photography influences the perceived standing of a property](/en/post/real-estate-photography-how-images-influence-property-standing/), I decode this mechanism for real estate. In retail, the phenomenon is exactly the same. A well-photographed detail can suggest premium positioning without the need for an explicit sales pitch.
 
 ## Humanizing the Point of Sale
 
 Details are not just about inanimate objects. They can also capture a gesture, an interaction, or a hand resting on a product. These elements bring a warmer, more human dimension to the photographic series.
 
-In my analysis on [how to translate the customer journey into images](/en/post/retail-photography-customer-journey/), I explore the importance of showing the experience itself. A tight detail shot thus becomes a fragment of that very experience.
+In my analysis on [how to translate the customer journey into images](/en/post/retail-photography-translating-customer-journey-images/), I explore the importance of showing the experience itself. A tight detail shot thus becomes a fragment of that very experience.
 
 ## Balance and Consistency
 
@@ -49,7 +49,7 @@ Photographing details doesn't mean randomly accumulating close-ups without logic
 
 For retail networks operating nationally or internationally, details play a massive role in brand recognition. A specific type of furniture, a particular lighting treatment, or a distinctive branding element—these constants must be visible across the board.
 
-In my feedback on [photographing boutiques across France](/en/post/photographing-retail-stores-across-france-mobility/), I emphasize the importance of visual consistency between different points of sale. Details become true markers of identity.
+In my feedback on [photographing boutiques across France](/en/post/photographer-mobility-asset-retail-brands/), I emphasize the importance of visual consistency between different points of sale. Details become true markers of identity.
 
 ## Conclusion
 

@@ -37,7 +37,7 @@ Photographing from the street requires precise anticipation:
 
 Public spaces rarely offer ideal distance. Narrow streets or restrictive plots force you to adapt the focal length. The risk is then to distort perspectives or exaggerate volumes. Preserving credible proportions and the accuracy of lines is essential so as not to distort the architect's work.
 
-Some buildings, especially in the commercial sector, are specifically designed to interact with their environment. Totally isolating the project would mean losing the entire meaning of its alignments or setbacks. This is an approach I particularly apply during the missions showcased in my [Commercial Real Estate & Retail portfolio](/en/immobilier-professionnel/), where integration into the urban landscape (boutiques, headquarters) is paramount.
+Some buildings, especially in the commercial sector, are specifically designed to interact with their environment. Totally isolating the project would mean losing the entire meaning of its alignments or setbacks. This is an approach I particularly apply during the missions showcased in my [Commercial Real Estate & Retail portfolio](/en/retail-commercial/), where integration into the urban landscape (boutiques, headquarters) is paramount.
 
 ## The human scale as a reference
 

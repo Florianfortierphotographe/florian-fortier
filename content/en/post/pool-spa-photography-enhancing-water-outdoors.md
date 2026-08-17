@@ -11,7 +11,7 @@ Starting in May, the pool becomes the "centerpiece" of any real estate property 
 
 ## Preparation: Crystal-Clear Water Above All
 
-The photographer is not a magician: it is difficult to turn green water into turquoise water in post-production without it looking artificial. As I advise for [spring real estate preparation](/en/post/immobilier-printemps-meilleure-saison-photo), the success of the shoot relies on meticulous cleaning before my arrival. Robot run, waterline cleaned, leaves removed: water purity is the first quality criterion.
+The photographer is not a magician: it is difficult to turn green water into turquoise water in post-production without it looking artificial. As I advise for [spring real estate preparation](/en/post/real-estate-spring-best-season-sales-photos/), the success of the shoot relies on meticulous cleaning before my arrival. Robot run, waterline cleaned, leaves removed: water purity is the first quality criterion.
 
 ## The Technical Secret: Seeing Through the Water
 
@@ -22,7 +22,7 @@ It is this technique that highlights the quality of the materials: the mosaic, t
 ## The Ideal Time: High Noon or Golden Hour?
 
 It all depends on the objective:
-* **At noon (Zenith):** The sun hits the bottom of the pool. The water takes on a saturated turquoise hue, very "vacation-like." This is ideal for classic residential real estate because it evokes immediate swimming. Be careful, this requires bright sunlight (see my article on [managing bad weather](/en/post/photographier-meteo-defavorable)).
+* **At noon (Zenith):** The sun hits the bottom of the pool. The water takes on a saturated turquoise hue, very "vacation-like." This is ideal for classic residential real estate because it evokes immediate swimming. Be careful, this requires bright sunlight (see my article on [managing bad weather](/en/post/photographing-property-bad-weather-adapting-approach/)).
 * **In the evening (Golden Hour):** The sky reflects in the water, and the submerged lights turn on. It creates a sophisticated "Lounge" atmosphere, perfect for hospitality or luxury real estate.
 
 ## Integrating the Pool into Its Environment

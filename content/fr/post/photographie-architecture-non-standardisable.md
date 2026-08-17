@@ -21,7 +21,7 @@ C’est précisément ce que je cherche à traduire dans mes images, comme je l�
 
 La lumière n’est jamais identique d’un projet à l’autre. Orientation du bâtiment, environnement urbain ou ouvert, saison, météo : chaque paramètre modifie radicalement l’approche photographique.
 
-Standardiser une prise de vue, c’est ignorer ces variations essentielles. C’est aussi prendre le risque de produire des images plates ou artificielles. J’aborde cette problématique en détail dans [Pourquoi l’orientation d’un bâtiment change radicalement l’approche photographique](/post/photographe-architecture-orientation-batiment-lumiere), où j’explique comment j’adapte mes horaires, mes cadrages et mon exposition à chaque situation.
+Standardiser une prise de vue, c’est ignorer ces variations essentielles. C’est aussi prendre le risque de produire des images plates ou artificielles. J’aborde cette problématique en détail dans [Pourquoi l’orientation d’un bâtiment change radicalement l’approche photographique](/post/orientation-batiment-influence-approche-photographique/), où j’explique comment j’adapte mes horaires, mes cadrages et mon exposition à chaque situation.
 
 ## Le contexte fait partie intégrante de l’architecture
 

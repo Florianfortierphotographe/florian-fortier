@@ -15,7 +15,7 @@ C'est dommage. En ne montrant que la fin, on occulte la complexité du travail a
 
 L'erreur la plus fréquente est d'attendre la livraison pour appeler le photographe. Or, sans image de l'état initial, il est difficile pour vos futurs clients de mesurer l'ampleur de la transformation.
 
-Une photo professionnelle prise avant ou au tout début du chantier permet de figer le potentiel brut du lieu. Même si ce n'est pas l'image la plus "glamour", elle est la preuve de votre capacité à vous projeter. C'est un complément indispensable au travail que je réalise sur [l'architecture ancienne rénovée](/post/photographier-architecture-ancienne-renovee), où le dialogue entre le patrimoine et la modernité est central.
+Une photo professionnelle prise avant ou au tout début du chantier permet de figer le potentiel brut du lieu. Même si ce n'est pas l'image la plus "glamour", elle est la preuve de votre capacité à vous projeter. C'est un complément indispensable au travail que je réalise sur [l'architecture ancienne rénovée](/post/photographier-architecture-ancienne-renovee-equilibre-patrimoine-modernite/), où le dialogue entre le patrimoine et la modernité est central.
 
 ## Le chantier : La beauté de la technique
 
@@ -38,7 +38,7 @@ Si le processus a été documenté, l'image finale a beaucoup plus d'impact. On 
 
 Pour réussir à raconter cette histoire, l'improvisation est risquée. Si vous souhaitez réaliser des comparatifs visuels pertinents, il est crucial d'anticiper les angles de vue dès le départ.
 
-C'est tout l'intérêt du [repérage avant un shooting](/post/importance-reperage-shooting-architecture-immobilier). En intervenant tôt dans le projet, je peux identifier les perspectives clés qui seront magnifiées une fois les travaux finis, garantissant ainsi une cohérence visuelle tout au long du projet.
+C'est tout l'intérêt du [repérage avant un shooting](/post/importance-reperage-avant-shooting-architecture-immobilier/). En intervenant tôt dans le projet, je peux identifier les perspectives clés qui seront magnifiées une fois les travaux finis, garantissant ainsi une cohérence visuelle tout au long du projet.
 
 ## Conclusion
 

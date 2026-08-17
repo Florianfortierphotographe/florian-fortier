@@ -34,7 +34,7 @@ Pour tirer parti de cette lumière, j’anticipe chaque étape :
 
 L’objectif est simple : être prêt au moment précis où la lumière devient parfaite, car cette fenêtre ne dure que quelques minutes. 
 
-Pour découvrir comment j’applique cette même rigueur de préparation dans d’autres contextes, je l’explique dans : [Quels espaces photographier absolument dans un logement pour maximiser l’impact](/post/espaces-a-photographier-logement-impact-annonce-immobiliere).
+Pour découvrir comment j’applique cette même rigueur de préparation dans d’autres contextes, je l’explique dans : [Quels espaces photographier absolument dans un logement pour maximiser l’impact](/post/quels-espaces-photographier-logement-maximiser-impact/).
 
 ## Les ombres longues : un outil créatif puissant
 
@@ -43,7 +43,7 @@ Au lever du soleil, les ombres étirées créent une lecture dynamique du bâtim
 * Renforcer la géométrie.
 * Guider le regard vers les lignes architecturales.
 
-Elles doivent cependant être maîtrisées pour éviter les ombres indésirables projetées par des éléments parasites comme la végétation ou le mobilier urbain. Cette recherche de précision est également centrale dans mon approche de la géométrie, détaillée ici : [L’impact d’un objectif tilt-shift dans une série d’architecture](/post/impact-objectif-tilt-shift-photographie-architecture).
+Elles doivent cependant être maîtrisées pour éviter les ombres indésirables projetées par des éléments parasites comme la végétation ou le mobilier urbain. Cette recherche de précision est également centrale dans mon approche de la géométrie, détaillée ici : [L’impact d’un objectif tilt-shift dans une série d’architecture](/post/impact-objectif-tilt-shift-serie-architecture/).
 
 ## Le rendu doux du matin : un atout pour les matériaux
 

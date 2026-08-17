@@ -9,7 +9,7 @@ translationKey: "photographie-de-chantier-communication-promoteurs-architectes"
 
 La photographie de chantier n’est plus seulement un moyen de documenter les étapes d’un projet. Elle est devenue un outil stratégique pour les promoteurs, les architectes et les entreprises du BTP.
 
-En réalisant un reportage de chantier professionnel, je valorise le savoir-faire des équipes, l’évolution du projet et l’identité visuelle de l’entreprise. Pour découvrir comment je mets en valeur les projets une fois achevés, je propose également une page dédiée à la [photographie de reportage d'entreprise](/reportage-dentreprise/).
+En réalisant un reportage de chantier professionnel, je valorise le savoir-faire des équipes, l’évolution du projet et l’identité visuelle de l’entreprise. Pour découvrir comment je mets en valeur les projets une fois achevés, je propose également une page dédiée à la [photographie de reportage d'entreprise](/reportage-entreprise/).
 
 ## Documenter pour valoriser le savoir-faire
 

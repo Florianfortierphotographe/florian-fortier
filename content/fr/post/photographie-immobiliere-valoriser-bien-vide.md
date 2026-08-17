@@ -33,7 +33,7 @@ C'est le moment idéal pour réaliser des plans serrés sur les atouts "structur
 
 Parfois, certains volumes atypiques restent difficiles à lire à nu. Dans ce cas, la photographie professionnelle sert de base parfaite pour une projection.
 
-Des photos claires et bien exposées peuvent être utilisées pour du Home Staging Virtuel. C'est une approche complémentaire, tout comme l'est la [visite virtuelle 3D](/post/photo-pro-vs-visite-virtuelle-3d-immobilier), qui permet d'aider l'acquéreur à placer mentalement ses meubles. Mon travail est de fournir la "toile vierge" la plus qualitative possible pour faciliter cette projection.
+Des photos claires et bien exposées peuvent être utilisées pour du Home Staging Virtuel. C'est une approche complémentaire, tout comme l'est la [visite virtuelle 3D](/post/photo-professionnelle-vs-visite-virtuelle-3d-complementarite/), qui permet d'aider l'acquéreur à placer mentalement ses meubles. Mon travail est de fournir la "toile vierge" la plus qualitative possible pour faciliter cette projection.
 
 ## Conclusion
 

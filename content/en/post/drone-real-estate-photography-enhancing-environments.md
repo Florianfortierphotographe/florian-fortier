@@ -21,7 +21,7 @@ It is a visual "map" that speaks volumes more than a cadastral plan. For luxury 
 
 Architects often call the roof the "5th facade." The drone allows viewers to appreciate the complexity of the volumes, the quality of a renovated roof, or the harmonious layout of outbuildings.
 
-It is also the ideal angle to highlight leisure spaces. As I mention in my article on [pools and spas](/en/post/photographie-piscine-spa-sublimer-eau-exterieurs), a plunging view instantly conveys the ratio between the swimming area, the terrace, and the garden.
+It is also the ideal angle to highlight leisure spaces. As I mention in my article on [pools and spas](/en/post/pool-spa-photography-enhancing-water-outdoors/), a plunging view instantly conveys the ratio between the swimming area, the terrace, and the garden.
 
 ## Why I Favor Rural Areas (Safety and Regulations)
 
@@ -31,7 +31,7 @@ In dense urban areas, flights require complex protocols and heavy administrative
 
 ## More Than a Photo: Setting the Context
 
-Be careful: getting altitude does not mean climbing to 300 feet! Often, the most beautiful images are taken at 30 to 50 feet above the ground. This is called a "mast-height" view. It provides a magnified human perspective, allowing you to look over a hedge or a gate while maintaining a connection with the ground. Naturally, these flights are highly dependent on weather conditions (see [my approach to bad outdoor weather](/en/post/photographier-meteo-defavorable)).
+Be careful: getting altitude does not mean climbing to 300 feet! Often, the most beautiful images are taken at 30 to 50 feet above the ground. This is called a "mast-height" view. It provides a magnified human perspective, allowing you to look over a hedge or a gate while maintaining a connection with the ground. Naturally, these flights are highly dependent on weather conditions (see [my approach to bad outdoor weather](/en/post/photographing-property-bad-weather-adapting-approach/)).
 
 ## Conclusion
 

@@ -146,7 +146,7 @@ Selon le contexte, il peut être intéressant de photographier :
 
 Ces images peuvent être utiles pour la communication locale, mais aussi pour la communication interne d’un réseau. Elles montrent que l’enseigne se déploie concrètement, avec des équipes, des lieux et des clients.
 
-Pour les marques qui ouvrent plusieurs boutiques dans différentes villes, la mobilité du photographe peut aussi devenir un atout. Elle permet de conserver une cohérence visuelle d’un point de vente à l’autre, tout en adaptant le reportage à chaque lieu. J’aborde cette question dans mon article sur [la photographie de boutiques partout en France](/post/photographe-boutiques-france-mobilite-reseau/).
+Pour les marques qui ouvrent plusieurs boutiques dans différentes villes, la mobilité du photographe peut aussi devenir un atout. Elle permet de conserver une cohérence visuelle d’un point de vente à l’autre, tout en adaptant le reportage à chaque lieu. J’aborde cette question dans mon article sur [la photographie de boutiques partout en France](/post/mobilite-photographe-atout-reseaux-boutiques/).
 
 ## Une image positive pour l’équipe et la marque
 

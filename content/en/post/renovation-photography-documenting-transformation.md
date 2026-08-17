@@ -15,7 +15,7 @@ That is a shame. By only showing the end, the complexity of the work accomplishe
 
 The most common mistake is waiting until delivery to call the photographer. However, without an image of the initial state, it is difficult for your future clients to gauge the sheer scale of the transformation.
 
-A professional photo taken before or at the very beginning of the construction site freezes the raw potential of the location. Even if it is not the most "glamorous" image, it is proof of your ability to project and envision. This is an indispensable complement to the work I do on [renovated historical architecture](/en/post/photographier-architecture-ancienne-renovee), where the dialogue between heritage and modernity is central.
+A professional photo taken before or at the very beginning of the construction site freezes the raw potential of the location. Even if it is not the most "glamorous" image, it is proof of your ability to project and envision. This is an indispensable complement to the work I do on [renovated historical architecture](/en/post/photographing-renovated-historical-architecture-heritage-modernity/), where the dialogue between heritage and modernity is central.
 
 ## The Construction Site: The Beauty of Technique
 
@@ -26,7 +26,7 @@ Photographing an ongoing construction site is not just about showing rubble. It'
 * The quality of insulation or finishing materials.
 * The complexity of integrated networks.
 
-As I explain in my article on [construction site photography](/en/post/photographie-de-chantier-communication-promoteurs-architectes), these images reassure clients about constructive quality and feed powerful storytelling on social networks or in your [corporate communication](/en/corporate/) portfolio.
+As I explain in my article on [construction site photography](/en/post/construction-site-photography-communication-developers/), these images reassure clients about constructive quality and feed powerful storytelling on social networks or in your [corporate communication](/en/corporate/) portfolio.
 
 ## The Final Result: The Reward
 
@@ -38,7 +38,7 @@ If the process has been documented, the final image has much more impact. You ar
 
 To successfully tell this story, improvisation is highly risky. If you want to create relevant visual comparisons, it is crucial to anticipate the camera angles right from the start.
 
-This is the whole point of [scouting before a shoot](/en/post/importance-reperage-shooting-architecture-immobilier). By stepping in early in the project, I can identify the key perspectives that will be magnified once the work is finished, thereby guaranteeing visual consistency throughout the entire project.
+This is the whole point of [scouting before a shoot](/en/post/importance-scouting-before-architecture-real-estate-shoot/). By stepping in early in the project, I can identify the key perspectives that will be magnified once the work is finished, thereby guaranteeing visual consistency throughout the entire project.
 
 ## Conclusion
 

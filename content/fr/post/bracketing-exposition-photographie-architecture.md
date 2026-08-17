@@ -41,7 +41,7 @@ La photographie d’architecture nocturne implique souvent une coexistence compl
 * Éclairages urbains.
 * Zones très sombres non éclairées.
 
-Dans ces conditions, le bracketing permet de conserver une ambiance crédible sans “éteindre” l’image par une correction excessive, comme je le développe dans [Photographier les espaces nocturnes : gérer les lumières artificielles](/post/photographier-espaces-nocturnes-lumieres-artificielles).
+Dans ces conditions, le bracketing permet de conserver une ambiance crédible sans “éteindre” l’image par une correction excessive, comme je le développe dans [Photographier les espaces nocturnes : gérer les lumières artificielles](/post/photographier-espaces-nocturnes-gerer-lumieres-artificielles/).
 
 ## Quand le bracketing devient inutile, voire nuisible
 
@@ -67,7 +67,7 @@ Sur le terrain, je commence toujours par analyser :
 * L’orientation du bâtiment.
 * La qualité de la lumière disponible.
 
-Ce travail de préparation est indissociable du repérage, que je considère comme fondamental : [L’importance du repérage avant un shooting d’architecture ou immobilier](/post/importance-reperage-shooting-architecture-immobilier).
+Ce travail de préparation est indissociable du repérage, que je considère comme fondamental : [L’importance du repérage avant un shooting d’architecture ou immobilier](/post/importance-reperage-avant-shooting-architecture-immobilier/).
 
 Je n’utilise le bracketing que lorsqu’il sert la lisibilité du projet, jamais par automatisme.
 

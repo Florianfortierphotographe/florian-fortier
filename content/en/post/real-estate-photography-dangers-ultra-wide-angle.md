@@ -18,7 +18,7 @@ Optics is an unforgiving physical science. The wider the angle of view, the more
 * Distant walls look tiny.
 * The room resembles an endless hallway.
 
-To avoid this, I use specific lenses (Tilt-Shift) that keep vertical lines perfectly straight and respect true proportions, as I explain in my article on [the Tilt-Shift lens](/en/post/impact-objectif-tilt-shift-photographie-architecture).
+To avoid this, I use specific lenses (Tilt-Shift) that keep vertical lines perfectly straight and respect true proportions, as I explain in my article on [the Tilt-Shift lens](/en/post/impact-tilt-shift-lens-architecture-photography/).
 
 ## Trust is Earned Through Realism
 

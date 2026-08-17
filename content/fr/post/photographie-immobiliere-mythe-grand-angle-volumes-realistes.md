@@ -18,7 +18,7 @@ L'optique est une science physique impitoyable. Plus l'angle de vue est large, p
 * Les murs lointains semblent minuscules.
 * La pièce ressemble à un couloir interminable.
 
-Pour éviter cela, j'utilise des objectifs spécifiques (à décentrement) qui gardent les lignes verticales parfaitement droites et respectent les proportions réelles, comme je l'explique dans mon article sur [l'objectif Tilt-Shift](/post/impact-objectif-tilt-shift-photographie-architecture).
+Pour éviter cela, j'utilise des objectifs spécifiques (à décentrement) qui gardent les lignes verticales parfaitement droites et respectent les proportions réelles, comme je l'explique dans mon article sur [l'objectif Tilt-Shift](/post/impact-objectif-tilt-shift-serie-architecture/).
 
 ## La confiance se gagne avec le réalisme
 

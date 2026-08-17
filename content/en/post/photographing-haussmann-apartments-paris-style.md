@@ -69,14 +69,14 @@ For interior designers, my job is to document this meeting.
 * How does the modern kitchen fit in without breaking the moldings?
 * How does the workshop glass partition dialogue with the period windows?
 
-I construct my images to show this respect for heritage combined with modern comfort. This is a topic I often address: [photographing renovated historical architecture](/en/post/photographier-architecture-ancienne-renovee) requires understanding both architectural languages.
+I construct my images to show this respect for heritage combined with modern comfort. This is a topic I often address: [photographing renovated historical architecture](/en/post/photographing-renovated-historical-architecture-heritage-modernity/) requires understanding both architectural languages.
 
 ## The Emotional Dimension: Selling the Parisian Dream
 
 Beyond technique, the photo of a Haussmann property must trigger an emotion. We are selling a lifestyle.
 * **The monumental entrance:** I never forget to photograph the common areas if they are up to par (stone staircase, red carpet, period elevator). The experience begins right in the lobby.
 * **The details:** A brass door handle, an old cremone bolt, the detail of a rosette. These close-ups add an editorial touch to the reportage. They tell the story of the place.
-* **The "Golden Hour" light:** If the property faces West, I always recommend a late-afternoon shoot. The golden sun entering through the large windows and hitting the parquet floor creates an irresistible warm atmosphere. This is what I detail in my article on [the importance of the building's orientation](/en/post/photographe-architecture-orientation-batiment-lumiere).
+* **The "Golden Hour" light:** If the property faces West, I always recommend a late-afternoon shoot. The golden sun entering through the large windows and hitting the parquet floor creates an irresistible warm atmosphere. This is what I detail in my article on [the importance of the building's orientation](/en/post/building-orientation-influences-photographic-approach/).
 
 ## Conclusion
 

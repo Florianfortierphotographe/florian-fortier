@@ -56,7 +56,7 @@ Dans ce type d’espace, je cherche à rendre lisibles :
 
 Cette clarté est importante pour la communication. Un futur utilisateur doit pouvoir comprendre rapidement ce que le lieu propose. L’image doit lui donner une sensation d’accueil, sans perdre la lecture de l’aménagement.
 
-Cette approche complète les problématiques que j’aborde dans mon article sur [les coworkings et espaces partagés](/post/photographier-coworking-espaces-partages/), où chaque zone doit être photographiée en fonction de son usage réel.
+Cette approche complète les problématiques que j’aborde dans mon article sur [les coworkings et espaces partagés](/post/coworking-espaces-partages-photographier-espaces-travail/), où chaque zone doit être photographiée en fonction de son usage réel.
 
 ## Intégrer l’identité de marque dans l’image
 

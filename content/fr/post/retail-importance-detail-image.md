@@ -21,7 +21,7 @@ En photographie retail, capter ces détails permet de traduire visuellement la q
 
 Une série efficace alterne généralement vues larges et cadrages plus serrés. La vue d’ensemble permet de comprendre l’espace. Le détail apporte de la profondeur. Dans un concept store parisien ou une boutique premium en Île-de-France, un simple plan large ne suffit pas à révéler l’intention architecturale et commerciale.
 
-Le détail attire l’œil, ralentit la lecture, crée une proximité. Il donne envie d’observer davantage. Cette approche rejoint la réflexion développée dans [les détails décoratifs : faire ressortir le style d’un designer](/post/photographie-decoration-details-style-designer/), où j’explore la manière dont un élément secondaire peut devenir central dans la narration visuelle.
+Le détail attire l’œil, ralentit la lecture, crée une proximité. Il donne envie d’observer davantage. Cette approche rejoint la réflexion développée dans [les détails décoratifs : faire ressortir le style d’un designer](/post/details-decoratifs-style-designer/), où j’explore la manière dont un élément secondaire peut devenir central dans la narration visuelle.
 
 ## La matière, élément clé en retail
 
@@ -49,7 +49,7 @@ Photographier les détails ne signifie pas multiplier les plans serrés sans log
 
 Pour les réseaux présents en Île-de-France ou à l’échelle nationale, les détails participent à la reconnaissance. Un type de mobilier spécifique, un traitement lumineux particulier, un élément de branding distinctif… ces constantes doivent être visibles.
 
-Dans mon retour d'expérience sur le fait de [photographier des boutiques partout en France](/post/photographe-boutiques-france-mobilite-reseau/), j’explique l’importance d’une cohérence visuelle entre différents points de vente. Les détails deviennent alors de véritables marqueurs d’identité.
+Dans mon retour d'expérience sur le fait de [photographier des boutiques partout en France](/post/mobilite-photographe-atout-reseaux-boutiques/), j’explique l’importance d’une cohérence visuelle entre différents points de vente. Les détails deviennent alors de véritables marqueurs d’identité.
 
 ## Conclusion
 

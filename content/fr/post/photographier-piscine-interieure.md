@@ -60,7 +60,7 @@ Les murs en pierre, les poutres anciennes ou les volumes existants apportent une
 
 Le risque serait de traiter la piscine comme un équipement indépendant. Or, dans ce type de projet, elle fait partie d’un ensemble architectural. Elle révèle une transformation : un lieu ancien a été adapté à un usage contemporain, sans perdre son caractère.
 
-Cette logique rejoint mon article sur [l’architecture ancienne rénovée](/post/photographier-architecture-ancienne-renovee/), où l’enjeu est de montrer l’équilibre entre traces existantes et interventions récentes. Une piscine intérieure dans une bâtisse de caractère illustre très bien cette rencontre entre patrimoine, usage et confort.
+Cette logique rejoint mon article sur [l’architecture ancienne rénovée](/post/photographier-architecture-ancienne-renovee-equilibre-patrimoine-modernite/), où l’enjeu est de montrer l’équilibre entre traces existantes et interventions récentes. Une piscine intérieure dans une bâtisse de caractère illustre très bien cette rencontre entre patrimoine, usage et confort.
 
 ## Gérer les reflets et les lignes dans un espace intérieur
 

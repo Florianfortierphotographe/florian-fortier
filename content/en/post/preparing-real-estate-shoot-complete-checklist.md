@@ -42,7 +42,7 @@ Here are the critical points I systematically check:
 
 ## Light: Let the Sun In
 
-Photography is primarily about light. Before the shoot begins, open all shutters, blinds, and curtains to maximize natural light. To learn more, check out my article on [managing light](/en/post/photographie-architecture-lumiere-naturelle).
+Photography is primarily about light. Before the shoot begins, open all shutters, blinds, and curtains to maximize natural light. To learn more, check out my article on [managing light](/en/post/contemporary-architecture-natural-light/).
 
 ## The Details That Change Everything
 

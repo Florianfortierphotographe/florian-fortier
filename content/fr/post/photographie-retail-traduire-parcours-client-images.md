@@ -31,7 +31,7 @@ Un bon reportage retail ne montre pas tout, mais montre juste. Je porte une atte
 * Points de focalisation visuelle.
 * Zones de circulation fluide.
 
-Cette hiérarchisation est directement liée à mon approche de [la mise en scène d’une boutique de quartier](/post/photographier-boutique-quartier-mise-en-scene-identite-visuelle), où chaque image renforce la lisibilité du lieu.
+Cette hiérarchisation est directement liée à mon approche de [la mise en scène d’une boutique de quartier](/post/mise-en-scene-boutique-quartier-renforcer-identite/), où chaque image renforce la lisibilité du lieu.
 
 ## Lumière et ambiance : accompagner l’expérience
 

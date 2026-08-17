@@ -39,7 +39,7 @@ Une lumière mal gérée, trop artificielle ou incohérente peut, à l’inverse
 
 Le standing ne s’exprime pas uniquement par l’architecture, mais aussi par la manière dont les espaces sont mis en scène. Le mobilier, les matières et les volumes participent à la lecture globale du bien.
 
-Un intérieur structuré, épuré et cohérent visuellement renvoie une image maîtrisée et haut de gamme. Cette approche rejoint directement les principes abordés dans mon article sur [l’importance du mobilier dans la photographie d’un intérieur haut de gamme](/post/photographie-interieur-haut-de-gamme-importance-mobilier).
+Un intérieur structuré, épuré et cohérent visuellement renvoie une image maîtrisée et haut de gamme. Cette approche rejoint directement les principes abordés dans mon article sur [l’importance du mobilier dans la photographie d’un intérieur haut de gamme](/post/importance-mobilier-photographie-interieur-haut-de-gamme/).
 
 Même dans un bien vide, la photographie doit suggérer un potentiel de standing, ce qui demande une lecture précise de l’espace, comme expliqué dans l’article sur [la valorisation d’un appartement ou d’une maison vide](/post/photographie-immobiliere-valoriser-bien-vide).
 

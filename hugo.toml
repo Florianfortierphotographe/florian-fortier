@@ -2,6 +2,7 @@ baseURL = "https://florianfortier.com/"
 defaultContentLanguage = "fr"
 defaultContentLanguageInSubdir = false
 enableRobotsTXT = true
+disableKinds = ["taxonomy", "term"]
 title = "Florian Fortier - Photographe d'architecture et immobilier"
 
 [permalinks]
@@ -33,8 +34,6 @@ title = "Florian Fortier - Photographe d'architecture et immobilier"
     [languages.en.params]
       description = "Architecture, retail and real estate photographer based in Paris. Professional photography for architects, developers and brands across Europe."
 [sitemap]
-  changefreq = "weekly"
-  priority = 0.5
   filename = "sitemap.xml"
 
 [menus]

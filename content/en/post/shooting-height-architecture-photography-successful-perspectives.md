@@ -21,7 +21,7 @@ The ideal height, the "sweet spot," is generally much lower, around 1.10m to 1.3
 
 The other major advantage of lowering the tripod is geometric. To encompass a whole room while standing, you are often forced to tilt the camera downward. This tilt creates converging vanishing lines: the walls seem to spread outward at the top, and the wardrobes lean dangerously. This is the keystone effect.
 
-By positioning yourself lower, you can keep the camera perfectly horizontal, parallel to the floor. Just as I explain for [exterior facade photography](/en/post/photographie-facade-architecture-symetrie-point-de-vue-frontal), absolute respect for vertical lines is a mark of professional rigor. It anchors the image, making it stable and soothing to the eye.
+By positioning yourself lower, you can keep the camera perfectly horizontal, parallel to the floor. Just as I explain for [exterior facade photography](/en/post/architecture-photography-symmetry-frontal-viewpoint/), absolute respect for vertical lines is a mark of professional rigor. It anchors the image, making it stable and soothing to the eye.
 
 ## Respecting Furniture: Don't Crush the Design
 
@@ -33,7 +33,7 @@ By lowering the camera to the level of the furniture, you give it back its digni
 
 However, photography is an art of adaptation. There are notable exceptions where the "1m20" rule must be broken. This is especially true for functional surfaces.
 
-In a kitchen, if you are too low, you only see the edge of the countertop and hide the sink or the stovetop. Similarly, as we saw with [bathroom photography](/en/post/photographie-salle-de-bain-gestion-reflets-espace), you sometimes have to adjust the height to avoid a reflection in a mirror or to show the inside of a sink basin. In these specific cases, slightly raising the camera (around 1.40m) reveals horizontal surfaces without reverting to an excessively high angle.
+In a kitchen, if you are too low, you only see the edge of the countertop and hide the sink or the stovetop. Similarly, as we saw with [bathroom photography](/en/post/bathroom-photography-mastering-reflections-tight-spaces/), you sometimes have to adjust the height to avoid a reflection in a mirror or to show the inside of a sink basin. In these specific cases, slightly raising the camera (around 1.40m) reveals horizontal surfaces without reverting to an excessively high angle.
 
 ## Conclusion
 

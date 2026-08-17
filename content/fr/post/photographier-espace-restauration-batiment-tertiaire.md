@@ -113,7 +113,7 @@ Il montre que le bâtiment ne se limite pas à sa fonction première, mais qu'il
 
 Cette progression donne davantage de cohérence au reportage et permet au lecteur de comprendre la qualité globale du projet.
 
-Elle rejoint également l'approche développée dans mon article **[Coworking & Espaces Partagés : Comment je photographie les espaces de travail partagé ?](/post/photographier-coworking-espaces-partages/)**, où chaque espace contribue à raconter une expérience de travail complète.
+Elle rejoint également l'approche développée dans mon article **[Coworking & Espaces Partagés : Comment je photographie les espaces de travail partagé ?](/post/coworking-espaces-partages-photographier-espaces-travail/)**, où chaque espace contribue à raconter une expérience de travail complète.
 
 ## Conclusion
 

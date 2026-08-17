@@ -19,13 +19,13 @@ Each focal length induces a different perception of space. It influences:
 * The readability of volumes.
 * The credibility of the rendering.
 
-In [real estate photography](/en/residential-hospitality/), the idea that a wide-angle lens is indispensable remains widespread. However, as I explain in the article: [Real estate photography: the dangers of the ultra-wide angle and the importance of proportions](/en/post/photographie-immobiliere-mythe-grand-angle-volumes-realistes), a focal length that is too short can generate a misleading perception of space and harm buyers' trust.
+In [real estate photography](/en/residential-hospitality/), the idea that a wide-angle lens is indispensable remains widespread. However, as I explain in the article: [Real estate photography: the dangers of the ultra-wide angle and the importance of proportions](/en/post/real-estate-photography-dangers-ultra-wide-angle/), a focal length that is too short can generate a misleading perception of space and harm buyers' trust.
 
 ## Short Focal Lengths: Showing Without Betraying
 
 Short focal lengths (14–20 mm on a full frame) make it possible to encompass a space in its entirety, especially when the step-back distance is limited. They are useful in certain specific contexts but demand absolute rigor.
 
-A focal length that is too short accentuates perspectives and distorts vertical lines if the shot is not perfectly controlled. This is why I always pair them with reflection on the shooting height, a fundamental element I detail in [Shooting height in architecture photography: the secret to successful perspectives](/en/post/hauteur-prise-de-vue-photo-immobilier-architecture).
+A focal length that is too short accentuates perspectives and distorts vertical lines if the shot is not perfectly controlled. This is why I always pair them with reflection on the shooting height, a fundamental element I detail in [Shooting height in architecture photography: the secret to successful perspectives](/en/post/shooting-height-architecture-photography-successful-perspectives/).
 
 The goal is not to "make it look bigger," but to restore a space that is faithful to its actual use.
 
@@ -38,7 +38,7 @@ Focal lengths between 24 and 35 mm form the foundation of my work in architectur
 
 They respect the architect's intention without forcing the reading. This choice is particularly relevant for residential projects, commercial spaces, or high-end properties, where accuracy takes precedence over spectacular effects.
 
-This consistency is part of a series logic, which is essential for mastered architectural communication, as I explain in [Building a cohesive series in architectural photography](/en/post/serie-coherente-photographie-architecture).
+This consistency is part of a series logic, which is essential for mastered architectural communication, as I explain in [Building a cohesive series in architectural photography](/en/post/building-coherent-series-architecture-photography/).
 
 ## Long Focal Lengths: Structuring and Prioritizing Space
 
@@ -49,13 +49,13 @@ They make it possible to:
 * Reinforce geometry.
 * Isolate architectural elements without breaking the overall balance.
 
-In a dense urban environment, they become an invaluable tool for dealing with external visual constraints, a subject I develop in [Photographing architecture in a dense urban environment: dealing with environmental constraints](/en/post/photographier-architecture-milieu-urbain-dense).
+In a dense urban environment, they become an invaluable tool for dealing with external visual constraints, a subject I develop in [Photographing architecture in a dense urban environment: dealing with environmental constraints](/en/post/photographing-architecture-dense-urban-environments/).
 
 ## Focal Length and the Perceived Credibility of Standing
 
 The choice of focal length directly influences the perception of a property's or project's standing. An overly flattering but unrealistic image often creates disappointment during the physical visit.
 
-Conversely, a mastered focal length reinforces credibility and sustainably enhances the project, particularly in contexts of [luxury real estate photography](/en/post/photographie-immobiliere-prestige-espace-lumiere), where the image must sublime without distorting.
+Conversely, a mastered focal length reinforces credibility and sustainably enhances the project, particularly in contexts of [luxury real estate photography](/en/post/luxury-real-estate-photography-space-light/), where the image must sublime without distorting.
 
 ## Conclusion
 

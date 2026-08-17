@@ -18,7 +18,7 @@ As a photographer specializing in Retail, I consider the store window to be a hi
 Photographing a window in broad daylight is fighting against a giant mirror. The street, cars, and passersby reflect in the glass, making the inside of the boutique invisible.
 To counter this, I use two techniques:
 * **The polarizing filter:** This is an essential accessory screwed onto the lens that "cuts" a portion of the reflections, allowing you to see through the glass as if it weren't there.
-* **Shooting time:** I favor times when the outdoor brightness is slightly lower than the indoor brightness (late afternoon or overcast weather). This allows the light from the boutique to "pierce" outwards. It is a logic similar to the one I use to [capture natural light in architecture](/en/post/photographie-architecture-lumiere-naturelle): everything is about balance.
+* **Shooting time:** I favor times when the outdoor brightness is slightly lower than the indoor brightness (late afternoon or overcast weather). This allows the light from the boutique to "pierce" outwards. It is a logic similar to the one I use to [capture natural light in architecture](/en/post/contemporary-architecture-natural-light/): everything is about balance.
 
 ## Architecture Serving the Brand
 
@@ -30,7 +30,7 @@ Is it a Haussmann-style boutique with woodwork? A minimalist concrete concept st
 
 At night, the dynamic is reversed. Reflections disappear, and the window becomes a box of incandescent light in the middle of the darkness. It is often the best time for "Crush" photos.
 
-However, photographing at night requires perfect mastery of artificial sources. LED spots, neons, and screens must be perfectly exposed so they don't look "messy" or completely blown out (white) in the photo. As I explain in my article on [nighttime spaces](/en/post/photographier-espaces-nocturnes-lumieres-artificielles), the goal is to maintain the color fidelity of the displayed products while capturing the warm atmosphere emanating onto the sidewalk.
+However, photographing at night requires perfect mastery of artificial sources. LED spots, neons, and screens must be perfectly exposed so they don't look "messy" or completely blown out (white) in the photo. As I explain in my article on [nighttime spaces](/en/post/photographing-night-spaces-managing-artificial-lights/), the goal is to maintain the color fidelity of the displayed products while capturing the warm atmosphere emanating onto the sidewalk.
 
 ## Visual Merchandising: The Devil is in the Details
 
@@ -40,7 +40,7 @@ I do not settle for a wide shot. I take tight shots of the scenography:
 * The geometric arrangement of products.
 * The signage (stickers, logo on glass).
 
-These details are essential for your internal reports (if you are a franchise network) to validate compliance with guidelines, as we saw in the article on [photographer mobility for retail brands](/en/post/photographe-boutiques-france-mobilite-reseau).
+These details are essential for your internal reports (if you are a franchise network) to validate compliance with guidelines, as we saw in the article on [photographer mobility for retail brands](/en/post/photographer-mobility-asset-retail-brands/).
 
 ## The Human Element: Adding Life Without Stealing the Show
 

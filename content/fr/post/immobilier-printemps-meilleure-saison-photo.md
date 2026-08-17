@@ -25,7 +25,7 @@ Le printemps change radicalement la perception des extérieurs :
 * **La végétation :** Les arbres retrouvent leurs feuilles, redonnant de l'intimité et de la structure au jardin.
 * **La couleur :** L'herbe redevient verte et les premières fleurs apportent des touches de couleur qui attirent l'œil sur l'annonce.
 
-Si nous avons réalisé des visuels de votre bien sous la grisaille ces derniers mois (en appliquant mes méthodes pour [gérer une météo défavorable](/post/photographier-meteo-defavorable)), une mise à jour printanière est fortement recommandée pour montrer le bien sous son meilleur jour.
+Si nous avons réalisé des visuels de votre bien sous la grisaille ces derniers mois (en appliquant mes méthodes pour [gérer une météo défavorable](/post/photographier-bien-meteo-defavorable-adapter-approche/)), une mise à jour printanière est fortement recommandée pour montrer le bien sous son meilleur jour.
 
 ## Vendre un mode de vie plus qu'une surface
 

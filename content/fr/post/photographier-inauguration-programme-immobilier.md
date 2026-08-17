@@ -114,7 +114,7 @@ Il est donc important d’intégrer des images du projet livré, même si l’é
 
 Cette relation entre l’événement et le bâtiment est essentielle. Elle permet de ne pas déconnecter la communication institutionnelle du projet architectural. Le reportage montre alors à la fois le moment officiel et le résultat concret du travail mené.
 
-Cette logique complète naturellement le travail réalisé lors d’un [reportage de fin de chantier](/post/reportage-fin-chantier-livraison-batiment/). La livraison permet de documenter le bâtiment achevé, tandis que l’inauguration ajoute la dimension humaine, officielle et partenariale du projet.
+Cette logique complète naturellement le travail réalisé lors d’un [reportage de fin de chantier](/post/reportage-fin-de-chantier-livraison-batiment/). La livraison permet de documenter le bâtiment achevé, tandis que l’inauguration ajoute la dimension humaine, officielle et partenariale du projet.
 
 ## Produire des images utiles pour la communication
 

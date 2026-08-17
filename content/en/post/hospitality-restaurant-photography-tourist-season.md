@@ -15,19 +15,19 @@ For hoteliers and restaurateurs, updating visuals before the "rush" is highly st
 
 In modern hospitality, you don't sell a bed (functional); you sell a restful night's sleep (emotional). You don't sell a plate of food; you sell a convivial moment.
 
-My role as a photographer is to capture this intangible atmosphere: the softness of the sheets, the unobstructed view from the terrace, the intimacy of a lounge corner. As I discuss in my article on how to [photograph a luxury hotel or suite](/en/post/photographe-hotel-suite-prestige-reportage-visuel), it is about building a visual narrative that allows the guest to imagine themselves already there, luggage set down and fully relaxed.
+My role as a photographer is to capture this intangible atmosphere: the softness of the sheets, the unobstructed view from the terrace, the intimacy of a lounge corner. As I discuss in my article on how to [photograph a luxury hotel or suite](/en/post/photographing-luxury-hotel-suite-visual-narrative/), it is about building a visual narrative that allows the guest to imagine themselves already there, luggage set down and fully relaxed.
 
 ## The Importance of Details and Materials
 
 Guests are increasingly demanding. They want to see what they are buying. In a quality establishment, the difference is often made in the details: the texture of a velvet armchair, the quality of the amenities in the bathroom, or the finesse of a table setting.
 
-I pay special attention to these style elements. By applying the techniques I use to [reveal a designer's decorative details](/en/post/photographie-decoration-details-style-designer), I highlight the investments you have made in decorating and fitting out your space. A sharp, textured photo is a guarantee of cleanliness and standing.
+I pay special attention to these style elements. By applying the techniques I use to [reveal a designer's decorative details](/en/post/decorative-details-highlighting-designer-style/), I highlight the investments you have made in decorating and fitting out your space. A sharp, textured photo is a guarantee of cleanliness and standing.
 
 ## Managing Nocturnal and Artificial Moods
 
 A restaurant, a cocktail bar, or a hotel lobby often comes alive in the evening. Yet, nothing sells better than a dim, warm atmosphere, and nothing is more destructive than a flash photo that "flattens" that exact mood.
 
-The technical challenge is to restore the warmth of the location while keeping the image readable and free of digital noise. This is a specific expertise I detail in my article on [managing night spaces and artificial lights](/en/post/photographier-espaces-nocturnes-lumieres-artificielles). The goal is to transcribe the magic of the place exactly as the customer will experience it during their dinner.
+The technical challenge is to restore the warmth of the location while keeping the image readable and free of digital noise. This is a specific expertise I detail in my article on [managing night spaces and artificial lights](/en/post/photographing-night-spaces-managing-artificial-lights/). The goal is to transcribe the magic of the place exactly as the customer will experience it during their dinner.
 
 ## Versatile Photos for Web and Social Media
 

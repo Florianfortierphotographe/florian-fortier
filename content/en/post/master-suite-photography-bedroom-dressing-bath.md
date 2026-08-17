@@ -19,25 +19,25 @@ But how do you fit these three spaces into a single image without creating a fee
 
 The main challenge of the master suite is connection. If I photograph the bedroom on one side and the bathroom on the other, I lose the very essence of the "suite" concept. The goal is to show fluidity.
 * **The crossing viewpoint:** I always look for the angle that allows, from the headboard, a glimpse of the walk-in closet entrance or the bathroom vanity.
-* **Depth of field:** Unlike a simple product packshot, here, I want the eye to travel. I use an aperture that maintains sharpness in the foreground (the bed) while hinting at the background (the freestanding bathtub). This is a technique I also apply to [photographing a hotel or a luxury suite](/en/post/photographe-hotel-suite-prestige-reportage-visuel), where visual storytelling is paramount.
+* **Depth of field:** Unlike a simple product packshot, here, I want the eye to travel. I use an aperture that maintains sharpness in the foreground (the bed) while hinting at the background (the freestanding bathtub). This is a technique I also apply to [photographing a hotel or a luxury suite](/en/post/photographing-luxury-hotel-suite-visual-narrative/), where visual storytelling is paramount.
 
 ## "Staging" the Bed: The "5-Star Hotel" Effect
 
 The bed is the massive element of the room. If it is poorly made, it occupies 50% of the photo with unsightly wrinkles. For a master suite to inspire dreams, the bed must be impeccable.
 * **Volume:** A flat bed is a sad bed. I add (or ask the client to provide) extra pillows and a bed runner to add puffiness and texture.
-* **Steaming:** This is the detail that seals the deal. A quick pass with a garment steamer on the duvet cover changes everything. As I mention in my article on [the importance of styling](/en/post/l-importance-du-stylisme), the texture of the linens (washed linen, velvet, Egyptian cotton) contributes to the "Cocoon" atmosphere.
+* **Steaming:** This is the detail that seals the deal. A quick pass with a garment steamer on the duvet cover changes everything. As I mention in my article on [the importance of styling](/en/post/the-importance-of-styling/), the texture of the linens (washed linen, velvet, Egyptian cotton) contributes to the "Cocoon" atmosphere.
 
 ## The Walk-in Closet: Between Functionality and Aesthetics
 
 The walk-in closet is often a hallway or a dark zone. Photographing it is a technical puzzle.
 * **Closed or open?** If the closet is open (boutique style), I ensure the clothes are arranged by color (color-blocking) or I ask to remove overly visual elements. Clutter draws the eye and reduces the impression of space.
-* **Lighting in the cupboards:** If the closet is equipped with integrated LEDs, now is the time to turn them on. This creates graphic leading lines and highlights the custom millwork, a crucial point for [interior design photography](/en/post/la-photographie-de-décoration-d-intérieur).
+* **Lighting in the cupboards:** If the closet is equipped with integrated LEDs, now is the time to turn them on. This creates graphic leading lines and highlights the custom millwork, a crucial point for [interior design photography](/en/post/interior-decoration-photography/).
 
 ## The Open Bathroom: Managing Humidity and Reflections
 
 The trend is towards glass partitions or a bathroom entirely open to the bedroom. This poses two problems: reflections in the glass partition and managing the sanitary fixtures.
 * **Framing elegance, hiding the technical:** I frame to show the vanity, designer faucets, or the bathtub. I absolutely avoid showing the toilet in the direct line of sight from the bedroom (this is a golden rule in luxury real estate).
-* **Mirrors:** Just as with [bathroom photography](/en/post/photographie-salle-de-bain-gestion-reflets-espace), I must position myself so as not to appear in the reflection, while capturing the light reflected in it to visually enlarge the space.
+* **Mirrors:** Just as with [bathroom photography](/en/post/bathroom-photography-mastering-reflections-tight-spaces/), I must position myself so as not to appear in the reflection, while capturing the light reflected in it to visually enlarge the space.
 
 ## The Lighting Mood: Cozy Above All
 

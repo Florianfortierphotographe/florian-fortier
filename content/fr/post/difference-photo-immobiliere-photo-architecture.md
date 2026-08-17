@@ -21,7 +21,7 @@ La différence fondamentale réside dans l'intention :
 
 Le rythme de travail n'a rien à voir. En immobilier, l'efficacité prime. On utilise souvent des objectifs grand angle pour maximiser l'espace, et le shooting doit être rapide (1h à 3h) pour ne pas déranger les occupants.
 
-En architecture, on prend le temps d'observer. J'attends que la lumière soit parfaite, je déplace des meubles pour équilibrer la composition ("Stylisme"). J'utilise du matériel spécifique, notamment des objectifs à bascule et décentrement pour garantir des perspectives parfaites, comme je l'explique dans mon article sur [l'impact de l'objectif Tilt-Shift](/post/impact-objectif-tilt-shift-photographie-architecture). Un shooting peut durer une journée entière pour seulement 10 photos d'exception.
+En architecture, on prend le temps d'observer. J'attends que la lumière soit parfaite, je déplace des meubles pour équilibrer la composition ("Stylisme"). J'utilise du matériel spécifique, notamment des objectifs à bascule et décentrement pour garantir des perspectives parfaites, comme je l'explique dans mon article sur [l'impact de l'objectif Tilt-Shift](/post/impact-objectif-tilt-shift-serie-architecture/). Un shooting peut durer une journée entière pour seulement 10 photos d'exception.
 
 ## La Post-Production : Réalisme vs Sublimation
 

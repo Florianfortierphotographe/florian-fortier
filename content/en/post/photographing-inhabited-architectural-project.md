@@ -15,7 +15,7 @@ However, waiting until the space is inhabited can profoundly transform the visua
 
 When a building is photographed immediately after completion, it is presented as an object. The composition highlights lines, symmetry, and proportions. The image emphasizes formal purity.
 
-I explain this approach in my article on [the rigor of symmetry and the frontal viewpoint in architectural photography](/en/post/rigor-symmetry-architectural-photography/), where the architectural reading takes precedence over usage.
+I explain this approach in my article on [the rigor of symmetry and the frontal viewpoint in architectural photography](/en/post/architecture-photography-symmetry-frontal-viewpoint/), where the architectural reading takes precedence over usage.
 
 Once inhabited, the project leaves this purely formal dimension behind. It becomes a lived space. Traffic flows activate, openings interact with the outside, and volumes take on a more human scale.
 
@@ -25,7 +25,7 @@ The narrative shifts: we are no longer just looking at a building, we understand
 
 An architectural project is designed to be lived in, traversed, and utilized. Without presence, certain intentions remain abstract.
 
-A staircase, for example, might be perceived as a sculpture when empty. Once used, it reveals its function, ergonomics, and relationship to movement. I discuss this dimension in [The Staircase in Architectural Photography: Between Sculpture, Light, and Use](/en/post/staircase-architecture-sculpture-use/).
+A staircase, for example, might be perceived as a sculpture when empty. Once used, it reveals its function, ergonomics, and relationship to movement. I discuss this dimension in [The Staircase in Architectural Photography: Between Sculpture, Light, and Use](/en/post/staircase-architecture-photography-sculpture-light-use/).
 
 The presence of occupants or elements of daily life provides scale. It contextualizes the project. It makes tangible what was previously only suggested.
 
@@ -41,19 +41,19 @@ This evolution enriches the visual narrative. It introduces a temporal dimension
 
 An empty project speaks primarily to architects and industry professionals. It emphasizes composition, formal choices, and materiality. An inhabited project broadens the audience. It becomes more accessible. The image tells a story.
 
-In [Architecture and Photography: What the Image Must Show... and What it Must Willingly Hide](/en/post/architecture-photography-show-hide/), I mention this idea of narrative selection. Photographing an inhabited space requires a choice: showing usage without diluting the original architectural intent.
+In [Architecture and Photography: What the Image Must Show... and What it Must Willingly Hide](/en/post/architecture-photography-what-to-show-what-to-hide/), I mention this idea of narrative selection. Photographing an inhabited space requires a choice: showing usage without diluting the original architectural intent.
 
 ## Between Authenticity and Staging
 
 Photographing an inhabited project requires a delicate balance. Too much clutter can blur the architectural reading. Too much staging can feel artificial.
 
-In my article on [how to photograph an inhabited interior while maintaining its authenticity](/en/post/photograph-inhabited-interior-authenticity/), I develop this tension between realism and intent. The objective remains to preserve the coherence of the project while revealing how it is appropriated.
+In my article on [how to photograph an inhabited interior while maintaining its authenticity](/en/post/photographing-inhabited-interior-authenticity/), I develop this tension between realism and intent. The objective remains to preserve the coherence of the project while revealing how it is appropriated.
 
 ## A Different Reading of Context
 
 An inhabited building interacts differently with its environment. Balconies come alive, terraces are furnished, and common areas become active.
 
-This dimension reinforces the importance of context, which I develop in [Architectural Photography: Why Context Matters as Much as the Building](/en/post/architectural-photography-context-matters/). Usage creates continuity between the interior and exterior. It makes the project's integration into its surroundings visible.
+This dimension reinforces the importance of context, which I develop in [Architectural Photography: Why Context Matters as Much as the Building](/en/post/architecture-photography-why-context-matters-building/). Usage creates continuity between the interior and exterior. It makes the project's integration into its surroundings visible.
 
 ## A Strategic Tool for Architectural Firms
 

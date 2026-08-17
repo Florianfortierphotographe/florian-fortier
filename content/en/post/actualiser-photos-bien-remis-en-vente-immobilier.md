@@ -15,7 +15,7 @@ In this context, updating photos is not just an aesthetic detail. It is a **stra
 
 A relisted property often feels "seen before." Buyers who have set up alerts on real estate portals immediately recognize the old visuals. If the photos are identical to the first publication, the ad risks being ignored because it no longer arouses curiosity.
 
-Updating the images helps recreate a sense of novelty. Even if the property is the same, the way it is presented changes its perception. As I detail in my article on [the impact of images on the perceived standing of a property](/en/post/impact-images-perception-standing/), photography directly influences the market positioning perceived by buyers. A new photo series can transform the overall reading of the project.
+Updating the images helps recreate a sense of novelty. Even if the property is the same, the way it is presented changes its perception. As I detail in my article on [the impact of images on the perceived standing of a property](/en/post/real-estate-photography-how-images-influence-property-standing/), photography directly influences the market positioning perceived by buyers. A new photo series can transform the overall reading of the project.
 
 ## The market evolves, the presentation must follow
 
@@ -33,25 +33,25 @@ Photography thus becomes a real adjustment tool to face current market realities
 
 Between two listings, several physical elements may have evolved: completed renovations, fresh paint, new furniture, or professional *home staging*.
 
-In my guide on [preparing for a real estate photoshoot](/en/post/preparer-shooting-immobilier-checklist/), I emphasize the importance of this preparation. If the property has been improved, keeping old images would be counterproductive. A new series must reflect the current reality and the efforts made.
+In my guide on [preparing for a real estate photoshoot](/en/post/preparing-real-estate-shoot-complete-checklist/), I emphasize the importance of this preparation. If the property has been improved, keeping old images would be counterproductive. A new series must reflect the current reality and the efforts made.
 
 ## Light changes perception
 
 A property photographed in the dead of winter does not give the same impression as it would in spring or summer. In Paris and Île-de-France, the quality of natural light varies greatly depending on the season. A dark apartment in December can appear bathed in light in May.
 
-In my article explaining [why spring is the prime season for real estate photos](/en/post/printemps-saison-reine-photos-immobilier/), I demonstrate how seasonality influences visual appeal. Returning to photograph a property under better weather conditions can radically transform its attractiveness.
+In my article explaining [why spring is the prime season for real estate photos](/en/post/real-estate-spring-best-season-sales-photos/), I demonstrate how seasonality influences visual appeal. Returning to photograph a property under better weather conditions can radically transform its attractiveness.
 
 ## Restoring buyer confidence
 
 When a property stays on the market for a long time, buyers may wonder: *Why hasn't it sold? Is there a hidden defect?*
 
-New professional photographs send a strong, positive signal: the property is being relaunched with serious intent. This shows that the agency or the owner is reinvesting in its marketing. In my analysis explaining [why real estate developers need consistent images for a whole program](/en/post/images-coherentes-programme-immobilier/), I highlight the importance of visual consistency to reassure the buyer. This principle applies just as much to individual properties.
+New professional photographs send a strong, positive signal: the property is being relaunched with serious intent. This shows that the agency or the owner is reinvesting in its marketing. In my analysis explaining [why real estate developers need consistent images for a whole program](/en/post/consistent-images-real-estate-developments/), I highlight the importance of visual consistency to reassure the buyer. This principle applies just as much to individual properties.
 
 ## Correcting the mistakes of the first listing
 
 It frequently happens that the first series of images has technical flaws: a focal length that is too wide, optical distortions, poorly prioritized rooms, or an atmosphere that is too dark.
 
-In [Real Estate Photography: The Dangers of the Ultra Wide-Angle](/en/post/dangers-ultra-grand-angle-immobilier/), I explain why certain amateur practices can harm the credibility of the listing. Updating the photos allows you to correct these errors and offer a more accurate and flattering reading of the spaces.
+In [Real Estate Photography: The Dangers of the Ultra Wide-Angle](/en/post/real-estate-photography-dangers-ultra-wide-angle/), I explain why certain amateur practices can harm the credibility of the listing. Updating the photos allows you to correct these errors and offer a more accurate and flattering reading of the spaces.
 
 ## Boosting real estate portal algorithms
 
@@ -63,4 +63,4 @@ In Paris, the Yvelines, or more broadly in Île-de-France, competition among pro
 
 A relisted property should not simply be republished: it must be **visually rethought**.
 
-*If you want to relaunch the marketing of a property with striking images, you can discover my approach on my [Real Estate & Retail portfolio](/en/immobilier-professionnel/) or contact me directly via my [Contact page](/en/contact/).*
+*If you want to relaunch the marketing of a property with striking images, you can discover my approach on my [Real Estate & Retail portfolio](/en/retail-commercial/) or contact me directly via my [Contact page](/en/contact/).*
