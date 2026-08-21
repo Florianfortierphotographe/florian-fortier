@@ -49,7 +49,7 @@ separator_image_alt: "Selection of images from Florian Fortier's architecture an
 
 contact_title: "Browse my portfolio and let’s talk about your project"
 contact_text_1: "Based in the Paris region, I assist my B2B clients in creating images that showcase buildings, interior spaces, shops, and real estate projects. My work is tailored for international architects, developers, retailers, and design professionals across France and Europe."
-contact_text_2: "Browse my portfolio to discover my different photographic areas. If you would like to discuss a project, feel free to contact me by email at [contact@florianfortier.com](mailto:contact@florianfortier.com) or by phone at [+33 6 18 26 72 40](tel:0618267240)."
+contact_text_2: "Browse my portfolio to discover my different photographic areas. If you would like to discuss a project, feel free to contact me by email at [contact@florianfortier.com](mailto:contact@florianfortier.com) or by phone at [+33 6 18 26 72 40](tel:+33618267240)."
 contact_url: "/en/contact/"
 contact_button_label: "Contact"
 

@@ -145,8 +145,9 @@
   {{ end }}
 
   {{ if .IsHome }}
-<link rel="preload" as="image" href="/images/hero-1-mobile.WEBP" 
-      imagesrcset="/images/hero-1-mobile.WEBP 768w, /images/hero-1.WEBP 1400w"
+{{ $homeHero := partial "image-data.html" (dict "src" "/images/hero-1.WEBP" "widths" (slice 480 768 1200 1600 1920)) }}
+<link rel="preload" as="image" href="{{ $homeHero.src }}"
+      {{ printf "imagesrcset=%q" $homeHero.srcset | safeHTMLAttr }}
       imagesizes="100vw"
       fetchpriority="high">
 {{ end }}

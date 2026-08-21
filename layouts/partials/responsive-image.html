@@ -1,0 +1,16 @@
+{{- $image := partial "image-data.html" . -}}
+<img
+  src="{{ $image.src }}"
+  {{- with $image.srcset }} srcset="{{ . }}"{{ end }}
+  {{- with .sizes }} sizes="{{ . }}"{{ end }}
+  alt="{{ .alt | default "" }}"
+  {{- with $image.width }} width="{{ . }}"{{ end }}
+  {{- with $image.height }} height="{{ . }}"{{ end }}
+  {{- with .loading }} loading="{{ . }}"{{ end }}
+  decoding="{{ .decoding | default "async" }}"
+  {{- with .fetchpriority }} fetchpriority="{{ . }}"{{ end }}
+  {{- with .class }} class="{{ . }}"{{ end }}
+  {{- with .id }} id="{{ . }}"{{ end }}
+  {{- with .draggable }} draggable="{{ . }}"{{ end }}
+  {{- if .full }} data-full="{{ $image.full }}" data-thumb="{{ $image.thumb }}"{{ end }}
+>

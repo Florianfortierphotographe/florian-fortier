@@ -4,7 +4,14 @@
 <section class="portfolio-hero">
   <div class="portfolio-hero-grid">
     <div class="portfolio-hero-image">
-      <img src="{{ .Params.hero_image }}" alt="{{ .Params.hero_alt | default .Title }}" loading="lazy">
+      {{ partial "responsive-image.html" (dict
+        "src" .Params.hero_image
+        "alt" (.Params.hero_alt | default .Title)
+        "widths" (slice 480 768 1200 1600)
+        "sizes" "(max-width: 768px) 100vw, 55vw"
+        "loading" "eager"
+        "fetchpriority" "high"
+      ) }}
     </div>
     <div class="portfolio-hero-content">
       <h1>{{ .Params.hero_title | default .Title }}</h1>
@@ -23,7 +30,13 @@
       {{ range .Params.projets }}
       <div class="projet-card">
         <div class="projet-image">
-          <img src="{{ .image }}" alt="{{ .titre }}" loading="lazy">
+          {{ partial "responsive-image.html" (dict
+            "src" .image
+            "alt" .titre
+            "widths" (slice 360 640 960 1200)
+            "sizes" "(max-width: 768px) 100vw, 33vw"
+            "loading" "lazy"
+          ) }}
         </div>
         <div class="projet-content">
           <p>{{ .description }}</p>
@@ -45,7 +58,16 @@
       <div class="carousel-track">
         {{ range .Params.galerie }}
         <div class="carousel-item">
-          <img src="{{ .image }}" alt="{{ $.Params.galerie_alt | default $.Title }}" draggable="false" loading="lazy">
+          {{ partial "responsive-image.html" (dict
+            "src" .image
+            "alt" ($.Params.galerie_alt | default $.Title)
+            "widths" (slice 320 640 960 1440)
+            "sizes" "(max-width: 768px) 80vw, 50vw"
+            "loading" "lazy"
+            "draggable" "false"
+            "full" true
+            "fullWidth" 1800
+          ) }}
         </div>
         {{ end }}
       </div>

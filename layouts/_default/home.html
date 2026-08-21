@@ -4,33 +4,34 @@
 <section class="hero">
 
   <div class="hero-slide">
-  <img src="/images/hero-1.WEBP" 
-       alt="{{ .Params.hero_image_1_alt }}" 
-       fetchpriority="high"
-       srcset="/images/hero-1-mobile.WEBP 768w,
-               /images/hero-1.WEBP 1400w"
-       sizes="100vw"
-       width="1400" height="933">
+  {{ partial "responsive-image.html" (dict
+       "src" "/images/hero-1.WEBP"
+       "alt" .Params.hero_image_1_alt
+       "widths" (slice 480 768 1200 1600 1920)
+       "sizes" "100vw"
+       "loading" "eager"
+       "fetchpriority" "high"
+  ) }}
   <div class="hero-overlay"></div>
 </div>
 <div class="hero-slide">
-  <img src="/images/hero-2.WEBP" 
-       alt="{{ .Params.hero_image_2_alt }}" 
-       loading="lazy"
-       srcset="/images/hero-2-mobile.WEBP 768w,
-               /images/hero-2.WEBP 1400w"
-       sizes="100vw"
-       width="1400" height="933">
+  {{ partial "responsive-image.html" (dict
+       "src" "/images/hero-2.WEBP"
+       "alt" .Params.hero_image_2_alt
+       "widths" (slice 480 768 1200 1600 1920)
+       "sizes" "100vw"
+       "loading" "lazy"
+  ) }}
   <div class="hero-overlay"></div>
 </div>
 <div class="hero-slide">
-  <img src="/images/hero-3.WEBP" 
-       alt="{{ .Params.hero_image_3_alt }}" 
-       loading="lazy"
-       srcset="/images/hero-3-mobile.WEBP 768w,
-               /images/hero-3.WEBP 1400w"
-       sizes="100vw"
-       width="1400" height="933">
+  {{ partial "responsive-image.html" (dict
+       "src" "/images/hero-3.WEBP"
+       "alt" .Params.hero_image_3_alt
+       "widths" (slice 480 768 1200 1600 1920)
+       "sizes" "100vw"
+       "loading" "lazy"
+  ) }}
   <div class="hero-overlay"></div>
 </div>
 
@@ -69,19 +70,19 @@
 <section class="bandeau-section">
   <div class="bandeau-grid">
     <div class="bandeau-item">
-      <img src="/images/service-architecture.WEBP" alt="{{ .Params.service_image_1_alt }}" loading="lazy" width="400" height="500">
+      {{ partial "responsive-image.html" (dict "src" "/images/service-architecture.WEBP" "alt" .Params.service_image_1_alt "widths" (slice 320 480 640) "sizes" "(max-width: 768px) 50vw, 20vw" "loading" "lazy") }}
     </div>
     <div class="bandeau-item">
-      <img src="/images/service-immobilier.WEBP" alt="{{ .Params.service_image_2_alt }}" loading="lazy" width="400" height="500">
+      {{ partial "responsive-image.html" (dict "src" "/images/service-immobilier.WEBP" "alt" .Params.service_image_2_alt "widths" (slice 320 480 640) "sizes" "(max-width: 768px) 50vw, 20vw" "loading" "lazy") }}
     </div>
     <div class="bandeau-item">
-      <img src="/images/service-retail.WEBP" alt="{{ .Params.service_image_3_alt }}" loading="lazy" width="400" height="500">
+      {{ partial "responsive-image.html" (dict "src" "/images/service-retail.WEBP" "alt" .Params.service_image_3_alt "widths" (slice 320 480 640) "sizes" "(max-width: 768px) 50vw, 20vw" "loading" "lazy") }}
     </div>
     <div class="bandeau-item">
-      <img src="/images/service-corporate.WEBP" alt="{{ .Params.service_image_4_alt }}" loading="lazy" width="400" height="500">
+      {{ partial "responsive-image.html" (dict "src" "/images/service-corporate.WEBP" "alt" .Params.service_image_4_alt "widths" (slice 320 480 640) "sizes" "(max-width: 768px) 50vw, 20vw" "loading" "lazy") }}
     </div>
     <div class="bandeau-item">
-      <img src="/images/service-paysage.WEBP" alt="{{ .Params.service_image_5_alt }}" loading="lazy" width="400" height="500">
+      {{ partial "responsive-image.html" (dict "src" "/images/service-paysage.WEBP" "alt" .Params.service_image_5_alt "widths" (slice 320 480 640) "sizes" "(max-width: 768px) 50vw, 20vw" "loading" "lazy") }}
     </div>
   </div>
 </section>
@@ -128,7 +129,7 @@
 
 <!-- BANDEAU IMAGE SÉPARATION -->
 <section class="bandeau-separation">
-  <img src="/images/bandeau-separation.WEBP" alt="{{ .Params.separator_image_alt }}" loading="lazy">
+  {{ partial "responsive-image.html" (dict "src" "/images/bandeau-separation.WEBP" "alt" .Params.separator_image_alt "widths" (slice 480 768 1200 1600) "sizes" "100vw" "loading" "lazy") }}
 </section>
 
 <!-- SECTION CONTACT -->

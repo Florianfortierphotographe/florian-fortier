@@ -2,7 +2,15 @@
   <div class="header-inner">
 
     <a href="{{ if eq .Lang "fr" }}/{{ else }}/en/{{ end }}" class="logo">
-      <img src="/images/logo.png" alt="Logo Florian Fortier" class="logo-img">
+      {{ partial "responsive-image.html" (dict
+        "src" "/images/logo.png"
+        "alt" "Logo Florian Fortier"
+        "widths" (slice 48 96 160 240)
+        "sizes" "(max-width: 768px) 45px, 102px"
+        "quality" 90
+        "hint" "icon"
+        "class" "logo-img"
+      ) }}
       <div class="logo-text">
         <span class="logo-nom">Florian Fortier</span>
         <span class="logo-subtitle">Photographe d'architecture, retail et immobilier</span>

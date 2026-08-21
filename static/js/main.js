@@ -188,7 +188,8 @@ function initCarousel() {
   photos = Array.from(items).map(item => {
     const img = item.querySelector('img');
     return {
-      src: img.getAttribute('src'),
+      src: img.dataset.full || img.currentSrc || img.src,
+      thumb: img.dataset.thumb || img.currentSrc || img.src,
       alt: img.getAttribute('alt') || ''
     };
   });
@@ -218,8 +219,9 @@ function initCarousel() {
 
     photos.forEach((photo, i) => {
       const thumb = document.createElement('img');
-      thumb.src = photo.src;
+      thumb.src = photo.thumb;
       thumb.alt = photo.alt;
+      thumb.loading = 'lazy';
       thumb.classList.add('projet-popup-thumb');
       thumb.addEventListener('click', () => showPopupPhoto(i));
       thumbsContainer.appendChild(thumb);

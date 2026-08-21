@@ -49,7 +49,7 @@ separator_image_alt: "Sélection d’images du portfolio architecture et retail 
 
 contact_title: "Parcourez mon portfolio et échangeons sur vos attentes"
 contact_text_1: "Basé en région parisienne, j’accompagne mes clients B2B dans la réalisation de prises de vue destinées à valoriser bâtiments, espaces intérieurs, commerces et projets immobiliers. Mon travail s’adresse aux architectes, promoteurs, enseignes et professionnels de l’aménagement à Paris, en Île-de-France et partout en France."
-contact_text_2: "Je vous invite à parcourir mon portfolio pour découvrir mes différents univers photographiques. Si vous souhaitez échanger sur un projet, vous pouvez me contacter par mail à [contact@florianfortier.com](mailto:contact@florianfortier.com) ou par téléphone au [06.18.26.72.40](tel:0618267240)."
+contact_text_2: "Je vous invite à parcourir mon portfolio pour découvrir mes différents univers photographiques. Si vous souhaitez échanger sur un projet, vous pouvez me contacter par mail à [contact@florianfortier.com](mailto:contact@florianfortier.com) ou par téléphone au [06.18.26.72.40](tel:+33618267240)."
 contact_url: "/contact/"
 contact_button_label: "Contact"
 
