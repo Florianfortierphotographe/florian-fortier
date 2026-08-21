@@ -8,47 +8,43 @@
 {{- $result := dict "src" $src "srcset" "" "width" 0 "height" 0 "full" $src "thumb" $src -}}
 
 {{- with $image -}}
-  {{- if reflect.IsImageResourceProcessable . -}}
-    {{- $variants := slice -}}
-    {{- range $widths -}}
-      {{- if le . $image.Width -}}
-        {{- $spec := printf "resize %dx webp q%d %s" . $quality $hint -}}
-        {{- $variants = $variants | append ($image.Process $spec) -}}
-      {{- end -}}
-    {{- end -}}
-
-    {{- if eq (len $variants) 0 -}}
-      {{- $spec := printf "resize %dx webp q%d %s" $image.Width $quality $hint -}}
+  {{- $variants := slice -}}
+  {{- range $widths -}}
+    {{- if le . $image.Width -}}
+      {{- $spec := printf "resize %dx webp q%d %s" . $quality $hint -}}
       {{- $variants = $variants | append ($image.Process $spec) -}}
     {{- end -}}
-
-    {{- $srcsetParts := slice -}}
-    {{- range $variants -}}
-      {{- $srcsetParts = $srcsetParts | append (printf "%s %dw" .RelPermalink .Width) -}}
-    {{- end -}}
-
-    {{- $fallback := index $variants (sub (len $variants) 1) -}}
-    {{- $full := $fallback.RelPermalink -}}
-    {{- if gt $fullWidth 0 -}}
-      {{- $targetWidth := $fullWidth -}}
-      {{- if lt $image.Width $targetWidth -}}
-        {{- $targetWidth = $image.Width -}}
-      {{- end -}}
-      {{- $fullSpec := printf "resize %dx webp q84 %s" $targetWidth $hint -}}
-      {{- $full = ($image.Process $fullSpec).RelPermalink -}}
-    {{- end -}}
-
-    {{- $result = dict
-      "src" $fallback.RelPermalink
-      "srcset" (delimit $srcsetParts ", ")
-      "width" $fallback.Width
-      "height" $fallback.Height
-      "full" $full
-      "thumb" (index $variants 0).RelPermalink
-    -}}
-  {{- else -}}
-    {{- $result = dict "src" .RelPermalink "srcset" "" "width" .Width "height" .Height "full" .RelPermalink "thumb" .RelPermalink -}}
   {{- end -}}
+
+  {{- if eq (len $variants) 0 -}}
+    {{- $spec := printf "resize %dx webp q%d %s" $image.Width $quality $hint -}}
+    {{- $variants = $variants | append ($image.Process $spec) -}}
+  {{- end -}}
+
+  {{- $srcsetParts := slice -}}
+  {{- range $variants -}}
+    {{- $srcsetParts = $srcsetParts | append (printf "%s %dw" .RelPermalink .Width) -}}
+  {{- end -}}
+
+  {{- $fallback := index $variants (sub (len $variants) 1) -}}
+  {{- $full := $fallback.RelPermalink -}}
+  {{- if gt $fullWidth 0 -}}
+    {{- $targetWidth := $fullWidth -}}
+    {{- if lt $image.Width $targetWidth -}}
+      {{- $targetWidth = $image.Width -}}
+    {{- end -}}
+    {{- $fullSpec := printf "resize %dx webp q84 %s" $targetWidth $hint -}}
+    {{- $full = ($image.Process $fullSpec).RelPermalink -}}
+  {{- end -}}
+
+  {{- $result = dict
+    "src" $fallback.RelPermalink
+    "srcset" (delimit $srcsetParts ", ")
+    "width" $fallback.Width
+    "height" $fallback.Height
+    "full" $full
+    "thumb" (index $variants 0).RelPermalink
+  -}}
 {{- end -}}
 
 {{- return $result -}}

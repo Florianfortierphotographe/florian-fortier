@@ -11,7 +11,7 @@
       {{- end }}
       {{- if .IsTranslated }}
         {{- range .AllTranslations }}
-      <xhtml:link rel="alternate" hreflang="{{ .Language.Locale }}" href="{{ .Permalink }}" />
+      <xhtml:link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" />
         {{- end }}
       {{- end }}
     </url>
