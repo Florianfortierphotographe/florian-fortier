@@ -160,7 +160,8 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&display=swap">
 </noscript>
 
-  <link rel="stylesheet" href="/css/main.css">
+{{ $mainCSS := resources.Get "css/main.css" | resources.Minify | resources.Fingerprint }}
+  <link rel="stylesheet" href="{{ $mainCSS.RelPermalink }}" integrity="{{ $mainCSS.Data.Integrity }}" crossorigin="anonymous">
 
 <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
 <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
@@ -179,7 +180,8 @@
 
   {{ partial "footer.html" . }}
 
-  <script src="/js/main.js"></script>
+{{ $mainJS := resources.Get "js/main.js" | resources.Minify | resources.Fingerprint }}
+  <script src="{{ $mainJS.RelPermalink }}" integrity="{{ $mainJS.Data.Integrity }}" crossorigin="anonymous"></script>
 
   <div id="custom-cookie-banner" style="display: none;">
     <p id="custom-cookie-text">{{ if eq .Lang "fr" }}Ce site utilise des cookies pour vous garantir la meilleure expérience.{{ else }}This website uses cookies to ensure you get the best experience.{{ end }}</p>

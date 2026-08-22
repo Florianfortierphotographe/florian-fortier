@@ -3,7 +3,14 @@
 {{ define "main" }}
 <article class="blog-article-page">
   <div class="blog-article-hero">
-    <img src="{{ .Params.image }}" alt="{{ .Title }}" loading="lazy">
+    {{ partial "responsive-image.html" (dict
+      "src" .Params.image
+      "alt" (.Params.image_alt | default .Title)
+      "widths" (slice 480 768 1200 1600 1920)
+      "sizes" "100vw"
+      "loading" "eager"
+      "fetchpriority" "high"
+    ) }}
     <div class="blog-article-hero-overlay">
       <h1>{{ .Title }}</h1>
     </div>

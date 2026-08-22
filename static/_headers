@@ -1,0 +1,7 @@
+# CSS and JavaScript are fingerprinted by Hugo, so their URLs change whenever
+# their contents change and can safely stay in the browser cache for one year.
+/css/*
+  Cache-Control: public, max-age=31556952, immutable
+
+/js/*
+  Cache-Control: public, max-age=31556952, immutable

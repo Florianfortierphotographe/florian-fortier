@@ -2,10 +2,22 @@
 
 {{ define "main" }}
 <section class="blog-list-section">
+  <header class="blog-list-header">
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.description }}<p>{{ . }}</p>{{ end }}
+  </header>
+
+  {{ $paginator := .Paginate .Pages 12 }}
   <div class="blog-list-grid">
-    {{ range .Pages }}
-    <a href="{{ .Permalink }}" class="blog-list-card">
-      <img src="{{ .Params.image }}" alt="{{ .Title }}" loading="lazy">
+    {{ range $paginator.Pages }}
+    <a href="{{ .RelPermalink }}" class="blog-list-card">
+      {{ partial "responsive-image.html" (dict
+        "src" .Params.image
+        "alt" (.Params.image_alt | default .Title)
+        "widths" (slice 360 720 1080)
+        "sizes" "(max-width: 768px) 100vw, 33vw"
+        "loading" "lazy"
+      ) }}
       <div class="blog-list-overlay">
         <h2>{{ .Title }}</h2>
         <p>{{ .Params.description }}</p>
@@ -13,5 +25,25 @@
     </a>
     {{ end }}
   </div>
+
+  {{ if gt $paginator.TotalPages 1 }}
+  <nav class="blog-pagination" aria-label="{{ if eq .Lang "fr" }}Pagination du blog{{ else }}Blog pagination{{ end }}">
+    {{ with $paginator.Prev }}
+      <a class="blog-pagination-link" href="{{ .URL }}" rel="prev">{{ if eq $.Lang "fr" }}← Articles récents{{ else }}← Newer posts{{ end }}</a>
+    {{ else }}
+      <span class="blog-pagination-placeholder" aria-hidden="true"></span>
+    {{ end }}
+
+    <span class="blog-pagination-status">
+      {{ if eq .Lang "fr" }}Page{{ else }}Page{{ end }} {{ $paginator.PageNumber }} / {{ $paginator.TotalPages }}
+    </span>
+
+    {{ with $paginator.Next }}
+      <a class="blog-pagination-link" href="{{ .URL }}" rel="next">{{ if eq $.Lang "fr" }}Articles précédents →{{ else }}Older posts →{{ end }}</a>
+    {{ else }}
+      <span class="blog-pagination-placeholder" aria-hidden="true"></span>
+    {{ end }}
+  </nav>
+  {{ end }}
 </section>
 {{ end }}

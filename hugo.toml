@@ -36,6 +36,13 @@ title = "Florian Fortier - Photographe d'architecture et immobilier"
 [sitemap]
   filename = "sitemap.xml"
 
+# Use static as the single image source while making its files available to
+# Hugo's asset pipeline for resizing, minification, and fingerprinting.
+[module]
+  [[module.mounts]]
+    source = "static"
+    target = "assets"
+
 [menus]
   # ---------------------------------------------------------------------------
   # MENU FRANÇAIS (Racine du site : florianfortier.com/)
