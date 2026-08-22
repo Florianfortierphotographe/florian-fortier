@@ -1548,24 +1548,16 @@ main {
   padding: 0;
 }
 
-.blog-list-header {
-  max-width: 900px;
-  margin: 0 auto;
-  padding: 3rem 2rem;
-  text-align: center;
-}
-
-.blog-list-header h1 {
-  margin-bottom: 1rem;
-  font-size: clamp(1.8rem, 3vw, 2.5rem);
-  font-weight: 300;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-}
-
-.blog-list-header p {
-  margin: 0 auto;
-  max-width: 720px;
+.visually-hidden {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0, 0, 0, 0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
 }
 
 .blog-list-grid {
@@ -1741,10 +1733,6 @@ main {
 @media (max-width: 768px) {
   .blog-list-section {
     margin-top: 70px;
-  }
-
-  .blog-list-header {
-    padding: 2.5rem 1.5rem;
   }
 
   .blog-article-page {

@@ -2,10 +2,7 @@
 
 {{ define "main" }}
 <section class="blog-list-section">
-  <header class="blog-list-header">
-    <h1>{{ .Title }}</h1>
-    {{ with .Params.description }}<p>{{ . }}</p>{{ end }}
-  </header>
+  <h1 class="visually-hidden">{{ .Title }}</h1>
 
   {{ $paginator := .Paginate .Pages 12 }}
   <div class="blog-list-grid">
