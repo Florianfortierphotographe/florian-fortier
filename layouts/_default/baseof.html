@@ -35,11 +35,24 @@
     {{ $ogImage = "images/hero-1.WEBP" | absURL }}
   {{ end }}
 
+  {{/* Google may use these signals to select the preferred preview image. */}}
+  {{ $hasPreferredImage := and (or .IsHome (eq .Section "portfolio")) (ne $ogImage "") }}
+  {{ $primaryImageCaption := $pageTitle }}
+  {{ if .IsHome }}
+    {{ with .Params.hero_image_1_alt }}
+      {{ $primaryImageCaption = . }}
+    {{ end }}
+  {{ else if eq .Section "portfolio" }}
+    {{ with .Params.hero_alt }}
+      {{ $primaryImageCaption = . }}
+    {{ end }}
+  {{ end }}
+
   <title>{{ $pageTitle }}</title>
 
   <meta name="description" content="{{ $pageDescription }}">
   <meta name="author" content="Florian Fortier">
-  <meta name="robots" content="index, follow">
+  <meta name="robots" content="index, follow{{ if $hasPreferredImage }}, max-image-preview:large{{ end }}">
 
   <link rel="canonical" href="{{ .Permalink }}">
 
@@ -57,11 +70,40 @@
   <meta property="og:locale" content="{{ $ogLocale }}">
   {{ if ne $ogImage "" }}
     <meta property="og:image" content="{{ $ogImage }}">
+    {{ if $hasPreferredImage }}
+      <meta property="og:image:alt" content="{{ $primaryImageCaption }}">
+    {{ end }}
   {{ end }}
 
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{{ $pageTitle }}">
   <meta name="twitter:description" content="{{ $pageDescription }}">
+
+  {{ if $hasPreferredImage }}
+    {{ $primaryImage := dict
+      "@type" "ImageObject"
+      "@id" (printf "%s#primaryimage" .Permalink)
+      "url" $ogImage
+      "contentUrl" $ogImage
+      "caption" $primaryImageCaption
+      "creator" (dict "@type" "Person" "name" "Florian Fortier" "url" .Site.BaseURL)
+      "creditText" "Florian Fortier"
+      "copyrightNotice" "Florian Fortier"
+    }}
+    {{ $webPageSchema := dict
+      "@context" "https://schema.org"
+      "@type" "WebPage"
+      "@id" (printf "%s#webpage" .Permalink)
+      "url" .Permalink
+      "name" $pageTitle
+      "description" $pageDescription
+      "inLanguage" .Lang
+      "primaryImageOfPage" $primaryImage
+    }}
+  <script type="application/ld+json">
+    {{ $webPageSchema | jsonify | safeJS }}
+  </script>
+  {{ end }}
 
   <script type="application/ld+json">
 {
