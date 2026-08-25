@@ -80,6 +80,12 @@
   <meta name="twitter:description" content="{{ $pageDescription }}">
 
   {{ if $hasPreferredImage }}
+    {{ $licenseURL := "conditions-generales/" | absURL }}
+    {{ $acquireLicenseURL := "contact/" | absURL }}
+    {{ if eq .Lang "en" }}
+      {{ $licenseURL = "en/terms/" | absURL }}
+      {{ $acquireLicenseURL = "en/contact/" | absURL }}
+    {{ end }}
     {{ $primaryImage := dict
       "@type" "ImageObject"
       "@id" (printf "%s#primaryimage" .Permalink)
@@ -89,6 +95,8 @@
       "creator" (dict "@type" "Person" "name" "Florian Fortier" "url" .Site.BaseURL)
       "creditText" "Florian Fortier"
       "copyrightNotice" "Florian Fortier"
+      "license" $licenseURL
+      "acquireLicensePage" $acquireLicenseURL
     }}
     {{ $webPageSchema := dict
       "@context" "https://schema.org"
